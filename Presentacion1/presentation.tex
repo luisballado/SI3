@@ -1,0 +1,50 @@
+% Auriga theme
+% https://github.com/anishathalye/auriga
+
+\documentclass[14pt,aspectratio=169]{beamer}
+\usepackage{pgfpages}
+\usepackage{fancyvrb}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+\ifnotes
+\setbeamertemplate{note page}[plain]
+\setbeameroption{show notes on second screen=right}
+\fi
+
+\usetheme{auriga}
+\usecolortheme{auriga}
+
+% define some colors for a consistent theme across slides
+\definecolor{red}{RGB}{181, 23, 0}
+\definecolor{blue}{RGB}{0, 118, 186}
+\definecolor{gray}{RGB}{146, 146, 146}
+
+\title{\normalsize{Estrategias para la exploración coordinada multi-VANT}}
+
+\author{Luis Alberto Ballado Aradias \\\vspace{0.5cm}
+  \and Dr. José Gabriel Ramírez Torres \\
+  \and Dr. Eduardo Arturo Rodríguez Tello}
+
+\institute[shortinst]{CINVESTAV - UNIDAD TAMAULIPAS}
+
+\begin{document}
+
+{
+  % rather than use the frame options [noframenumbering,plain], we make the
+  % color match, so that the indicated page numbers match PDF page numbers
+  \setbeamercolor{page number in head/foot}{fg=background canvas.bg}
+  \begin{frame}
+    \titlepage
+  \end{frame}
+}
+
+\input{slides/antecedentes}%antecedentes
+\input{slides/motivaciones}%motivaciones
+\input{slides/planteamiento_problema}%planteamiento problema
+\input{slides/hipotesis}%hipotesis
+\input{slides/preguntas_investigacion}%preguntas investigacion
+\input{slides/objetivos_generales_particulares}%objetivos generales y particulares
+\input{slides/enfoque_propuesto}%enfoque propuesto
+
+\end{document}
