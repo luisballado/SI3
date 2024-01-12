@@ -651,9 +651,6 @@ INPUT ./slides/hipotesis.tex
 INPUT ./slides/hipotesis.tex
 INPUT ./slides/preguntas_investigacion.tex
 INPUT ./slides/preguntas_investigacion.tex
-OUTPUT p.vrb
-INPUT ./p.vrb
-INPUT ./p.vrb
 INPUT ./slides/objetivos_generales_particulares.tex
 INPUT ./slides/objetivos_generales_particulares.tex
 INPUT ./slides/enfoque_propuesto.tex
@@ -663,6 +660,4 @@ OUTPUT p.toc
 OUTPUT p.snm
 INPUT ./p.aux
 INPUT ./p.out
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
-INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
