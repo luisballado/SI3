@@ -620,8 +620,8 @@
 \end{frame}
 
 %Explicar con el cronograma
-\section{Enfoque propuesto}
-\begin{frame}{Enfoque propuesto}
+\section{Materiales y métodos}
+\begin{frame}{Materiales}
 %\small Siguiendo los objetivos anteriores, la metodolog\'{i}a propuesta se divide en tres etapas, que comenzaron en septiembre del 2023 y terminarán en agosto de 2024. A continuaci\'{o}n se detallan cada una de las actividades que se plantean realizar en cada etapa.
 
 %\small \textbf{Etapa 1. An\'{a}lisis y dise\~{n}o de la soluci\'{o}n propuesta}\\
@@ -631,11 +631,73 @@
 %\small Esta etapa se centra en el desarrollo e implementaci\'{o}n del dise\~{n}o de la arquitectura de software para la coordinaci\'{o}n multi-VANT, utilizando una herramienta de simulación de robots de libre acceso, cumpliendo estándares de modularidad de diseño.\\
 %\bigskip
 %\small \textbf{Etapa 3. Evaluaci\'{o}n experimental, resultados y conclusiones}\\
-%\small Partiendo del prototipo y las simulaciones desarrolladas en la etapa anterior, en esta etapa se realizan todas las actividades relacionadas con la evaluación, compilación y análisis de los resultados.
+  %\small Partiendo del prototipo y las simulaciones desarrolladas en la etapa anterior, en esta etapa se realizan todas las actividades relacionadas con la evaluación, compilación y análisis de los resultados.
 
-    
+  \centering
+  \includegraphics[width=8cm]{drone_taxo}
+  \bigskip % Vertical whitespace
+  \begin{itemize}
+  \item \textbf{1.- Percepción -} Incluyen cámaras de profundidad, sensores tipo LiDAR, entre otros. Permiten al VANT recopilar información sobre su entorno.
+  \item \textbf{2.- Control -} Computadora a bordo, contiene el poder computacional para la toma de decisiones autónomas basada en la información recopilada por los sensores.
+  \item \textbf{3.- Propulsión -} Motores y hélices que proporcionan la fuerza necesaria para el vuelo. Su configuración varia según el tipo de desplazamiento.
+  \end{itemize}
+  
+\end{frame}
+
+\begin{frame}
+
+  \textbf{Robot Operating System (ROS)}\\
+  \bigskip % Vertical whitespace
+  \begin{itemize}
+  \item Provee un conjunto de herramientas usadas por un robot (Sensores, actuadores, implementación diversos algoritmos)
+  \item Framework de comunicación que permite interconectar las diferentes piezas del cerebro para hablar con otras lecturas de sensores.
+  \end{itemize}
+  \bigskip % Vertical whitespace
+  En resumen ROS ayuda en descomponer software complejos en pequeñas piezas más manejables.
+  
+\end{frame}
+
+\begin{frame}
+  \begin{figure}
+    \centering
+    \includegraphics[width=0.75\textwidth]{ros_1}
+  \end{figure}
+\end{frame}
+
+\begin{frame}
+  \textbf{Simulador -  ROS Visualization (RVIZ)}
+  \begin{figure}
+    \centering
+    \includegraphics[width=0.57\textwidth]{visual}
+  \end{figure}
+\end{frame}
+
+
+\begin{frame}{Método}
+  \textbf{Exploración}\\
+  \bigskip % Vertical whitespace
+  Exploración es una tarea fundamental en robots autónomos. El objetivo es crear un mapa de un ambiente desconocido.\\
+  \bigskip % Vertical whitespace
+  \centering
+  \includegraphics[width=6cm]{exploracion}\\
+  
+  \begin{itemize}
+  \item \textbf{Sensar} 
+  \item \textbf{Creación Mapa} 
+  \item \textbf{Localización en Mapa}
+  \item \textbf{Exploración} Aumentar la base de conocimiento del Mapa
+  \item \textbf{Planificación trayectoria} Trayectorias hacia nuevas fronteras 
+  \item \textbf{Control} Ejecución de toma de decisiones y ejecución de trayectorias 
+  \end{itemize}
+
+  \pause \alert{El ciclo se repite hasta completar la exploración}
+  
+\end{frame}
+
+\begin{frame}
+  
   \begin{minipage}{0.47\textwidth}
-    
+    \textbf{Estrategia}
     \begin{itemize}
       %\item Exploración con algoritmos de baja complejidad computacional.
     \item \small Probabilistic Road-Map (Método a base de muestreos) \footnote{Survey of UAV motion planning [\cite{Quan2020}]}  
@@ -655,9 +717,9 @@
   
 \end{frame}
 
-\begin{frame}{Estrategia \footnote{Estrategia descentralizada para la exploración multi-robot, incluyendo restricciones en rango de comunicación [\cite{LEAL2013}]}}
+\begin{frame}
 
-  
+  \textbf{Estrategia} \footnote{Estrategia descentralizada para la exploración multi-robot, incluyendo restricciones en rango de comunicación [\cite{LEAL2013}]}\\
   
   \begin{minipage}{0.67\textwidth}
     \begin{itemize}
@@ -675,38 +737,11 @@
   
 \end{frame}
 
-\begin{frame}{Arquitectura}
+\begin{frame}
+  \textbf{Arquitectura}
   \begin{figure}
     \centering
     \includegraphics[width=15cm]{arquitectura}
-  \end{figure}
-\end{frame}
-
-\begin{frame}{Robot Operating System (ROS)}
-
-
-  \textbf{¿Qué es ROS?}\\
-  \bigskip % Vertical whitespace
-  \begin{itemize}
-  \item Provee un conjunto de herramientas usadas por un robot (Sensores, actuadores, implementación diversos algoritmos)
-  \item Framework de comunicación que permite interconectar las diferentes piezas del cerebro para hablar con otras lecturas de sensores.
-  \end{itemize}
-  \bigskip % Vertical whitespace
-  En resumen ROS ayuda en descomponer software complejos en pequeñas piezas más manejables.
-  
-\end{frame}
-
-\begin{frame}
-  \begin{figure}
-    \centering
-    \includegraphics[width=0.75\textwidth]{ros_1}
-  \end{figure}
-\end{frame}
-
-\begin{frame}{Simulador -  ROS Visualization (RVIZ) }
-  \begin{figure}
-    \centering
-    \includegraphics[width=0.57\textwidth]{visual}
   \end{figure}
 \end{frame}
 
@@ -733,7 +768,8 @@
   
 \end{frame}
 
-\begin{frame}{Superficies a explorar}
+\begin{frame}
+  \textbf{Superficies a explorar}
   \begin{figure}
     \centering
     \includegraphics[width=0.75\textwidth]{pruebas}

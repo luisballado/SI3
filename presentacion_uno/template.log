@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.11)  15 JAN 2024 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.11)  16 JAN 2024 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1648,88 +1648,109 @@ LaTeX Info: Redefining \% on input line 1.
 ) [19
 
 ]
-LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 656.
-<Images//maxresdefault.jpg, id=220, 1284.8pt x 722.7pt>
-File: Images//maxresdefault.jpg Graphic file (type jpg)
-<use Images//maxresdefault.jpg>
-Package pdftex.def Info: Images//maxresdefault.jpg  used on input line 656.
-(pdftex.def)             Requested size: 216.67201pt x 121.87592pt.
+<Images//drone_taxo.png, id=217, 620.3175pt x 320.19624pt>
+File: Images//drone_taxo.png Graphic file (type png)
+<use Images//drone_taxo.png>
+Package pdftex.def Info: Images//drone_taxo.png  used on input line 645.
+(pdftex.def)             Requested size: 227.62204pt x 117.49359pt.
 
-Overfull \hbox (4.27783pt too wide) in paragraph at lines 656--656
-[][]$[]$ 
+Overfull \vbox (0.4016pt too high) detected at line 645
  []
 
 [20
 
- <./Images//maxresdefault.jpg>]
-<Images//estrategia.png, id=232, 151.56625pt x 302.12875pt>
-File: Images//estrategia.png Graphic file (type png)
-<use Images//estrategia.png>
-Package pdftex.def Info: Images//estrategia.png  used on input line 676.
-(pdftex.def)             Requested size: 86.66748pt x 172.76378pt.
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 676.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 676.
-LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 13.67995pt on input line 676.
- [21
-
- <./Images//estrategia.png>]
-<Images//arquitectura.png, id=241, 879.285pt x 462.72874pt>
-File: Images//arquitectura.png Graphic file (type png)
-<use Images//arquitectura.png>
-Package pdftex.def Info: Images//arquitectura.png  used on input line 683.
-(pdftex.def)             Requested size: 426.79134pt x 224.59969pt.
-
-Overfull \vbox (8.67746pt too high) detected at line 683
- []
-
-[22
-
- <./Images//arquitectura.png>] [23
+ <./Images//drone_taxo.png>] [21
 
 ]
-<Images//ros_1.png, id=255, 1606.0pt x 903.375pt>
+<Images//ros_1.png, id=231, 1606.0pt x 903.375pt>
 File: Images//ros_1.png Graphic file (type png)
 <use Images//ros_1.png>
-Package pdftex.def Info: Images//ros_1.png  used on input line 704.
+Package pdftex.def Info: Images//ros_1.png  used on input line 665.
 (pdftex.def)             Requested size: 325.00801pt x 182.80838pt.
- [24
+ [22
 
  <./Images//ros_1.png>]
-<Images//visual.png, id=262, 622.325pt x 542.025pt>
+<Images//visual.png, id=238, 622.325pt x 542.025pt>
 File: Images//visual.png Graphic file (type png)
 <use Images//visual.png>
-Package pdftex.def Info: Images//visual.png  used on input line 711.
+Package pdftex.def Info: Images//visual.png  used on input line 673.
 (pdftex.def)             Requested size: 247.00926pt x 215.13548pt.
+ [23
+
+ <./Images//visual.png>]
+<Images//exploracion.png, id=246, 618.31pt x 211.79124pt>
+File: Images//exploracion.png Graphic file (type png)
+<use Images//exploracion.png>
+Package pdftex.def Info: Images//exploracion.png  used on input line 695.
+(pdftex.def)             Requested size: 170.71652pt x 58.47383pt.
+ [24
+
+ <./Images//exploracion.png>]
+File: Images//exploracion.png Graphic file (type png)
+<use Images//exploracion.png>
+Package pdftex.def Info: Images//exploracion.png  used on input line 695.
+(pdftex.def)             Requested size: 170.71652pt x 58.47383pt.
  [25
 
- <./Images//visual.png>] [26
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 718.
+<Images//maxresdefault.jpg, id=264, 1284.8pt x 722.7pt>
+File: Images//maxresdefault.jpg Graphic file (type jpg)
+<use Images//maxresdefault.jpg>
+Package pdftex.def Info: Images//maxresdefault.jpg  used on input line 718.
+(pdftex.def)             Requested size: 216.67201pt x 121.87592pt.
+
+Overfull \hbox (4.27783pt too wide) in paragraph at lines 718--718
+[][]$[]$ 
+ []
+
+[26
+
+ <./Images//maxresdefault.jpg>]
+<Images//estrategia.png, id=277, 151.56625pt x 302.12875pt>
+File: Images//estrategia.png Graphic file (type png)
+<use Images//estrategia.png>
+Package pdftex.def Info: Images//estrategia.png  used on input line 738.
+(pdftex.def)             Requested size: 86.66748pt x 172.76378pt.
+ [27
+
+ <./Images//estrategia.png>]
+<Images//arquitectura.png, id=285, 879.285pt x 462.72874pt>
+File: Images//arquitectura.png Graphic file (type png)
+<use Images//arquitectura.png>
+Package pdftex.def Info: Images//arquitectura.png  used on input line 746.
+(pdftex.def)             Requested size: 426.79134pt x 224.59969pt.
+
+Overfull \vbox (4.17017pt too high) detected at line 746
+ []
+
+[28
+
+ <./Images//arquitectura.png>] [29
 
 ]
-<Images//pruebas.png, id=279, 1165.35374pt x 686.565pt>
+<Images//pruebas.png, id=302, 1165.35374pt x 686.565pt>
 File: Images//pruebas.png Graphic file (type png)
 <use Images//pruebas.png>
-Package pdftex.def Info: Images//pruebas.png  used on input line 741.
+Package pdftex.def Info: Images//pruebas.png  used on input line 777.
 (pdftex.def)             Requested size: 325.00801pt x 191.47212pt.
- [27
+ [30
 
  <./Images//pruebas.png>]
 LaTeX Font Info:    Trying to load font information for TS1+opensans-TLF on inp
-ut line 753.
+ut line 789.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/opensans/TS1opensans-TLF.fd
 File: TS1opensans-TLF.fd 2019/06/24 Font definitions for TS1/opensans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/opensans-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 753.
+(Font)              scaled to size 10.95pt on input line 789.
 
-[28
+[31
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/opensans/a_nvvucy.enc}]
-[29
+[32
 
 ] (./template.bbl
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
@@ -1737,7 +1758,7 @@ LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)) [30
+)) [33
 
 ]
 \tf@nav=\write6
@@ -1755,14 +1776,14 @@ LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
 )
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 7DDD4B1AE1CA7BF572726C1323F318EB;995.
+(rerunfilecheck)             Checksum: 05146E2968B086188CD2756E1EF8E2C3;1016.
  ) 
 Here is how much of TeX's memory you used:
- 34066 strings out of 476025
- 678167 string characters out of 5790017
+ 34093 strings out of 476025
+ 678817 string characters out of 5790017
  1873388 words of memory out of 5000000
- 53668 multiletter control sequences out of 15000+600000
- 545564 words of font info for 123 fonts, out of 8000000 for 9000
+ 53691 multiletter control sequences out of 15000+600000
+ 542735 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,11n,131p,739b,901s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Bo
@@ -1775,10 +1796,10 @@ onts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/u
 crr8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></u
 sr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on template.pdf (30 pages, 3507539 bytes).
+Output written on template.pdf (33 pages, 3728418 bytes).
 PDF statistics:
- 390 PDF objects out of 1000 (max. 8388607)
- 306 compressed objects within 4 object streams
- 80 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 414 PDF objects out of 1000 (max. 8388607)
+ 323 compressed objects within 4 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
