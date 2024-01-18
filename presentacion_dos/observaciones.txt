@@ -1,0 +1,21 @@
+-----------------------------------------------
+- Poner nombre asesores
+- La formulacion del problema no engloba todo
+- Hablar de centralizado - descentralizado
+- Enfocarse a ese mecanismo de coordinación
+- Tener un hilo conductor
+-----------------------------------------------
+- Mencionar bien el plantamiento del problema
+- Identificar comparaciones -- Que tanto se aproxima a mapear el ambiente real?
+- Minimizar tiempo
+- Maximizar el conocimiento del mapa
+-----------------------------------------------
+- Linea conductora desde el planteamiento del problema hasta objetivos
+-----------------------------------------------
+- Contribuir al estado del arte
+-----------------------------------------------
+- Acotar lo de exploración
+- (( Enfocar que para llegar hacer exploracion se necesitan estos elementos ))
+-----------------------------------------------
+- Abordar los términos tecnicos
+- 
