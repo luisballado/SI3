@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Resumen}{2}{0}{1}
+\beamer@sectionintoc {2}{Robot Autónomo}{4}{0}{2}
+\beamer@sectionintoc {3}{Exploración}{17}{0}{3}
+\beamer@sectionintoc {4}{Coordinación multi-VANT}{30}{0}{4}
+\beamer@sectionintoc {5}{Simulación}{32}{0}{5}
