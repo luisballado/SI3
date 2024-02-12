@@ -305,9 +305,9 @@
   \includegraphics[width=8cm]{drone_taxo}
   \bigskip % Vertical whitespace
   \begin{itemize}
-  \item \textbf{1.- Percepción -} Incluyen cámaras de profundidad, sensores tipo LiDAR, entre otros. Permiten al VANT recopilar información sobre su entorno.
-  \item \textbf{2.- Control -} Computadora a bordo, contiene el poder computacional para la toma de decisiones autónomas basada en la información recopilada por los sensores.
-  \item \textbf{3.- Propulsión -} Motores y hélices que proporcionan la fuerza necesaria para el vuelo.
+  \item \textbf{1.- \underline{Percepción -}} Incluyen cámaras de profundidad, sensores tipo LiDAR, entre otros. Permiten al VANT recopilar información sobre su entorno.
+  \item \textbf{2.- \underline{Control -}} Computadora a bordo, contiene el poder computacional para la toma de decisiones autónomas basada en la información recopilada por los sensores.
+  \item \textbf{3.- \underline{Propulsión -}} Motores y hélices que proporcionan la fuerza necesaria para el vuelo.
   \end{itemize}
 \end{frame}
 
@@ -316,29 +316,39 @@
   Principales preguntas que un robot autónomo debe responder \footnotemark
   \bigskip % Vertical whitespace
   \begin{itemize}
-  \item ¿Dónde estoy? $\implies$ Localización y representación del medio ambiente \pause 
-  \item ¿A dónde voy? $\implies$ Control \pause  %Cognición
-  \item ¿Cómo llego hasta ahí? $\implies$ Planificación de trayectoria 
+  \item \textcolor{blue}{¿Dónde estoy?} $\implies$ Localización y representación del medio ambiente (\textbf{SLAM} - Simultaneous Localization and Mapping) \pause 
+  \item \textcolor{blue}{¿A dónde voy?} $\implies$ Toma de decisiones \pause  %Cognición
+  \item \textcolor{blue}{¿Cómo llego hasta ahí?} $\implies$ Planificación de trayectoria 
   \end{itemize}
   \pause
   \bigskip % Vertical whitespace
-  Para resolver estas preguntas, el robot debe: \pause 
-  \bigskip % Vertical whitespace
-  \begin{itemize}
-  \item Tener un modelo del ambiente (dado, o autónomamente construido) \pause 
-  \item Localizarse dentro del ambiente \pause 
-  \item Planear y ejecutar los movimientos
-  \end{itemize}
 
-  \footnotetext{Visual map making for a mobile robot [\cite{1087348}]}
-  
+  \begin{minipage}{0.47\textwidth}
+    Para resolver estas preguntas,\\
+    el robot debe: 
+    
+    \begin{itemize}
+    \item Tener un modelo del ambiente (dado, o autónomamente construido)
+    \item Localizarse dentro del ambiente
+    \item Planear y ejecutar los movimientos
+    \end{itemize}
+    
+    \footnotetext{Visual map making for a mobile robot [\cite{1087348}]}
+  \end{minipage}
+  \hspace{0.2cm}
+  \begin{minipage}{0.5\textwidth}
+    \centering
+    \animategraphics[loop,width=9cm]{10}{video-}{0}{46}
+    \rule{0in}{1.2em}$^\dag$\scriptsize Foldable drone could aid search and rescue missions.\\
+    \tiny \url{https://www.therobotreport.com/foldable-drone-could-aid-search-and-rescue-missions/} 
+  \end{minipage}
 \end{frame}
 
 \begin{frame}{Localización - ¿Dónde estoy?}
 
   Problema de Localización y Mapeo Simultáneos  \footnote{Simultaneous localization and mapping: part I [\cite{slam_doc}]}
   \bigskip % Vertical whitespace
-  \begin{itemize}
+  \begin{itemize} 
     \item \textcolor{blue}{VER}: El Robot utiliza la lectura de sus sensores para encontrarse a el mismo.
       \bigskip % Vertical whitespace
     \item \textcolor{red}{ACTUAR}: El Robot, se mueve hacia adelante
@@ -355,7 +365,11 @@
   
 \end{frame}
 
-\begin{frame}{Control - ¿A dónde voy?}
+\begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
+
+\end{frame}
+
+\begin{frame}{Toma de decisiones - ¿A dónde voy?}
   
   %\centering
   \begin{figure}[h]
