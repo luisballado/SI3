@@ -307,8 +307,29 @@
   \begin{itemize}
   \item \textbf{1.- \underline{Percepción -}} Incluyen cámaras de profundidad, sensores tipo LiDAR, entre otros. Permiten al VANT recopilar información sobre su entorno.
   \item \textbf{2.- \underline{Control -}} Computadora a bordo, contiene el poder computacional para la toma de decisiones autónomas basada en la información recopilada por los sensores.
-  \item \textbf{3.- \underline{Propulsión -}} Motores y hélices que proporcionan la fuerza necesaria para el vuelo.
+  \item \textbf{3.- \underline{Actuadores -}} Motores y hélices que proporcionan la fuerza necesaria para el vuelo.
   \end{itemize}
+\end{frame}
+
+\begin{frame}{Control de un VANT}
+
+  \begin{minipage}{0.47\textwidth}
+    
+    \small UN blah blah ...
+    
+    \begin{itemize}
+    \item item
+    \item item
+    \item item
+    \item item
+    \end{itemize}
+  \end{minipage}
+  \hspace{0.2cm}
+  \begin{minipage}{0.5\textwidth}
+    \centering
+    \includegraphics[width=4cm]{uav_model.jpeg}
+    \bigskip % Vertical whitespace
+  \end{minipage}
 \end{frame}
 
 \begin{frame}  
@@ -316,7 +337,7 @@
   Principales preguntas que un robot autónomo debe responder \footnotemark
   \bigskip % Vertical whitespace
   \begin{itemize}
-  \item \textcolor{blue}{¿Dónde estoy?} $\implies$ Localización y representación del medio ambiente (\textbf{SLAM} - Simultaneous Localization and Mapping) \pause 
+  \item \textcolor{blue}{¿Dónde estoy?} $\implies$ Localización y representación del medio ambiente \pause 
   \item \textcolor{blue}{¿A dónde voy?} $\implies$ Toma de decisiones \pause  %Cognición
   \item \textcolor{blue}{¿Cómo llego hasta ahí?} $\implies$ Planificación de trayectoria 
   \end{itemize}
@@ -338,7 +359,7 @@
   \hspace{0.2cm}
   \begin{minipage}{0.5\textwidth}
     \centering
-    \animategraphics[loop,width=9cm]{10}{video-}{0}{46}
+    \animategraphics[loop,width=8cm]{10}{video-}{0}{46}
     \rule{0in}{1.2em}$^\dag$\scriptsize Foldable drone could aid search and rescue missions.\\
     \tiny \url{https://www.therobotreport.com/foldable-drone-could-aid-search-and-rescue-missions/} 
   \end{minipage}
@@ -365,12 +386,57 @@
   
 \end{frame}
 
-\begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
+\begin{frame}{Localización - ¿Dónde estoy?}
+Explicar SLAM aquí ...
+\end{frame}
 
+\begin{frame}{Generación de mapas}
+  \bigskip % Vertical whitespace
+  \centering
+  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d.jpg}$^\dag$
+  \hfil
+  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d_2}$^\dag$
+  \vspace{2pt}\\
+  \bigskip % Vertical whitespace
+  Es la construcción de un mapa del entorno, realizada por un robot, utilizando información espacial obtenida durante el paso del tiempo. [\citeauthor{Wallgrn2010} 2010]\\
+  \bigskip % Vertical whitespace
+  Fuentes de información:
+  \begin{itemize}
+  \item Escáners láser tipo LIDAR.
+  \item Cámaras RGBD.
+  \end{itemize}  
+
+  %\includegraphics[width=0.45\textwidth,height=0.35\textheight]{DJI_B5}$^\dag$ 
+  %\hfil
+  %\includegraphics[width=0.45\textwidth,height=0.35\textheight]{DJI_B4}$^\dag$\\
+  %\rule{0in}{1.2em}$^\dag$ \small Inspecciones con VANT basadas en los mejores casos de uso\\
+  %\tiny \url{https://enterprise-insights.dji.com/blog/complete-guide-to-drone-inspections}
+\end{frame}
+
+\begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
+  \bigskip % Vertical whitespace
+  \centering
+  \includegraphics[width=1\textwidth,height=0.35\textheight]{img4}\footnotemark
+  \vspace{2pt}\\
+  \bigskip % Vertical whitespace
+  
+  \begin{itemize}
+  \item Nube de puntos.
+  \item Mapa de elevación.
+  \item Superficies multi-nivel.
+  \item Octrees.
+  \end{itemize}
+  \footnotetext{OctoMap: An Efficient Probabilistic 3D Mapping Framework Based on Octrees [\cite{hornung13auro}]}
+  
+\end{frame}
+
+\begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
+  
+  Explicar Voxel, Octomap ...
+  
 \end{frame}
 
 \begin{frame}{Toma de decisiones - ¿A dónde voy?}
-  
   %\centering
   \begin{figure}[h]
     \includegraphics[width=0.65\textwidth]{control_drone.png}
@@ -395,9 +461,9 @@
   \end{minipage}
   \hspace{0.2cm}
   \begin{minipage}{0.5\textwidth}
-    \includegraphics[width=\textwidth]{control-scheme}$^\dag$\\
-    \rule{0in}{1.2em}$^\dag$\scriptsize Ciclo See-Think-Act \\
-    \tiny ETH - Note Class Autonomous mobile robot 2015 
+    \includegraphics[width=0.8\textwidth]{architecture.png}$^\dag$\\
+    \rule{0in}{1.2em}$^\dag$\scriptsize Ciclo Sense-Plan-Act \\
+    \tiny \cite{murphy2000} %https://cs.brown.edu/people/tdean/courses/cs148/02/architectures.html#Murphy
   \end{minipage}
 \end{frame}
 
@@ -424,6 +490,40 @@
   \begin{minipage}{0.4\textwidth}
     \includegraphics[width=0.6\textwidth]{img5}$^\dag$\\
   \end{minipage}
+\end{frame}
+
+\begin{frame}{Planificación de movimiento}
+  \bigskip % Vertical whitespace
+  \centering
+  \includegraphics[width=0.45\textwidth,height=0.30\textheight]{map3d.jpg}$^\dag$
+  \hfil
+  \includegraphics[width=0.45\textwidth,height=0.30\textheight]{map3d_2}$^\dag$
+  \vspace{1pt}\\
+  \bigskip % Vertical whitespace
+  Indica a un robot como moverse de un punto a otro en su entorno. Implica la generación de trayectorias y movimientos que permiten a los robots cumplir sus tareas o alcanzar sus objetivos mientras evitan obstáculos \footnotemark.\\
+  \bigskip % Vertical whitespace
+  \addvspace{\medskipamount}
+  \noindent
+  \begin{tabularx}{\linewidth}{ @{} X X @{} }
+    Por Grafos
+    
+    \begin{itemize}
+    \item Grafos de visibilidad. 
+    \item Diagramas de Voronoi.
+    \item Descomposición por celdas.
+    \item Consulta única (RRT)
+    \item Consulta múltiple (PRM)
+    \end{itemize} &
+
+    Algoritmos
+    
+    \begin{itemize}
+    \item BFS, DFS
+    \item A*, D*
+    \item Dijkstra
+    \end{itemize}
+  \end{tabularx}
+  \footnotetext{Different Cell Decomposition Path Planning Methods for Unmanned Air Vehicles A Review [\cite{Debnath2020}]}
 \end{frame}
 
 \section{Exploración}
@@ -458,11 +558,6 @@
 \end{frame}
 
 \begin{frame}
-  NBVP
-\end{frame}
-  
-\begin{frame}
-  
   \begin{minipage}{0.47\textwidth}
     \textbf{Estrategia}
     \begin{itemize}
@@ -546,81 +641,6 @@
 %    \includegraphics[width=\textwidth]{ultra.jpg}
 %  \end{minipage}
 %\end{frame}
-
-
-\begin{frame}{Generación de mapas}
-  \bigskip % Vertical whitespace
-  \centering
-  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d.jpg}$^\dag$
-  \hfil
-  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d_2}$^\dag$
-  \vspace{2pt}\\
-  \bigskip % Vertical whitespace
-  Es la construcción de un mapa del entorno, realizada por un robot, utilizando información espacial obtenida durante el paso del tiempo. [\citeauthor{Wallgrn2010} 2010]\\
-  \bigskip % Vertical whitespace
-  Fuentes de información:
-  \begin{itemize}
-  \item Escáners láser tipo LIDAR.
-  \item Cámaras RGBD.
-  \end{itemize}  
-
-  %\includegraphics[width=0.45\textwidth,height=0.35\textheight]{DJI_B5}$^\dag$ 
-  %\hfil
-  %\includegraphics[width=0.45\textwidth,height=0.35\textheight]{DJI_B4}$^\dag$\\
-  %\rule{0in}{1.2em}$^\dag$ \small Inspecciones con VANT basadas en los mejores casos de uso\\
-  %\tiny \url{https://enterprise-insights.dji.com/blog/complete-guide-to-drone-inspections}
-\end{frame}
-
-\begin{frame}{Representacion 3D}
-  \bigskip % Vertical whitespace
- \centering
-  \includegraphics[width=1\textwidth,height=0.35\textheight]{img4}\footnotemark
-  \vspace{2pt}\\
-  \bigskip % Vertical whitespace
-  
-  \begin{itemize}
-  \item Nube de puntos.
-  \item Mapa de elevación.
-  \item Superficies multi-nivel.
-  \item Octrees.
-  \end{itemize}
-  \footnotetext{OctoMap: An Efficient Probabilistic 3D Mapping Framework Based on Octrees [\cite{hornung13auro}]}
-  
-\end{frame}
-
-\begin{frame}{Planificación de movimiento}
-  
-  \centering
-  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d.jpg}$^\dag$
-  \hfil
-  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d_2}$^\dag$
-  \vspace{2pt}\\
-  \bigskip % Vertical whitespace
-  Indica a un robot como moverse de un punto a otro en su entorno. Implica la generación de trayectorias y movimientos que permiten a los robots cumplir sus tareas o alcanzar sus objetivos mientras evitan obstáculos \footnotemark.\\
-  \bigskip % Vertical whitespace
-  \addvspace{\medskipamount}
-  \noindent
-  \begin{tabularx}{\linewidth}{ @{} X X @{} }
-    Por Grafos
-    
-    \begin{itemize}
-    \item Grafos de visibilidad. 
-    \item Diagramas de Voronoi.
-    \item Descomposición por celdas.
-    \item Consulta única (RRT)
-    \item Consulta múltiple (PRM)
-    \end{itemize} &
-
-    Algoritmos
-    
-    \begin{itemize}
-    \item BFS, DFS
-    \item A*, D*
-    \item Dijkstra
-    \end{itemize}
-  \end{tabularx}
-  \footnotetext{Different Cell Decomposition Path Planning Methods for Unmanned Air Vehicles A Review [\cite{Debnath2020}]}
-\end{frame}
 
 \begin{frame}{Motivación del proyecto}
   \begin{minipage}{0.47\textwidth}

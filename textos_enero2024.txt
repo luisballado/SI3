@@ -1,0 +1,125 @@
+https://www.mdpi.com/1424-8220/22/21/8429
+
+Randomized Algorithm for Informative Path Planning with Budget Constraints
+https://www.ri.cmu.edu/app/uploads/2017/04/Arora-paper.pdf
+
+Randomized Algorithm for Informative Path Planning with Budget Constraints
+https://arxiv.org/pdf/1905.09988.pdf
+
+Informative Path Planning to Explore and Map Unknown Planetary Surfaces with Gaussian Processes
+https://ieeexplore.ieee.org/document/9843742
+
+Informed expansion for informative path planning via online distribution learning
+https://www.sciencedirect.com/science/article/pii/S092188902300088X?ref=pdf_download&fr=RR-2&rr=8425dc5c6a3a7c86
+
+OctoMap ROS2
+https://github.com/Taeyoung96/OctoMap-ROS2
+
+Visual-Inertial Odometry of Aerial Robots
+https://arxiv.org/pdf/1906.03289.pdf
+
+A Collaborative Jamming Algorithm Based on Multi-UAV Scheduling
+https://arxiv.org/abs/2311.18314
+
+Geometry-aware Compensation Scheme for Morphing Drones
+https://arxiv.org/pdf/2003.03929.pdf
+
+Campos finitos y teoría de Galois
+http://www.math.huji.ac.il/~jgutierrez/GaloisFinitos.pdf
+
+Mavswarm: A Lightweight Multi-Aerial Vehicle Simulator
+https://medium.com/@malintha/swarmsim2-a-lightweight-multi-uav-simulator-9adf2cdfb4d0
+https://github.com/malintha/multi_uav_simulator
+
+How to become a robotics software engineer
+https://www.blackcoffeerobotics.com/blog/how-to-become-a-robotics-software-engineer
+
+gym-pybullet-drones
+https://arxiv.org/pdf/2103.02142.pdf
+https://github.com/utiasDSL/gym-pybullet-drones
+https://github.com/utiasDSL/AMSwarm
+https://github.com/toritamantaro/pybullet-drone-self-study/blob/main/control/drone_ctrl.py
+
+Planning and Control for Quadrotor Flight through Cluttered Environments
+http://groups.csail.mit.edu/robotics-center/public_papers/Landry15
+
+Planning and Control for Quadrotor Flight through Cluttered Environments
+http://groups.csail.mit.edu/robotics-center/public_papers/Landry15
+
+Stable-Baselines3 Docs - Reliable Reinforcement Learning Implementations
+https://stable-baselines3.readthedocs.io/en/master/
+
+SOCIALGYM 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces
+https://arxiv.org/pdf/2303.05584.pdf
+
+Multi-Task Reinforcement Learning: From Single-Agent to Multi-Agent Systems
+https://vtechworks.lib.vt.edu/server/api/core/bitstreams/154cfde7-e421-43ea-8363-e96fc8a8fd4f/content
+
+multi-task-pybullet-drones
+https://github.com/trangml/multi-task-pybullet-drones
+
+Unmanned aerial vehicles using machine learning for autonomous flight; state-of-the-art
+https://www.tandfonline.com/doi/full/10.1080/01691864.2019.1586760
+
+Additive manufacturing in unmanned aerial vehicles (UAVs): Challenges and potential
+https://www.sciencedirect.com/science/article/pii/S127096381630503X
+
+Defining and Implementing Autonomy in Multi-Drone Systems
+https://www.intechopen.com/online-first/1158206
+
+Multi-constrained cooperative path planning of multiple drones for persistent surveillance in urban environments
+https://link.springer.com/article/10.1007/s40747-021-00300-5
+
+OmniDrones is an open-source platform designed for reinforcement learning research on multi-rotor drone systems.
+https://omnidrones.readthedocs.io/en/latest/index.html
+
+Learning Agile Flight Maneuvers: Deep SE(3) Motion Planning and Control for Quadrotors
+https://arxiv.org/pdf/2209.11097.pdf
+
+Exploring the Benefits of Reinforcement Learning for Autonomous Drone Navigation and Control
+https://www.researchgate.net/publication/369938654_Exploring_the_Benefits_of_Reinforcement_Learning_for_Autonomous_Drone_Navigation_and_Control
+
+Autonomous Drone Racing: A Survey
+https://rpg.ifi.uzh.ch/docs/arxiv23_hanover.pdf
+
+Decentralized Control of Quadrotor Swarms with End-to-end Deep Reinforcement Learning
+https://proceedings.mlr.press/v164/batra22a/batra22a.pdf
+
+Learning Agile Flight Maneuvers: Deep SE(3) Motion Planning and Control for Quadrotors
+https://arxiv.org/pdf/2209.11097.pdf
+
+Programming drones with Raspberry Pi on board easily
+https://www.hackster.io/korigod/programming-drones-with-raspberry-pi-on-board-easily-b2190e
+
+Revisar repo y proyectos
+https://github.com/jtorde
+https://github.com/utiasDSL
+
+MATLAB
+https://www.mathworks.com/help/symbolic/derive-quadrotor-dynamics-for-nonlinearMPC.html
+
+http://wiki.ros.org/roslaunch/Tutorials/Roslaunch%20tips%20for%20larger%20projects
+
+https://www.tamps.cinvestav.mx/~ertello/gc/sesion02.pdf
+
+Multi-agent pathfinding
+Problema de asignacion
+Se debe conocer la ubicacion de los drones en todo momento
+Se comparte su ubicacion y mapas
+
+https://www.youtube.com/watch?v=QFjtL8XTxlU
+
+https://elib.uni-stuttgart.de/bitstream/11682/9292/1/ausarbeitung.pdf
+
+RACER
+https://arxiv.org/pdf/2209.08533.pdf
+
+https://www.youtube.com/watch?v=MTk3qSRW6B0&t=8s
+
+https://www.lancaster.ac.uk/people/letchfoa/articles/cvrp-pseudopoly.pdf
+
+https://www.lancaster.ac.uk/people/letchfoa/articles/cvrp-pseudopoly.pdf
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196964
+
+Estoy leyendo la tesis de JCarlos y Leobardo Campos

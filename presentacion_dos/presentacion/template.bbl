@@ -1,4 +1,4 @@
-\begin{thebibliography}{15}
+\begin{thebibliography}{16}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -71,6 +71,12 @@ I.~Mir, F.~Gul, S.~Mir, M.~A. Khan, N.~Saeed, L.~Abualigah, B.~Abuhaija, and
 \newblock ISSN 2079-9292.
 \newblock \doi{10.3390/electronics11182801}.
 \newblock URL \url{http://dx.doi.org/10.3390/electronics11182801}.
+
+\bibitem[Murphy(2000)]{murphy2000}
+R.~R. Murphy.
+\newblock \emph{Introduction to AI Robotics}.
+\newblock MIT Press, Cambridge, MA, USA, 1st edition, 2000.
+\newblock ISBN 0262133830.
 
 \bibitem[Nex et~al.(2022)Nex, Armenakis, Cramer, Cucci, Gerke, Honkavaara,
   Kukko, Persello, and Skaloud]{Nex2022}
