@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.18)  13 FEB 2024 00:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.18)  13 FEB 2024 14:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1449,68 +1449,68 @@ LaTeX Info: Redefining \% on input line 1.
 ) [2
 
 ]
-<Images//DJI_B1.png, id=60, 1927.2pt x 828.09375pt>
+<Images//DJI_B1.png, id=66, 1927.2pt x 828.09375pt>
 File: Images//DJI_B1.png Graphic file (type png)
 <use Images//DJI_B1.png>
-Package pdftex.def Info: Images//DJI_B1.png  used on input line 298.
+Package pdftex.def Info: Images//DJI_B1.png  used on input line 299.
 (pdftex.def)             Requested size: 194.9956pt x 85.97314pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 298
+LaTeX Font Info:    Trying to load font information for U+msa on input line 299
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 298
+LaTeX Font Info:    Trying to load font information for U+msb on input line 299
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 2
-98.
+99.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 298.
+(Font)              scaled to size 10.40245pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 298.
+(Font)              scaled to size 7.59998pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 298.
+(Font)              scaled to size 5.69998pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10.95> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 298.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 10.40245pt on input line 298.
+(Font)              scaled to size 10.40245pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <8> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 298.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 298.
+(Font)              scaled to size 7.59998pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <6> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 298.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 5.69998pt on input line 298.
-<Images//survey_chart.jpg, id=61, 346.64018pt x 200.82106pt>
+(Font)              scaled to size 5.69998pt on input line 299.
+<Images//survey_chart.jpg, id=67, 346.64018pt x 200.82106pt>
 File: Images//survey_chart.jpg Graphic file (type jpg)
 <use Images//survey_chart.jpg>
-Package pdftex.def Info: Images//survey_chart.jpg  used on input line 298.
+Package pdftex.def Info: Images//survey_chart.jpg  used on input line 299.
 (pdftex.def)             Requested size: 195.01106pt x 85.98058pt.
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 298.
+(Font)              scaled to size 10.95pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 298.
+(Font)              scaled to size 9.0pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 298.
+(Font)              scaled to size 8.54997pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 298.
+(Font)              scaled to size 4.74998pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 298.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 298.
+(Font)              scaled to size 8.54997pt on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <5> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 298.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 299.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 4.74998pt on input line 298.
+(Font)              scaled to size 4.74998pt on input line 299.
  [3
 
  <./Images//DJI_B1.png> <./Images//survey_chart.jpg>] (./template.toc
@@ -1519,822 +1519,832 @@ LaTeX Info: Redefining \% on input line 1.
 ) [4
 
 ]
-<Images//drone_taxo.png, id=83, 620.3175pt x 320.19624pt>
+<Images//drone_taxo.png, id=91, 620.3175pt x 320.19624pt>
 File: Images//drone_taxo.png Graphic file (type png)
 <use Images//drone_taxo.png>
-Package pdftex.def Info: Images//drone_taxo.png  used on input line 312.
+Package pdftex.def Info: Images//drone_taxo.png  used on input line 313.
 (pdftex.def)             Requested size: 227.62204pt x 117.49359pt.
  [5
 
  <./Images//drone_taxo.png>]
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 333.
+(Font)              scaled to size 9.49997pt on input line 339.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 333.
+(Font)              scaled to size 6.64998pt on input line 339.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 333.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 339.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 9.49997pt on input line 333.
+(Font)              scaled to size 9.49997pt on input line 339.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <7> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 333.
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 339.
 LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 333.
-<Images//uav_model.jpeg, id=92, 202.356pt x 182.1204pt>
+(Font)              scaled to size 6.64998pt on input line 339.
+
+Underfull \hbox (badness 10000) in paragraph at lines 339--339
+
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 3
+39.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+<Images//uav_model.jpeg, id=100, 202.356pt x 182.1204pt>
 File: Images//uav_model.jpeg Graphic file (type jpg)
 <use Images//uav_model.jpeg>
-Package pdftex.def Info: Images//uav_model.jpeg  used on input line 333.
+Package pdftex.def Info: Images//uav_model.jpeg  used on input line 339.
 (pdftex.def)             Requested size: 113.81102pt x 102.43135pt.
  [6
 
  <./Images//uav_model.jpeg>]
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
-(Font)              scaled to size 6.0pt on input line 366.
-<Images//ezgif-frame-001.png, id=100, 256.96pt x 144.54pt>
+(Font)              scaled to size 6.0pt on input line 372.
+<Images//ezgif-frame-001.png, id=112, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-001.png Graphic file (type png)
 <use Images//ezgif-frame-001.png>
-Package pdftex.def Info: Images//ezgif-frame-001.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-001.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-001.png>
-<a0,fr0>
-<Images//ezgif-frame-002.png, id=103, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-001.png> <a0,fr0>
+<Images//ezgif-frame-002.png, id=115, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-002.png Graphic file (type png)
 <use Images//ezgif-frame-002.png>
-Package pdftex.def Info: Images//ezgif-frame-002.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-002.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-002.png> <a0,fr1>
-<Images//ezgif-frame-003.png, id=106, 256.96pt x 144.54pt>
+<Images//ezgif-frame-003.png, id=118, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-003.png Graphic file (type png)
 <use Images//ezgif-frame-003.png>
-Package pdftex.def Info: Images//ezgif-frame-003.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-003.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-003.png> <a0,fr2>
-<Images//ezgif-frame-004.png, id=109, 256.96pt x 144.54pt>
+<Images//ezgif-frame-004.png, id=121, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-004.png Graphic file (type png)
 <use Images//ezgif-frame-004.png>
-Package pdftex.def Info: Images//ezgif-frame-004.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-004.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-004.png> <a0,fr3>
-<Images//ezgif-frame-005.png, id=112, 256.96pt x 144.54pt>
+<Images//ezgif-frame-005.png, id=124, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-005.png Graphic file (type png)
 <use Images//ezgif-frame-005.png>
-Package pdftex.def Info: Images//ezgif-frame-005.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-005.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-005.png> <a0,fr4>
-<Images//ezgif-frame-006.png, id=115, 256.96pt x 144.54pt>
+<Images//ezgif-frame-006.png, id=127, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-006.png Graphic file (type png)
 <use Images//ezgif-frame-006.png>
-Package pdftex.def Info: Images//ezgif-frame-006.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-006.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-006.png> <a0,fr5>
-<Images//ezgif-frame-007.png, id=118, 256.96pt x 144.54pt>
+<Images//ezgif-frame-007.png, id=130, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-007.png Graphic file (type png)
 <use Images//ezgif-frame-007.png>
-Package pdftex.def Info: Images//ezgif-frame-007.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-007.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-007.png> <a0,fr6>
-<Images//ezgif-frame-008.png, id=121, 256.96pt x 144.54pt>
+<Images//ezgif-frame-008.png, id=133, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-008.png Graphic file (type png)
 <use Images//ezgif-frame-008.png>
-Package pdftex.def Info: Images//ezgif-frame-008.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-008.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-008.png> <a0,fr7>
-<Images//ezgif-frame-009.png, id=124, 256.96pt x 144.54pt>
+<Images//ezgif-frame-009.png, id=136, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-009.png Graphic file (type png)
 <use Images//ezgif-frame-009.png>
-Package pdftex.def Info: Images//ezgif-frame-009.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-009.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-009.png> <a0,fr8>
-<Images//ezgif-frame-010.png, id=127, 256.96pt x 144.54pt>
+<Images//ezgif-frame-010.png, id=139, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-010.png Graphic file (type png)
 <use Images//ezgif-frame-010.png>
-Package pdftex.def Info: Images//ezgif-frame-010.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-010.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-010.png> <a0,fr9>
-<Images//ezgif-frame-011.png, id=130, 256.96pt x 144.54pt>
+<Images//ezgif-frame-011.png, id=142, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-011.png Graphic file (type png)
 <use Images//ezgif-frame-011.png>
-Package pdftex.def Info: Images//ezgif-frame-011.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-011.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-011.png> <a0,fr10>
-<Images//ezgif-frame-012.png, id=133, 256.96pt x 144.54pt>
+<Images//ezgif-frame-012.png, id=145, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-012.png Graphic file (type png)
 <use Images//ezgif-frame-012.png>
-Package pdftex.def Info: Images//ezgif-frame-012.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-012.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-012.png> <a0,fr11>
-<Images//ezgif-frame-013.png, id=136, 256.96pt x 144.54pt>
+<Images//ezgif-frame-013.png, id=148, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-013.png Graphic file (type png)
 <use Images//ezgif-frame-013.png>
-Package pdftex.def Info: Images//ezgif-frame-013.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-013.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-013.png> <a0,fr12>
-<Images//ezgif-frame-014.png, id=139, 256.96pt x 144.54pt>
+<Images//ezgif-frame-014.png, id=151, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-014.png Graphic file (type png)
 <use Images//ezgif-frame-014.png>
-Package pdftex.def Info: Images//ezgif-frame-014.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-014.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-014.png> <a0,fr13>
-<Images//ezgif-frame-015.png, id=142, 256.96pt x 144.54pt>
+<Images//ezgif-frame-015.png, id=154, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-015.png Graphic file (type png)
 <use Images//ezgif-frame-015.png>
-Package pdftex.def Info: Images//ezgif-frame-015.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-015.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-015.png> <a0,fr14>
-<Images//ezgif-frame-016.png, id=145, 256.96pt x 144.54pt>
+<Images//ezgif-frame-016.png, id=157, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-016.png Graphic file (type png)
 <use Images//ezgif-frame-016.png>
-Package pdftex.def Info: Images//ezgif-frame-016.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-016.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-016.png> <a0,fr15>
-<Images//ezgif-frame-017.png, id=148, 256.96pt x 144.54pt>
+<Images//ezgif-frame-017.png, id=160, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-017.png Graphic file (type png)
 <use Images//ezgif-frame-017.png>
-Package pdftex.def Info: Images//ezgif-frame-017.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-017.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-017.png> <a0,fr16>
-<Images//ezgif-frame-018.png, id=151, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-017.png>
+<a0,fr16>
+<Images//ezgif-frame-018.png, id=163, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-018.png Graphic file (type png)
 <use Images//ezgif-frame-018.png>
-Package pdftex.def Info: Images//ezgif-frame-018.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-018.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-018.png>
-<a0,fr17>
-<Images//ezgif-frame-019.png, id=154, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-018.png> <a0,fr17>
+<Images//ezgif-frame-019.png, id=166, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-019.png Graphic file (type png)
 <use Images//ezgif-frame-019.png>
-Package pdftex.def Info: Images//ezgif-frame-019.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-019.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-019.png> <a0,fr18>
-<Images//ezgif-frame-020.png, id=157, 256.96pt x 144.54pt>
+<Images//ezgif-frame-020.png, id=169, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-020.png Graphic file (type png)
 <use Images//ezgif-frame-020.png>
-Package pdftex.def Info: Images//ezgif-frame-020.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-020.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-020.png> <a0,fr19>
-<Images//ezgif-frame-021.png, id=160, 256.96pt x 144.54pt>
+<Images//ezgif-frame-021.png, id=172, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-021.png Graphic file (type png)
 <use Images//ezgif-frame-021.png>
-Package pdftex.def Info: Images//ezgif-frame-021.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-021.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-021.png> <a0,fr20>
-<Images//ezgif-frame-022.png, id=163, 256.96pt x 144.54pt>
+<Images//ezgif-frame-022.png, id=175, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-022.png Graphic file (type png)
 <use Images//ezgif-frame-022.png>
-Package pdftex.def Info: Images//ezgif-frame-022.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-022.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-022.png> <a0,fr21>
-<Images//ezgif-frame-023.png, id=166, 256.96pt x 144.54pt>
+<Images//ezgif-frame-023.png, id=178, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-023.png Graphic file (type png)
 <use Images//ezgif-frame-023.png>
-Package pdftex.def Info: Images//ezgif-frame-023.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-023.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-023.png> <a0,fr22>
-<Images//ezgif-frame-024.png, id=169, 256.96pt x 144.54pt>
+<Images//ezgif-frame-024.png, id=181, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-024.png Graphic file (type png)
 <use Images//ezgif-frame-024.png>
-Package pdftex.def Info: Images//ezgif-frame-024.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-024.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-024.png> <a0,fr23>
-<Images//ezgif-frame-025.png, id=172, 256.96pt x 144.54pt>
+<Images//ezgif-frame-025.png, id=184, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-025.png Graphic file (type png)
 <use Images//ezgif-frame-025.png>
-Package pdftex.def Info: Images//ezgif-frame-025.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-025.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-025.png> <a0,fr24>
-<Images//ezgif-frame-026.png, id=175, 256.96pt x 144.54pt>
+<Images//ezgif-frame-026.png, id=187, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-026.png Graphic file (type png)
 <use Images//ezgif-frame-026.png>
-Package pdftex.def Info: Images//ezgif-frame-026.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-026.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-026.png> <a0,fr25>
-<Images//ezgif-frame-027.png, id=178, 256.96pt x 144.54pt>
+<Images//ezgif-frame-027.png, id=190, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-027.png Graphic file (type png)
 <use Images//ezgif-frame-027.png>
-Package pdftex.def Info: Images//ezgif-frame-027.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-027.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-027.png> <a0,fr26>
-<Images//ezgif-frame-028.png, id=181, 256.96pt x 144.54pt>
+<Images//ezgif-frame-028.png, id=193, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-028.png Graphic file (type png)
 <use Images//ezgif-frame-028.png>
-Package pdftex.def Info: Images//ezgif-frame-028.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-028.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-028.png> <a0,fr27>
-<Images//ezgif-frame-029.png, id=184, 256.96pt x 144.54pt>
+<Images//ezgif-frame-029.png, id=196, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-029.png Graphic file (type png)
 <use Images//ezgif-frame-029.png>
-Package pdftex.def Info: Images//ezgif-frame-029.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-029.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-029.png> <a0,fr28>
-<Images//ezgif-frame-030.png, id=187, 256.96pt x 144.54pt>
+<Images//ezgif-frame-030.png, id=199, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-030.png Graphic file (type png)
 <use Images//ezgif-frame-030.png>
-Package pdftex.def Info: Images//ezgif-frame-030.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-030.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-030.png> <a0,fr29>
-<Images//ezgif-frame-031.png, id=190, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-030.png>
+<a0,fr29>
+<Images//ezgif-frame-031.png, id=202, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-031.png Graphic file (type png)
 <use Images//ezgif-frame-031.png>
-Package pdftex.def Info: Images//ezgif-frame-031.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-031.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-031.png>
-<a0,fr30>
-<Images//ezgif-frame-032.png, id=193, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-031.png> <a0,fr30>
+<Images//ezgif-frame-032.png, id=205, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-032.png Graphic file (type png)
 <use Images//ezgif-frame-032.png>
-Package pdftex.def Info: Images//ezgif-frame-032.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-032.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-032.png> <a0,fr31>
-<Images//ezgif-frame-033.png, id=196, 256.96pt x 144.54pt>
+<Images//ezgif-frame-033.png, id=208, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-033.png Graphic file (type png)
 <use Images//ezgif-frame-033.png>
-Package pdftex.def Info: Images//ezgif-frame-033.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-033.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-033.png> <a0,fr32>
-<Images//ezgif-frame-034.png, id=199, 256.96pt x 144.54pt>
+<Images//ezgif-frame-034.png, id=211, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-034.png Graphic file (type png)
 <use Images//ezgif-frame-034.png>
-Package pdftex.def Info: Images//ezgif-frame-034.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-034.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-034.png> <a0,fr33>
-<Images//ezgif-frame-035.png, id=202, 256.96pt x 144.54pt>
+<Images//ezgif-frame-035.png, id=214, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-035.png Graphic file (type png)
 <use Images//ezgif-frame-035.png>
-Package pdftex.def Info: Images//ezgif-frame-035.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-035.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-035.png> <a0,fr34>
-<Images//ezgif-frame-036.png, id=205, 256.96pt x 144.54pt>
+<Images//ezgif-frame-036.png, id=217, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-036.png Graphic file (type png)
 <use Images//ezgif-frame-036.png>
-Package pdftex.def Info: Images//ezgif-frame-036.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-036.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-036.png> <a0,fr35>
-<Images//ezgif-frame-037.png, id=208, 256.96pt x 144.54pt>
+<Images//ezgif-frame-037.png, id=220, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-037.png Graphic file (type png)
 <use Images//ezgif-frame-037.png>
-Package pdftex.def Info: Images//ezgif-frame-037.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-037.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-037.png> <a0,fr36>
-<Images//ezgif-frame-038.png, id=211, 256.96pt x 144.54pt>
+<Images//ezgif-frame-038.png, id=223, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-038.png Graphic file (type png)
 <use Images//ezgif-frame-038.png>
-Package pdftex.def Info: Images//ezgif-frame-038.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-038.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-038.png> <a0,fr37>
-<Images//ezgif-frame-039.png, id=214, 256.96pt x 144.54pt>
+<Images//ezgif-frame-039.png, id=226, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-039.png Graphic file (type png)
 <use Images//ezgif-frame-039.png>
-Package pdftex.def Info: Images//ezgif-frame-039.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-039.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-039.png> <a0,fr38>
-<Images//ezgif-frame-040.png, id=217, 256.96pt x 144.54pt>
+<Images//ezgif-frame-040.png, id=230, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-040.png Graphic file (type png)
 <use Images//ezgif-frame-040.png>
-Package pdftex.def Info: Images//ezgif-frame-040.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-040.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-040.png> <a0,fr39>
-<Images//ezgif-frame-041.png, id=220, 256.96pt x 144.54pt>
+<Images//ezgif-frame-041.png, id=233, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-041.png Graphic file (type png)
 <use Images//ezgif-frame-041.png>
-Package pdftex.def Info: Images//ezgif-frame-041.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-041.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-041.png> <a0,fr40>
-<Images//ezgif-frame-042.png, id=223, 256.96pt x 144.54pt>
+<Images//ezgif-frame-042.png, id=236, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-042.png Graphic file (type png)
 <use Images//ezgif-frame-042.png>
-Package pdftex.def Info: Images//ezgif-frame-042.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-042.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-042.png> <a0,fr41>
-<Images//ezgif-frame-043.png, id=226, 256.96pt x 144.54pt>
+<Images//ezgif-frame-043.png, id=239, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-043.png Graphic file (type png)
 <use Images//ezgif-frame-043.png>
-Package pdftex.def Info: Images//ezgif-frame-043.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-043.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-043.png> <a0,fr42>
-<Images//ezgif-frame-044.png, id=230, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-043.png>
+<a0,fr42>
+<Images//ezgif-frame-044.png, id=242, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-044.png Graphic file (type png)
 <use Images//ezgif-frame-044.png>
-Package pdftex.def Info: Images//ezgif-frame-044.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-044.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-044.png>
-<a0,fr43>
-<Images//ezgif-frame-045.png, id=233, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-044.png> <a0,fr43>
+<Images//ezgif-frame-045.png, id=245, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-045.png Graphic file (type png)
 <use Images//ezgif-frame-045.png>
-Package pdftex.def Info: Images//ezgif-frame-045.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-045.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-045.png> <a0,fr44>
-<Images//ezgif-frame-046.png, id=236, 256.96pt x 144.54pt>
+<Images//ezgif-frame-046.png, id=248, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-046.png Graphic file (type png)
 <use Images//ezgif-frame-046.png>
-Package pdftex.def Info: Images//ezgif-frame-046.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-046.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-046.png> <a0,fr45>
-<Images//ezgif-frame-047.png, id=239, 256.96pt x 144.54pt>
+<Images//ezgif-frame-047.png, id=251, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-047.png Graphic file (type png)
 <use Images//ezgif-frame-047.png>
-Package pdftex.def Info: Images//ezgif-frame-047.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-047.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-047.png> <a0,fr46>
-<Images//ezgif-frame-048.png, id=242, 256.96pt x 144.54pt>
+<Images//ezgif-frame-048.png, id=254, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-048.png Graphic file (type png)
 <use Images//ezgif-frame-048.png>
-Package pdftex.def Info: Images//ezgif-frame-048.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-048.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-048.png> <a0,fr47>
-<Images//ezgif-frame-049.png, id=245, 256.96pt x 144.54pt>
+<Images//ezgif-frame-049.png, id=257, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-049.png Graphic file (type png)
 <use Images//ezgif-frame-049.png>
-Package pdftex.def Info: Images//ezgif-frame-049.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-049.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-049.png> <a0,fr48>
-<Images//ezgif-frame-050.png, id=248, 256.96pt x 144.54pt>
+<Images//ezgif-frame-050.png, id=260, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-050.png Graphic file (type png)
 <use Images//ezgif-frame-050.png>
-Package pdftex.def Info: Images//ezgif-frame-050.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-050.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-050.png> <a0,fr49>
-<Images//ezgif-frame-051.png, id=251, 256.96pt x 144.54pt>
+<Images//ezgif-frame-051.png, id=263, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-051.png Graphic file (type png)
 <use Images//ezgif-frame-051.png>
-Package pdftex.def Info: Images//ezgif-frame-051.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-051.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-051.png> <a0,fr50>
-<Images//ezgif-frame-052.png, id=254, 256.96pt x 144.54pt>
+<Images//ezgif-frame-052.png, id=266, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-052.png Graphic file (type png)
 <use Images//ezgif-frame-052.png>
-Package pdftex.def Info: Images//ezgif-frame-052.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-052.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-052.png> <a0,fr51>
-<Images//ezgif-frame-053.png, id=257, 256.96pt x 144.54pt>
+<Images//ezgif-frame-053.png, id=269, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-053.png Graphic file (type png)
 <use Images//ezgif-frame-053.png>
-Package pdftex.def Info: Images//ezgif-frame-053.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-053.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-053.png> <a0,fr52>
-<Images//ezgif-frame-054.png, id=260, 256.96pt x 144.54pt>
+<Images//ezgif-frame-054.png, id=272, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-054.png Graphic file (type png)
 <use Images//ezgif-frame-054.png>
-Package pdftex.def Info: Images//ezgif-frame-054.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-054.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-054.png> <a0,fr53>
-<Images//ezgif-frame-055.png, id=263, 256.96pt x 144.54pt>
+<Images//ezgif-frame-055.png, id=275, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-055.png Graphic file (type png)
 <use Images//ezgif-frame-055.png>
-Package pdftex.def Info: Images//ezgif-frame-055.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-055.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-055.png> <a0,fr54>
-<Images//ezgif-frame-056.png, id=266, 256.96pt x 144.54pt>
+<Images//ezgif-frame-056.png, id=278, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-056.png Graphic file (type png)
 <use Images//ezgif-frame-056.png>
-Package pdftex.def Info: Images//ezgif-frame-056.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-056.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-056.png> <a0,fr55>
-<Images//ezgif-frame-057.png, id=269, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-056.png>
+<a0,fr55>
+<Images//ezgif-frame-057.png, id=281, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-057.png Graphic file (type png)
 <use Images//ezgif-frame-057.png>
-Package pdftex.def Info: Images//ezgif-frame-057.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-057.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-057.png>
-<a0,fr56>
-<Images//ezgif-frame-058.png, id=272, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-057.png> <a0,fr56>
+<Images//ezgif-frame-058.png, id=284, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-058.png Graphic file (type png)
 <use Images//ezgif-frame-058.png>
-Package pdftex.def Info: Images//ezgif-frame-058.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-058.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-058.png> <a0,fr57>
-<Images//ezgif-frame-059.png, id=275, 256.96pt x 144.54pt>
+<Images//ezgif-frame-059.png, id=287, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-059.png Graphic file (type png)
 <use Images//ezgif-frame-059.png>
-Package pdftex.def Info: Images//ezgif-frame-059.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-059.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-059.png> <a0,fr58>
-<Images//ezgif-frame-060.png, id=278, 256.96pt x 144.54pt>
+<Images//ezgif-frame-060.png, id=290, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-060.png Graphic file (type png)
 <use Images//ezgif-frame-060.png>
-Package pdftex.def Info: Images//ezgif-frame-060.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-060.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-060.png> <a0,fr59>
-<Images//ezgif-frame-061.png, id=281, 256.96pt x 144.54pt>
+<Images//ezgif-frame-061.png, id=293, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-061.png Graphic file (type png)
 <use Images//ezgif-frame-061.png>
-Package pdftex.def Info: Images//ezgif-frame-061.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-061.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-061.png> <a0,fr60>
-<Images//ezgif-frame-062.png, id=284, 256.96pt x 144.54pt>
+<Images//ezgif-frame-062.png, id=296, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-062.png Graphic file (type png)
 <use Images//ezgif-frame-062.png>
-Package pdftex.def Info: Images//ezgif-frame-062.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-062.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-062.png> <a0,fr61>
-<Images//ezgif-frame-063.png, id=287, 256.96pt x 144.54pt>
+<Images//ezgif-frame-063.png, id=299, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-063.png Graphic file (type png)
 <use Images//ezgif-frame-063.png>
-Package pdftex.def Info: Images//ezgif-frame-063.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-063.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-063.png> <a0,fr62>
-<Images//ezgif-frame-064.png, id=290, 256.96pt x 144.54pt>
+<Images//ezgif-frame-064.png, id=302, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-064.png Graphic file (type png)
 <use Images//ezgif-frame-064.png>
-Package pdftex.def Info: Images//ezgif-frame-064.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-064.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-064.png> <a0,fr63>
-<Images//ezgif-frame-065.png, id=293, 256.96pt x 144.54pt>
+<Images//ezgif-frame-065.png, id=305, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-065.png Graphic file (type png)
 <use Images//ezgif-frame-065.png>
-Package pdftex.def Info: Images//ezgif-frame-065.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-065.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-065.png> <a0,fr64>
-<Images//ezgif-frame-066.png, id=296, 256.96pt x 144.54pt>
+<Images//ezgif-frame-066.png, id=308, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-066.png Graphic file (type png)
 <use Images//ezgif-frame-066.png>
-Package pdftex.def Info: Images//ezgif-frame-066.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-066.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-066.png> <a0,fr65>
-<Images//ezgif-frame-067.png, id=299, 256.96pt x 144.54pt>
+<Images//ezgif-frame-067.png, id=311, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-067.png Graphic file (type png)
 <use Images//ezgif-frame-067.png>
-Package pdftex.def Info: Images//ezgif-frame-067.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-067.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-067.png> <a0,fr66>
-<Images//ezgif-frame-068.png, id=302, 256.96pt x 144.54pt>
+<Images//ezgif-frame-068.png, id=314, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-068.png Graphic file (type png)
 <use Images//ezgif-frame-068.png>
-Package pdftex.def Info: Images//ezgif-frame-068.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-068.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-068.png> <a0,fr67>
-<Images//ezgif-frame-069.png, id=305, 256.96pt x 144.54pt>
+<Images//ezgif-frame-069.png, id=317, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-069.png Graphic file (type png)
 <use Images//ezgif-frame-069.png>
-Package pdftex.def Info: Images//ezgif-frame-069.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-069.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-069.png> <a0,fr68>
-<Images//ezgif-frame-070.png, id=308, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-069.png>
+<a0,fr68>
+<Images//ezgif-frame-070.png, id=320, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-070.png Graphic file (type png)
 <use Images//ezgif-frame-070.png>
-Package pdftex.def Info: Images//ezgif-frame-070.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-070.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-070.png>
-<a0,fr69>
-<Images//ezgif-frame-071.png, id=311, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-070.png> <a0,fr69>
+<Images//ezgif-frame-071.png, id=323, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-071.png Graphic file (type png)
 <use Images//ezgif-frame-071.png>
-Package pdftex.def Info: Images//ezgif-frame-071.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-071.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-071.png> <a0,fr70>
-<Images//ezgif-frame-072.png, id=314, 256.96pt x 144.54pt>
+<Images//ezgif-frame-072.png, id=326, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-072.png Graphic file (type png)
 <use Images//ezgif-frame-072.png>
-Package pdftex.def Info: Images//ezgif-frame-072.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-072.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-072.png> <a0,fr71>
-<Images//ezgif-frame-073.png, id=317, 256.96pt x 144.54pt>
+<Images//ezgif-frame-073.png, id=329, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-073.png Graphic file (type png)
 <use Images//ezgif-frame-073.png>
-Package pdftex.def Info: Images//ezgif-frame-073.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-073.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-073.png> <a0,fr72>
-<Images//ezgif-frame-074.png, id=320, 256.96pt x 144.54pt>
+<Images//ezgif-frame-074.png, id=332, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-074.png Graphic file (type png)
 <use Images//ezgif-frame-074.png>
-Package pdftex.def Info: Images//ezgif-frame-074.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-074.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-074.png> <a0,fr73>
-<Images//ezgif-frame-075.png, id=323, 256.96pt x 144.54pt>
+<Images//ezgif-frame-075.png, id=335, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-075.png Graphic file (type png)
 <use Images//ezgif-frame-075.png>
-Package pdftex.def Info: Images//ezgif-frame-075.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-075.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-075.png> <a0,fr74>
-<Images//ezgif-frame-076.png, id=326, 256.96pt x 144.54pt>
+<Images//ezgif-frame-076.png, id=338, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-076.png Graphic file (type png)
 <use Images//ezgif-frame-076.png>
-Package pdftex.def Info: Images//ezgif-frame-076.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-076.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-076.png> <a0,fr75>
-<Images//ezgif-frame-077.png, id=329, 256.96pt x 144.54pt>
+<Images//ezgif-frame-077.png, id=341, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-077.png Graphic file (type png)
 <use Images//ezgif-frame-077.png>
-Package pdftex.def Info: Images//ezgif-frame-077.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-077.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-077.png> <a0,fr76>
-<Images//ezgif-frame-078.png, id=332, 256.96pt x 144.54pt>
+<Images//ezgif-frame-078.png, id=344, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-078.png Graphic file (type png)
 <use Images//ezgif-frame-078.png>
-Package pdftex.def Info: Images//ezgif-frame-078.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-078.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-078.png> <a0,fr77>
-<Images//ezgif-frame-079.png, id=335, 256.96pt x 144.54pt>
+<Images//ezgif-frame-079.png, id=347, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-079.png Graphic file (type png)
 <use Images//ezgif-frame-079.png>
-Package pdftex.def Info: Images//ezgif-frame-079.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-079.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-079.png> <a0,fr78>
-<Images//ezgif-frame-080.png, id=338, 256.96pt x 144.54pt>
+<Images//ezgif-frame-080.png, id=350, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-080.png Graphic file (type png)
 <use Images//ezgif-frame-080.png>
-Package pdftex.def Info: Images//ezgif-frame-080.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-080.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-080.png> <a0,fr79>
-<Images//ezgif-frame-081.png, id=341, 256.96pt x 144.54pt>
+<Images//ezgif-frame-081.png, id=353, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-081.png Graphic file (type png)
 <use Images//ezgif-frame-081.png>
-Package pdftex.def Info: Images//ezgif-frame-081.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-081.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-081.png> <a0,fr80>
-<Images//ezgif-frame-082.png, id=344, 256.96pt x 144.54pt>
+<Images//ezgif-frame-082.png, id=356, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-082.png Graphic file (type png)
 <use Images//ezgif-frame-082.png>
-Package pdftex.def Info: Images//ezgif-frame-082.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-082.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-082.png> <a0,fr81>
-<Images//ezgif-frame-083.png, id=347, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-082.png>
+<a0,fr81>
+<Images//ezgif-frame-083.png, id=359, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-083.png Graphic file (type png)
 <use Images//ezgif-frame-083.png>
-Package pdftex.def Info: Images//ezgif-frame-083.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-083.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-083.png>
-<a0,fr82>
-<Images//ezgif-frame-084.png, id=350, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-083.png> <a0,fr82>
+<Images//ezgif-frame-084.png, id=362, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-084.png Graphic file (type png)
 <use Images//ezgif-frame-084.png>
-Package pdftex.def Info: Images//ezgif-frame-084.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-084.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-084.png> <a0,fr83>
-<Images//ezgif-frame-085.png, id=353, 256.96pt x 144.54pt>
+<Images//ezgif-frame-085.png, id=365, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-085.png Graphic file (type png)
 <use Images//ezgif-frame-085.png>
-Package pdftex.def Info: Images//ezgif-frame-085.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-085.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-085.png> <a0,fr84>
-<Images//ezgif-frame-086.png, id=356, 256.96pt x 144.54pt>
+<Images//ezgif-frame-086.png, id=368, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-086.png Graphic file (type png)
 <use Images//ezgif-frame-086.png>
-Package pdftex.def Info: Images//ezgif-frame-086.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-086.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-086.png> <a0,fr85>
-<Images//ezgif-frame-087.png, id=359, 256.96pt x 144.54pt>
+<Images//ezgif-frame-087.png, id=371, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-087.png Graphic file (type png)
 <use Images//ezgif-frame-087.png>
-Package pdftex.def Info: Images//ezgif-frame-087.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-087.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-087.png> <a0,fr86>
-<Images//ezgif-frame-088.png, id=362, 256.96pt x 144.54pt>
+<Images//ezgif-frame-088.png, id=374, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-088.png Graphic file (type png)
 <use Images//ezgif-frame-088.png>
-Package pdftex.def Info: Images//ezgif-frame-088.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-088.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-088.png> <a0,fr87>
-<Images//ezgif-frame-089.png, id=365, 256.96pt x 144.54pt>
+<Images//ezgif-frame-089.png, id=377, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-089.png Graphic file (type png)
 <use Images//ezgif-frame-089.png>
-Package pdftex.def Info: Images//ezgif-frame-089.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-089.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-089.png> <a0,fr88>
-<Images//ezgif-frame-090.png, id=368, 256.96pt x 144.54pt>
+<Images//ezgif-frame-090.png, id=380, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-090.png Graphic file (type png)
 <use Images//ezgif-frame-090.png>
-Package pdftex.def Info: Images//ezgif-frame-090.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-090.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-090.png> <a0,fr89>
-<Images//ezgif-frame-091.png, id=371, 256.96pt x 144.54pt>
+<Images//ezgif-frame-091.png, id=383, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-091.png Graphic file (type png)
 <use Images//ezgif-frame-091.png>
-Package pdftex.def Info: Images//ezgif-frame-091.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-091.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-091.png> <a0,fr90>
-<Images//ezgif-frame-092.png, id=374, 256.96pt x 144.54pt>
+<Images//ezgif-frame-092.png, id=386, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-092.png Graphic file (type png)
 <use Images//ezgif-frame-092.png>
-Package pdftex.def Info: Images//ezgif-frame-092.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-092.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-092.png> <a0,fr91>
-<Images//ezgif-frame-093.png, id=377, 256.96pt x 144.54pt>
+<Images//ezgif-frame-093.png, id=389, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-093.png Graphic file (type png)
 <use Images//ezgif-frame-093.png>
-Package pdftex.def Info: Images//ezgif-frame-093.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-093.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-093.png> <a0,fr92>
-<Images//ezgif-frame-094.png, id=380, 256.96pt x 144.54pt>
+<Images//ezgif-frame-094.png, id=392, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-094.png Graphic file (type png)
 <use Images//ezgif-frame-094.png>
-Package pdftex.def Info: Images//ezgif-frame-094.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-094.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-094.png> <a0,fr93>
-<Images//ezgif-frame-095.png, id=383, 256.96pt x 144.54pt>
+<Images//ezgif-frame-095.png, id=395, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-095.png Graphic file (type png)
 <use Images//ezgif-frame-095.png>
-Package pdftex.def Info: Images//ezgif-frame-095.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-095.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-095.png> <a0,fr94>
-<Images//ezgif-frame-096.png, id=386, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-095.png>
+<a0,fr94>
+<Images//ezgif-frame-096.png, id=398, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-096.png Graphic file (type png)
 <use Images//ezgif-frame-096.png>
-Package pdftex.def Info: Images//ezgif-frame-096.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-096.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-096.png>
-<a0,fr95>
-<Images//ezgif-frame-097.png, id=389, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-096.png> <a0,fr95>
+<Images//ezgif-frame-097.png, id=401, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-097.png Graphic file (type png)
 <use Images//ezgif-frame-097.png>
-Package pdftex.def Info: Images//ezgif-frame-097.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-097.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-097.png> <a0,fr96>
-<Images//ezgif-frame-098.png, id=392, 256.96pt x 144.54pt>
+<Images//ezgif-frame-098.png, id=404, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-098.png Graphic file (type png)
 <use Images//ezgif-frame-098.png>
-Package pdftex.def Info: Images//ezgif-frame-098.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-098.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-098.png> <a0,fr97>
-<Images//ezgif-frame-099.png, id=395, 256.96pt x 144.54pt>
+<Images//ezgif-frame-099.png, id=407, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-099.png Graphic file (type png)
 <use Images//ezgif-frame-099.png>
-Package pdftex.def Info: Images//ezgif-frame-099.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-099.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-099.png> <a0,fr98>
-<Images//ezgif-frame-100.png, id=398, 256.96pt x 144.54pt>
+<Images//ezgif-frame-100.png, id=410, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-100.png Graphic file (type png)
 <use Images//ezgif-frame-100.png>
-Package pdftex.def Info: Images//ezgif-frame-100.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-100.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-100.png> <a0,fr99> <a0,fr100>
-<Images//ezgif-frame-102.png, id=401, 256.96pt x 144.54pt>
+<Images//ezgif-frame-102.png, id=413, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-102.png Graphic file (type png)
 <use Images//ezgif-frame-102.png>
-Package pdftex.def Info: Images//ezgif-frame-102.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-102.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-102.png> <a0,fr101>
-<Images//ezgif-frame-103.png, id=404, 256.96pt x 144.54pt>
+<Images//ezgif-frame-103.png, id=416, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-103.png Graphic file (type png)
 <use Images//ezgif-frame-103.png>
-Package pdftex.def Info: Images//ezgif-frame-103.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-103.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-103.png> <a0,fr102>
-<Images//ezgif-frame-104.png, id=407, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-103.png>
+<a0,fr102>
+<Images//ezgif-frame-104.png, id=419, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-104.png Graphic file (type png)
 <use Images//ezgif-frame-104.png>
-Package pdftex.def Info: Images//ezgif-frame-104.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-104.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-104.png>
-<a0,fr103>
-<Images//ezgif-frame-105.png, id=410, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-104.png> <a0,fr103>
+<Images//ezgif-frame-105.png, id=422, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-105.png Graphic file (type png)
 <use Images//ezgif-frame-105.png>
-Package pdftex.def Info: Images//ezgif-frame-105.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-105.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-105.png> <a0,fr104>
-<Images//ezgif-frame-106.png, id=413, 256.96pt x 144.54pt>
+<Images//ezgif-frame-106.png, id=425, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-106.png Graphic file (type png)
 <use Images//ezgif-frame-106.png>
-Package pdftex.def Info: Images//ezgif-frame-106.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-106.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-106.png> <a0,fr105>
-<Images//ezgif-frame-107.png, id=416, 256.96pt x 144.54pt>
+<Images//ezgif-frame-107.png, id=428, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-107.png Graphic file (type png)
 <use Images//ezgif-frame-107.png>
-Package pdftex.def Info: Images//ezgif-frame-107.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-107.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-107.png> <a0,fr106>
-<Images//ezgif-frame-108.png, id=419, 256.96pt x 144.54pt>
+<Images//ezgif-frame-108.png, id=431, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-108.png Graphic file (type png)
 <use Images//ezgif-frame-108.png>
-Package pdftex.def Info: Images//ezgif-frame-108.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-108.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-108.png> <a0,fr107>
-<Images//ezgif-frame-109.png, id=422, 256.96pt x 144.54pt>
+<Images//ezgif-frame-109.png, id=434, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-109.png Graphic file (type png)
 <use Images//ezgif-frame-109.png>
-Package pdftex.def Info: Images//ezgif-frame-109.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-109.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-109.png> <a0,fr108>
-<Images//ezgif-frame-110.png, id=425, 256.96pt x 144.54pt>
+<Images//ezgif-frame-110.png, id=437, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-110.png Graphic file (type png)
 <use Images//ezgif-frame-110.png>
-Package pdftex.def Info: Images//ezgif-frame-110.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-110.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-110.png> <a0,fr109>
-<Images//ezgif-frame-111.png, id=428, 256.96pt x 144.54pt>
+<Images//ezgif-frame-111.png, id=440, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-111.png Graphic file (type png)
 <use Images//ezgif-frame-111.png>
-Package pdftex.def Info: Images//ezgif-frame-111.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-111.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-111.png> <a0,fr110>
-<Images//ezgif-frame-112.png, id=431, 256.96pt x 144.54pt>
+<Images//ezgif-frame-112.png, id=443, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-112.png Graphic file (type png)
 <use Images//ezgif-frame-112.png>
-Package pdftex.def Info: Images//ezgif-frame-112.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-112.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-112.png> <a0,fr111>
-<Images//ezgif-frame-113.png, id=434, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-112.png>
+<a0,fr111>
+<Images//ezgif-frame-113.png, id=446, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-113.png Graphic file (type png)
 <use Images//ezgif-frame-113.png>
-Package pdftex.def Info: Images//ezgif-frame-113.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-113.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-113.png>
-<a0,fr112>
-<Images//ezgif-frame-114.png, id=437, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-113.png> <a0,fr112>
+<Images//ezgif-frame-114.png, id=449, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-114.png Graphic file (type png)
 <use Images//ezgif-frame-114.png>
-Package pdftex.def Info: Images//ezgif-frame-114.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-114.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-114.png> <a0,fr113>
-<Images//ezgif-frame-115.png, id=440, 256.96pt x 144.54pt>
+<Images//ezgif-frame-115.png, id=452, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-115.png Graphic file (type png)
 <use Images//ezgif-frame-115.png>
-Package pdftex.def Info: Images//ezgif-frame-115.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-115.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-115.png> <a0,fr114>
-<Images//ezgif-frame-116.png, id=443, 256.96pt x 144.54pt>
+<Images//ezgif-frame-116.png, id=455, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-116.png Graphic file (type png)
 <use Images//ezgif-frame-116.png>
-Package pdftex.def Info: Images//ezgif-frame-116.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-116.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-116.png> <a0,fr115>
-<Images//ezgif-frame-117.png, id=446, 256.96pt x 144.54pt>
+<Images//ezgif-frame-117.png, id=458, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-117.png Graphic file (type png)
 <use Images//ezgif-frame-117.png>
-Package pdftex.def Info: Images//ezgif-frame-117.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-117.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-117.png> <a0,fr116>
-<Images//ezgif-frame-118.png, id=449, 256.96pt x 144.54pt>
+<Images//ezgif-frame-118.png, id=461, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-118.png Graphic file (type png)
 <use Images//ezgif-frame-118.png>
-Package pdftex.def Info: Images//ezgif-frame-118.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-118.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-118.png> <a0,fr117>
-<Images//ezgif-frame-119.png, id=452, 256.96pt x 144.54pt>
+<Images//ezgif-frame-119.png, id=464, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-119.png Graphic file (type png)
 <use Images//ezgif-frame-119.png>
-Package pdftex.def Info: Images//ezgif-frame-119.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-119.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-119.png> <a0,fr118>
-<Images//ezgif-frame-120.png, id=455, 256.96pt x 144.54pt>
+<Images//ezgif-frame-120.png, id=467, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-120.png Graphic file (type png)
 <use Images//ezgif-frame-120.png>
-Package pdftex.def Info: Images//ezgif-frame-120.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-120.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-120.png> <a0,fr119>
-<Images//ezgif-frame-121.png, id=458, 256.96pt x 144.54pt>
+<Images//ezgif-frame-121.png, id=470, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-121.png Graphic file (type png)
 <use Images//ezgif-frame-121.png>
-Package pdftex.def Info: Images//ezgif-frame-121.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-121.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-121.png> <a0,fr120>
-<Images//ezgif-frame-122.png, id=461, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-121.png>
+<a0,fr120>
+<Images//ezgif-frame-122.png, id=473, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-122.png Graphic file (type png)
 <use Images//ezgif-frame-122.png>
-Package pdftex.def Info: Images//ezgif-frame-122.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-122.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-122.png>
-<a0,fr121>
-<Images//ezgif-frame-123.png, id=464, 256.96pt x 144.54pt>
+ <./Images//ezgif-frame-122.png> <a0,fr121>
+<Images//ezgif-frame-123.png, id=476, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-123.png Graphic file (type png)
 <use Images//ezgif-frame-123.png>
-Package pdftex.def Info: Images//ezgif-frame-123.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-123.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-123.png> <a0,fr122>
-<Images//ezgif-frame-124.png, id=467, 256.96pt x 144.54pt>
+<Images//ezgif-frame-124.png, id=479, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-124.png Graphic file (type png)
 <use Images//ezgif-frame-124.png>
-Package pdftex.def Info: Images//ezgif-frame-124.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-124.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-124.png> <a0,fr123>
-<Images//ezgif-frame-125.png, id=470, 256.96pt x 144.54pt>
+<Images//ezgif-frame-125.png, id=482, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-125.png Graphic file (type png)
 <use Images//ezgif-frame-125.png>
-Package pdftex.def Info: Images//ezgif-frame-125.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-125.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-125.png> <a0,fr124>
-<Images//ezgif-frame-126.png, id=473, 256.96pt x 144.54pt>
+<Images//ezgif-frame-126.png, id=485, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-126.png Graphic file (type png)
 <use Images//ezgif-frame-126.png>
-Package pdftex.def Info: Images//ezgif-frame-126.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-126.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-126.png> <a0,fr125>
-<Images//ezgif-frame-127.png, id=476, 256.96pt x 144.54pt>
+<Images//ezgif-frame-127.png, id=488, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-127.png Graphic file (type png)
 <use Images//ezgif-frame-127.png>
-Package pdftex.def Info: Images//ezgif-frame-127.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-127.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-127.png> <a0,fr126>
-<Images//ezgif-frame-128.png, id=479, 256.96pt x 144.54pt>
+<Images//ezgif-frame-128.png, id=491, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-128.png Graphic file (type png)
 <use Images//ezgif-frame-128.png>
-Package pdftex.def Info: Images//ezgif-frame-128.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-128.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-128.png> <a0,fr127>
-<Images//ezgif-frame-129.png, id=482, 256.96pt x 144.54pt>
+<Images//ezgif-frame-129.png, id=494, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-129.png Graphic file (type png)
 <use Images//ezgif-frame-129.png>
-Package pdftex.def Info: Images//ezgif-frame-129.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-129.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
  <./Images//ezgif-frame-129.png> <a0,fr128>
-<Images//ezgif-frame-130.png, id=485, 256.96pt x 144.54pt>
+<Images//ezgif-frame-130.png, id=497, 256.96pt x 144.54pt>
 File: Images//ezgif-frame-130.png Graphic file (type png)
 <use Images//ezgif-frame-130.png>
-Package pdftex.def Info: Images//ezgif-frame-130.png  used on input line 366.
+Package pdftex.def Info: Images//ezgif-frame-130.png  used on input line 372.
 (pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
- <./Images//ezgif-frame-130.png> <a0,fr129>
-Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
+ <./Images//ezgif-frame-130.png>
+<a0,fr129>
+Overfull \hbox (10.95517pt too wide) in paragraph at lines 372--372
  [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -2342,7 +2352,7 @@ Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
-66.
+72.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [7
@@ -2367,7 +2377,7 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 <a1,fr115> <a1,fr116> <a1,fr117> <a1,fr118> <a1,fr119> <a1,fr120> <a1,fr121>
 <a1,fr122> <a1,fr123> <a1,fr124> <a1,fr125> <a1,fr126> <a1,fr127> <a1,fr128>
 <a1,fr129>
-Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
+Overfull \hbox (10.95517pt too wide) in paragraph at lines 372--372
  [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -2395,7 +2405,7 @@ Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
 <a2,fr114> <a2,fr115> <a2,fr116> <a2,fr117> <a2,fr118> <a2,fr119> <a2,fr120>
 <a2,fr121> <a2,fr122> <a2,fr123> <a2,fr124> <a2,fr125> <a2,fr126> <a2,fr127>
 <a2,fr128> <a2,fr129>
-Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
+Overfull \hbox (10.95517pt too wide) in paragraph at lines 372--372
  [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -2423,7 +2433,7 @@ Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
 <a3,fr114> <a3,fr115> <a3,fr116> <a3,fr117> <a3,fr118> <a3,fr119> <a3,fr120>
 <a3,fr121> <a3,fr122> <a3,fr123> <a3,fr124> <a3,fr125> <a3,fr126> <a3,fr127>
 <a3,fr128> <a3,fr129>
-Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
+Overfull \hbox (10.95517pt too wide) in paragraph at lines 372--372
  [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
 [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
 ][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
@@ -2435,534 +2445,553 @@ Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
 ] [11
 
 ]
-<Images//slam1.png, id=1077, 1039.885pt x 247.92625pt>
+<Images//slam1.png, id=1088, 1039.885pt x 247.92625pt>
 File: Images//slam1.png Graphic file (type png)
 <use Images//slam1.png>
-Package pdftex.def Info: Images//slam1.png  used on input line 409.
+Package pdftex.def Info: Images//slam1.png  used on input line 415.
 (pdftex.def)             Requested size: 227.62204pt x 54.26778pt.
  [12
 
  <./Images//slam1.png>]
-<Images//slam2.png, id=1088, 639.38875pt x 416.55624pt>
+<Images//slam2.png, id=1096, 639.38875pt x 416.55624pt>
 File: Images//slam2.png Graphic file (type png)
 <use Images//slam2.png>
-Package pdftex.def Info: Images//slam2.png  used on input line 422.
+Package pdftex.def Info: Images//slam2.png  used on input line 428.
 (pdftex.def)             Requested size: 227.62204pt x 148.29482pt.
  [13
 
  <./Images//slam2.png>]
-<Images//slam3.png, id=1097, 446.66875pt x 261.97874pt>
+<Images//slam3.png, id=1105, 446.66875pt x 261.97874pt>
 File: Images//slam3.png Graphic file (type png)
 <use Images//slam3.png>
-Package pdftex.def Info: Images//slam3.png  used on input line 430.
+Package pdftex.def Info: Images//slam3.png  used on input line 436.
 (pdftex.def)             Requested size: 227.62204pt x 133.50745pt.
  [14
 
  <./Images//slam3.png>]
-<Images//slam5.png, id=1105, 470.75874pt x 117.43875pt>
 File: Images//slam5.png Graphic file (type png)
 <use Images//slam5.png>
-Package pdftex.def Info: Images//slam5.png  used on input line 442.
-(pdftex.def)             Requested size: 227.62204pt x 56.78389pt.
-<Images//slam4.png, id=1106, 470.75874pt x 117.43875pt>
+Package pdftex.def Info: Images//slam5.png  used on input line 465.
+(pdftex.def)             Requested size: 199.16928pt x 49.6859pt.
+
+Overfull \hbox (10.39732pt too wide) in paragraph at lines 465--465
+[][]  
+ []
+
 File: Images//slam4.png Graphic file (type png)
 <use Images//slam4.png>
-Package pdftex.def Info: Images//slam4.png  used on input line 442.
-(pdftex.def)             Requested size: 227.62204pt x 56.78389pt.
- [15
+Package pdftex.def Info: Images//slam4.png  used on input line 465.
+(pdftex.def)             Requested size: 199.16928pt x 49.6859pt.
+
+Overfull \hbox (10.39732pt too wide) in paragraph at lines 465--465
+[][]  
+ []
+
+[15
 
  <./Images//slam5.png> <./Images//slam4.png>]
-<Images//map3d.jpg, id=1115, 1027.84pt x 509.905pt>
+<Images//map3d.jpg, id=1123, 1027.84pt x 509.905pt>
 File: Images//map3d.jpg Graphic file (type jpg)
 <use Images//map3d.jpg>
-Package pdftex.def Info: Images//map3d.jpg  used on input line 469.
+Package pdftex.def Info: Images//map3d.jpg  used on input line 492.
 (pdftex.def)             Requested size: 194.99364pt x 85.98245pt.
-<Images//map3d_2.png, id=1116, 287.3937pt x 133.2177pt>
-File: Images//map3d_2.png Graphic file (type png)
-<use Images//map3d_2.png>
-Package pdftex.def Info: Images//map3d_2.png  used on input line 469.
-(pdftex.def)             Requested size: 195.00414pt x 85.98471pt.
+<Images//rgbd.png, id=1124, 410.53375pt x 315.1775pt>
+File: Images//rgbd.png Graphic file (type png)
+<use Images//rgbd.png>
+Package pdftex.def Info: Images//rgbd.png  used on input line 492.
+(pdftex.def)             Requested size: 194.99928pt x 85.97914pt.
  [16
 
- <./Images//map3d.jpg> <./Images//map3d_2.png>]
-<Images//img4.png, id=1126, 1030.85126pt x 260.975pt>
+ <./Images//map3d.jpg> <./Images//rgbd.png>]
+<Images//img4.png, id=1134, 1030.85126pt x 260.975pt>
 File: Images//img4.png Graphic file (type png)
 <use Images//img4.png>
-Package pdftex.def Info: Images//img4.png  used on input line 487.
-(pdftex.def)             Requested size: 433.33208pt x 85.98264pt.
+Package pdftex.def Info: Images//img4.png  used on input line 519.
+(pdftex.def)             Requested size: 346.66252pt x 85.98264pt.
+File: Images//hgrid.png Graphic file (type png)
+<use Images//hgrid.png>
+Package pdftex.def Info: Images//hgrid.png  used on input line 519.
+(pdftex.def)             Requested size: 86.66478pt x 73.6998pt.
+File: Images//octree.png Graphic file (type png)
+<use Images//octree.png>
+Package pdftex.def Info: Images//octree.png  used on input line 519.
+(pdftex.def)             Requested size: 173.33086pt x 73.70119pt.
 
-Overfull \hbox (5.06245pt too wide) in paragraph at lines 487--487
- [][][] 
+Overfull \vbox (29.36156pt too high) detected at line 519
  []
 
 [17
 
- <./Images//img4.png>] [18
+ <./Images//img4.png> <./Images//hgrid.png> <./Images//octree.png>] [18
 
 ]
-<Images//control_drone.png, id=1142, 658.46pt x 263.98625pt>
-File: Images//control_drone.png Graphic file (type png)
-<use Images//control_drone.png>
-Package pdftex.def Info: Images//control_drone.png  used on input line 517.
-(pdftex.def)             Requested size: 281.67096pt x 112.9278pt.
+<Images//arq_basica.png, id=1152, 896.34875pt x 477.785pt>
+File: Images//arq_basica.png Graphic file (type png)
+<use Images//arq_basica.png>
+Package pdftex.def Info: Images//arq_basica.png  used on input line 548.
+(pdftex.def)             Requested size: 281.67096pt x 150.13855pt.
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 517.
- [19
+(Font)              scaled to size 5.0pt on input line 548.
 
- <./Images//control_drone.png>]
-<Images//architecture.png, id=1153, 413.545pt x 412.54124pt>
+[19
+
+ <./Images//arq_basica.png>]
+<Images//architecture.png, id=1163, 413.545pt x 412.54124pt>
 File: Images//architecture.png Graphic file (type png)
 <use Images//architecture.png>
-Package pdftex.def Info: Images//architecture.png  used on input line 537.
+Package pdftex.def Info: Images//architecture.png  used on input line 568.
 (pdftex.def)             Requested size: 173.33826pt x 172.91992pt.
  [20
 
  <./Images//architecture.png>]
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 566.
-<Images//video-0.png, id=1164, 602.25pt x 300.12125pt>
+(Font)              scaled to size 8.0pt on input line 597.
+<Images//video-0.png, id=1175, 602.25pt x 300.12125pt>
 File: Images//video-0.png Graphic file (type png)
 <use Images//video-0.png>
-Package pdftex.def Info: Images//video-0.png  used on input line 566.
+Package pdftex.def Info: Images//video-0.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-0.png> <a4,fr0>
-<Images//video-1.png, id=1169, 602.25pt x 300.12125pt>
+<Images//video-1.png, id=1179, 602.25pt x 300.12125pt>
 File: Images//video-1.png Graphic file (type png)
 <use Images//video-1.png>
-Package pdftex.def Info: Images//video-1.png  used on input line 566.
+Package pdftex.def Info: Images//video-1.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-1.png>
-<a4,fr1>
-<Images//video-2.png, id=1173, 602.25pt x 300.12125pt>
+ <./Images//video-1.png> <a4,fr1>
+<Images//video-2.png, id=1183, 602.25pt x 300.12125pt>
 File: Images//video-2.png Graphic file (type png)
 <use Images//video-2.png>
-Package pdftex.def Info: Images//video-2.png  used on input line 566.
+Package pdftex.def Info: Images//video-2.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-2.png> <a4,fr2>
-<Images//video-3.png, id=1177, 602.25pt x 300.12125pt>
+ <./Images//video-2.png>
+<a4,fr2>
+<Images//video-3.png, id=1187, 602.25pt x 300.12125pt>
 File: Images//video-3.png Graphic file (type png)
 <use Images//video-3.png>
-Package pdftex.def Info: Images//video-3.png  used on input line 566.
+Package pdftex.def Info: Images//video-3.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-3.png> <a4,fr3>
-<Images//video-4.png, id=1181, 602.25pt x 300.12125pt>
+<Images//video-4.png, id=1191, 602.25pt x 300.12125pt>
 File: Images//video-4.png Graphic file (type png)
 <use Images//video-4.png>
-Package pdftex.def Info: Images//video-4.png  used on input line 566.
+Package pdftex.def Info: Images//video-4.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-4.png> <a4,fr4>
-<Images//video-5.png, id=1185, 602.25pt x 300.12125pt>
+<Images//video-5.png, id=1195, 602.25pt x 300.12125pt>
 File: Images//video-5.png Graphic file (type png)
 <use Images//video-5.png>
-Package pdftex.def Info: Images//video-5.png  used on input line 566.
+Package pdftex.def Info: Images//video-5.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-5.png> <a4,fr5>
-<Images//video-6.png, id=1189, 602.25pt x 300.12125pt>
+<Images//video-6.png, id=1199, 602.25pt x 300.12125pt>
 File: Images//video-6.png Graphic file (type png)
 <use Images//video-6.png>
-Package pdftex.def Info: Images//video-6.png  used on input line 566.
+Package pdftex.def Info: Images//video-6.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-6.png> <a4,fr6>
-<Images//video-7.png, id=1193, 602.25pt x 300.12125pt>
+<Images//video-7.png, id=1203, 602.25pt x 300.12125pt>
 File: Images//video-7.png Graphic file (type png)
 <use Images//video-7.png>
-Package pdftex.def Info: Images//video-7.png  used on input line 566.
+Package pdftex.def Info: Images//video-7.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-7.png> <a4,fr7>
-<Images//video-8.png, id=1197, 602.25pt x 300.12125pt>
+<Images//video-8.png, id=1207, 602.25pt x 300.12125pt>
 File: Images//video-8.png Graphic file (type png)
 <use Images//video-8.png>
-Package pdftex.def Info: Images//video-8.png  used on input line 566.
+Package pdftex.def Info: Images//video-8.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-8.png>
-<a4,fr8>
-<Images//video-9.png, id=1201, 602.25pt x 300.12125pt>
+ <./Images//video-8.png> <a4,fr8>
+<Images//video-9.png, id=1211, 602.25pt x 300.12125pt>
 File: Images//video-9.png Graphic file (type png)
 <use Images//video-9.png>
-Package pdftex.def Info: Images//video-9.png  used on input line 566.
+Package pdftex.def Info: Images//video-9.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-9.png> <a4,fr9>
-<Images//video-10.png, id=1205, 602.25pt x 300.12125pt>
+ <./Images//video-9.png>
+<a4,fr9>
+<Images//video-10.png, id=1215, 602.25pt x 300.12125pt>
 File: Images//video-10.png Graphic file (type png)
 <use Images//video-10.png>
-Package pdftex.def Info: Images//video-10.png  used on input line 566.
+Package pdftex.def Info: Images//video-10.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-10.png> <a4,fr10>
-<Images//video-11.png, id=1209, 602.25pt x 300.12125pt>
+<Images//video-11.png, id=1219, 602.25pt x 300.12125pt>
 File: Images//video-11.png Graphic file (type png)
 <use Images//video-11.png>
-Package pdftex.def Info: Images//video-11.png  used on input line 566.
+Package pdftex.def Info: Images//video-11.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-11.png> <a4,fr11>
-<Images//video-12.png, id=1213, 602.25pt x 300.12125pt>
+<Images//video-12.png, id=1223, 602.25pt x 300.12125pt>
 File: Images//video-12.png Graphic file (type png)
 <use Images//video-12.png>
-Package pdftex.def Info: Images//video-12.png  used on input line 566.
+Package pdftex.def Info: Images//video-12.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-12.png> <a4,fr12>
-<Images//video-13.png, id=1217, 602.25pt x 300.12125pt>
+<Images//video-13.png, id=1227, 602.25pt x 300.12125pt>
 File: Images//video-13.png Graphic file (type png)
 <use Images//video-13.png>
-Package pdftex.def Info: Images//video-13.png  used on input line 566.
+Package pdftex.def Info: Images//video-13.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-13.png> <a4,fr13>
-<Images//video-14.png, id=1221, 602.25pt x 300.12125pt>
+<Images//video-14.png, id=1231, 602.25pt x 300.12125pt>
 File: Images//video-14.png Graphic file (type png)
 <use Images//video-14.png>
-Package pdftex.def Info: Images//video-14.png  used on input line 566.
+Package pdftex.def Info: Images//video-14.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-14.png> <a4,fr14>
-<Images//video-15.png, id=1225, 602.25pt x 300.12125pt>
+<Images//video-15.png, id=1235, 602.25pt x 300.12125pt>
 File: Images//video-15.png Graphic file (type png)
 <use Images//video-15.png>
-Package pdftex.def Info: Images//video-15.png  used on input line 566.
+Package pdftex.def Info: Images//video-15.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-15.png> <a4,fr15>
-<Images//video-16.png, id=1229, 602.25pt x 300.12125pt>
+<Images//video-16.png, id=1239, 602.25pt x 300.12125pt>
 File: Images//video-16.png Graphic file (type png)
 <use Images//video-16.png>
-Package pdftex.def Info: Images//video-16.png  used on input line 566.
+Package pdftex.def Info: Images//video-16.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
  <./Images//video-16.png> <a4,fr16>
-<Images//video-17.png, id=1233, 602.25pt x 300.12125pt>
+<Images//video-17.png, id=1243, 602.25pt x 300.12125pt>
 File: Images//video-17.png Graphic file (type png)
 <use Images//video-17.png>
-Package pdftex.def Info: Images//video-17.png  used on input line 566.
+Package pdftex.def Info: Images//video-17.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-17.png>
-<a4,fr17>
-<Images//video-18.png, id=1237, 602.25pt x 300.12125pt>
+ <./Images//video-17.png> <a4,fr17>
+<Images//video-18.png, id=1247, 602.25pt x 300.12125pt>
 File: Images//video-18.png Graphic file (type png)
 <use Images//video-18.png>
-Package pdftex.def Info: Images//video-18.png  used on input line 566.
+Package pdftex.def Info: Images//video-18.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-18.png> <a4,fr18>
-<Images//video-19.png, id=1241, 602.25pt x 300.12125pt>
+ <./Images//video-18.png>
+<a4,fr18>
+<Images//video-19.png, id=1251, 602.25pt x 300.12125pt>
 File: Images//video-19.png Graphic file (type png)
 <use Images//video-19.png>
-Package pdftex.def Info: Images//video-19.png  used on input line 566.
+Package pdftex.def Info: Images//video-19.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-19.png>
-<a4,fr19>
-<Images//video-20.png, id=1245, 602.25pt x 300.12125pt>
+ <./Images//video-19.png> <a4,fr19>
+<Images//video-20.png, id=1255, 602.25pt x 300.12125pt>
 File: Images//video-20.png Graphic file (type png)
 <use Images//video-20.png>
-Package pdftex.def Info: Images//video-20.png  used on input line 566.
+Package pdftex.def Info: Images//video-20.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-20.png> <a4,fr20>
-<Images//video-21.png, id=1249, 602.25pt x 300.12125pt>
+ <./Images//video-20.png>
+<a4,fr20>
+<Images//video-21.png, id=1259, 602.25pt x 300.12125pt>
 File: Images//video-21.png Graphic file (type png)
 <use Images//video-21.png>
-Package pdftex.def Info: Images//video-21.png  used on input line 566.
+Package pdftex.def Info: Images//video-21.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-21.png>
-<a4,fr21>
-<Images//video-22.png, id=1253, 602.25pt x 300.12125pt>
+ <./Images//video-21.png> <a4,fr21>
+<Images//video-22.png, id=1263, 602.25pt x 300.12125pt>
 File: Images//video-22.png Graphic file (type png)
 <use Images//video-22.png>
-Package pdftex.def Info: Images//video-22.png  used on input line 566.
+Package pdftex.def Info: Images//video-22.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-22.png> <a4,fr22>
-<Images//video-23.png, id=1257, 602.25pt x 300.12125pt>
+ <./Images//video-22.png>
+<a4,fr22>
+<Images//video-23.png, id=1267, 602.25pt x 300.12125pt>
 File: Images//video-23.png Graphic file (type png)
 <use Images//video-23.png>
-Package pdftex.def Info: Images//video-23.png  used on input line 566.
+Package pdftex.def Info: Images//video-23.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-23.png>
-<a4,fr23>
-<Images//video-24.png, id=1261, 602.25pt x 300.12125pt>
+ <./Images//video-23.png> <a4,fr23>
+<Images//video-24.png, id=1271, 602.25pt x 300.12125pt>
 File: Images//video-24.png Graphic file (type png)
 <use Images//video-24.png>
-Package pdftex.def Info: Images//video-24.png  used on input line 566.
+Package pdftex.def Info: Images//video-24.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-24.png> <a4,fr24>
-<Images//video-25.png, id=1265, 602.25pt x 300.12125pt>
+ <./Images//video-24.png>
+<a4,fr24>
+<Images//video-25.png, id=1275, 602.25pt x 300.12125pt>
 File: Images//video-25.png Graphic file (type png)
 <use Images//video-25.png>
-Package pdftex.def Info: Images//video-25.png  used on input line 566.
+Package pdftex.def Info: Images//video-25.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-25.png>
-<a4,fr25>
-<Images//video-26.png, id=1269, 602.25pt x 300.12125pt>
+ <./Images//video-25.png> <a4,fr25>
+<Images//video-26.png, id=1279, 602.25pt x 300.12125pt>
 File: Images//video-26.png Graphic file (type png)
 <use Images//video-26.png>
-Package pdftex.def Info: Images//video-26.png  used on input line 566.
+Package pdftex.def Info: Images//video-26.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-26.png> <a4,fr26>
-<Images//video-27.png, id=1273, 602.25pt x 300.12125pt>
+ <./Images//video-26.png>
+<a4,fr26>
+<Images//video-27.png, id=1283, 602.25pt x 300.12125pt>
 File: Images//video-27.png Graphic file (type png)
 <use Images//video-27.png>
-Package pdftex.def Info: Images//video-27.png  used on input line 566.
+Package pdftex.def Info: Images//video-27.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-27.png>
-<a4,fr27>
-<Images//video-28.png, id=1277, 602.25pt x 300.12125pt>
+ <./Images//video-27.png> <a4,fr27>
+<Images//video-28.png, id=1287, 602.25pt x 300.12125pt>
 File: Images//video-28.png Graphic file (type png)
 <use Images//video-28.png>
-Package pdftex.def Info: Images//video-28.png  used on input line 566.
+Package pdftex.def Info: Images//video-28.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-28.png> <a4,fr28>
-<Images//video-29.png, id=1281, 602.25pt x 300.12125pt>
+ <./Images//video-28.png>
+<a4,fr28>
+<Images//video-29.png, id=1291, 602.25pt x 300.12125pt>
 File: Images//video-29.png Graphic file (type png)
 <use Images//video-29.png>
-Package pdftex.def Info: Images//video-29.png  used on input line 566.
+Package pdftex.def Info: Images//video-29.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-29.png>
-<a4,fr29>
-<Images//video-30.png, id=1285, 602.25pt x 300.12125pt>
+ <./Images//video-29.png> <a4,fr29>
+<Images//video-30.png, id=1295, 602.25pt x 300.12125pt>
 File: Images//video-30.png Graphic file (type png)
 <use Images//video-30.png>
-Package pdftex.def Info: Images//video-30.png  used on input line 566.
+Package pdftex.def Info: Images//video-30.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-30.png> <a4,fr30>
-<Images//video-31.png, id=1289, 602.25pt x 300.12125pt>
+ <./Images//video-30.png>
+<a4,fr30>
+<Images//video-31.png, id=1299, 602.25pt x 300.12125pt>
 File: Images//video-31.png Graphic file (type png)
 <use Images//video-31.png>
-Package pdftex.def Info: Images//video-31.png  used on input line 566.
+Package pdftex.def Info: Images//video-31.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-31.png>
-<a4,fr31>
-<Images//video-32.png, id=1293, 602.25pt x 300.12125pt>
+ <./Images//video-31.png> <a4,fr31>
+<Images//video-32.png, id=1303, 602.25pt x 300.12125pt>
 File: Images//video-32.png Graphic file (type png)
 <use Images//video-32.png>
-Package pdftex.def Info: Images//video-32.png  used on input line 566.
+Package pdftex.def Info: Images//video-32.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-32.png> <a4,fr32>
-<Images//video-33.png, id=1297, 602.25pt x 300.12125pt>
+ <./Images//video-32.png>
+<a4,fr32>
+<Images//video-33.png, id=1307, 602.25pt x 300.12125pt>
 File: Images//video-33.png Graphic file (type png)
 <use Images//video-33.png>
-Package pdftex.def Info: Images//video-33.png  used on input line 566.
+Package pdftex.def Info: Images//video-33.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-33.png>
-<a4,fr33>
-<Images//video-34.png, id=1301, 602.25pt x 300.12125pt>
+ <./Images//video-33.png> <a4,fr33>
+<Images//video-34.png, id=1311, 602.25pt x 300.12125pt>
 File: Images//video-34.png Graphic file (type png)
 <use Images//video-34.png>
-Package pdftex.def Info: Images//video-34.png  used on input line 566.
+Package pdftex.def Info: Images//video-34.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-34.png> <a4,fr34>
-<Images//video-35.png, id=1305, 602.25pt x 300.12125pt>
+ <./Images//video-34.png>
+<a4,fr34>
+<Images//video-35.png, id=1315, 602.25pt x 300.12125pt>
 File: Images//video-35.png Graphic file (type png)
 <use Images//video-35.png>
-Package pdftex.def Info: Images//video-35.png  used on input line 566.
+Package pdftex.def Info: Images//video-35.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-35.png>
-<a4,fr35>
-<Images//video-36.png, id=1309, 602.25pt x 300.12125pt>
+ <./Images//video-35.png> <a4,fr35>
+<Images//video-36.png, id=1319, 602.25pt x 300.12125pt>
 File: Images//video-36.png Graphic file (type png)
 <use Images//video-36.png>
-Package pdftex.def Info: Images//video-36.png  used on input line 566.
+Package pdftex.def Info: Images//video-36.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-36.png> <a4,fr36>
-<Images//video-37.png, id=1313, 602.25pt x 300.12125pt>
+ <./Images//video-36.png>
+<a4,fr36>
+<Images//video-37.png, id=1323, 602.25pt x 300.12125pt>
 File: Images//video-37.png Graphic file (type png)
 <use Images//video-37.png>
-Package pdftex.def Info: Images//video-37.png  used on input line 566.
+Package pdftex.def Info: Images//video-37.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-37.png>
-<a4,fr37>
-<Images//video-38.png, id=1317, 602.25pt x 300.12125pt>
+ <./Images//video-37.png> <a4,fr37>
+<Images//video-38.png, id=1327, 602.25pt x 300.12125pt>
 File: Images//video-38.png Graphic file (type png)
 <use Images//video-38.png>
-Package pdftex.def Info: Images//video-38.png  used on input line 566.
+Package pdftex.def Info: Images//video-38.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-38.png> <a4,fr38>
-<Images//video-39.png, id=1321, 602.25pt x 300.12125pt>
+ <./Images//video-38.png>
+<a4,fr38>
+<Images//video-39.png, id=1331, 602.25pt x 300.12125pt>
 File: Images//video-39.png Graphic file (type png)
 <use Images//video-39.png>
-Package pdftex.def Info: Images//video-39.png  used on input line 566.
+Package pdftex.def Info: Images//video-39.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-39.png>
-<a4,fr39>
-<Images//video-40.png, id=1325, 602.25pt x 300.12125pt>
+ <./Images//video-39.png> <a4,fr39>
+<Images//video-40.png, id=1335, 602.25pt x 300.12125pt>
 File: Images//video-40.png Graphic file (type png)
 <use Images//video-40.png>
-Package pdftex.def Info: Images//video-40.png  used on input line 566.
+Package pdftex.def Info: Images//video-40.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-40.png> <a4,fr40>
-<Images//video-41.png, id=1329, 602.25pt x 300.12125pt>
+ <./Images//video-40.png>
+<a4,fr40>
+<Images//video-41.png, id=1339, 602.25pt x 300.12125pt>
 File: Images//video-41.png Graphic file (type png)
 <use Images//video-41.png>
-Package pdftex.def Info: Images//video-41.png  used on input line 566.
+Package pdftex.def Info: Images//video-41.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-41.png>
-<a4,fr41>
-<Images//video-42.png, id=1333, 602.25pt x 300.12125pt>
+ <./Images//video-41.png> <a4,fr41>
+<Images//video-42.png, id=1343, 602.25pt x 300.12125pt>
 File: Images//video-42.png Graphic file (type png)
 <use Images//video-42.png>
-Package pdftex.def Info: Images//video-42.png  used on input line 566.
+Package pdftex.def Info: Images//video-42.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-42.png> <a4,fr42>
-<Images//video-43.png, id=1337, 602.25pt x 300.12125pt>
+ <./Images//video-42.png>
+<a4,fr42>
+<Images//video-43.png, id=1347, 602.25pt x 300.12125pt>
 File: Images//video-43.png Graphic file (type png)
 <use Images//video-43.png>
-Package pdftex.def Info: Images//video-43.png  used on input line 566.
+Package pdftex.def Info: Images//video-43.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-43.png>
-<a4,fr43>
-<Images//video-44.png, id=1341, 602.25pt x 300.12125pt>
+ <./Images//video-43.png> <a4,fr43>
+<Images//video-44.png, id=1351, 602.25pt x 300.12125pt>
 File: Images//video-44.png Graphic file (type png)
 <use Images//video-44.png>
-Package pdftex.def Info: Images//video-44.png  used on input line 566.
+Package pdftex.def Info: Images//video-44.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-44.png> <a4,fr44>
-<Images//video-45.png, id=1345, 602.25pt x 300.12125pt>
+ <./Images//video-44.png>
+<a4,fr44>
+<Images//video-45.png, id=1355, 602.25pt x 300.12125pt>
 File: Images//video-45.png Graphic file (type png)
 <use Images//video-45.png>
-Package pdftex.def Info: Images//video-45.png  used on input line 566.
+Package pdftex.def Info: Images//video-45.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-45.png>
-<a4,fr45>
-<Images//video-46.png, id=1349, 602.25pt x 300.12125pt>
+ <./Images//video-45.png> <a4,fr45>
+<Images//video-46.png, id=1359, 602.25pt x 300.12125pt>
 File: Images//video-46.png Graphic file (type png)
 <use Images//video-46.png>
-Package pdftex.def Info: Images//video-46.png  used on input line 566.
+Package pdftex.def Info: Images//video-46.png  used on input line 597.
 (pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-46.png> <a4,fr46> [21
+ <./Images//video-46.png>
+<a4,fr46> [21
 
 ]
-File: Images//map3d.jpg Graphic file (type jpg)
-<use Images//map3d.jpg>
-Package pdftex.def Info: Images//map3d.jpg  used on input line 600.
-(pdftex.def)             Requested size: 194.99364pt x 73.69702pt.
-File: Images//map3d_2.png Graphic file (type png)
-<use Images//map3d_2.png>
-Package pdftex.def Info: Images//map3d_2.png  used on input line 600.
-(pdftex.def)             Requested size: 195.00414pt x 73.70088pt.
+<Images//rrt.png, id=1424, 747.54282pt x 576.65437pt>
+File: Images//rrt.png Graphic file (type png)
+<use Images//rrt.png>
+Package pdftex.def Info: Images//rrt.png  used on input line 631.
+(pdftex.def)             Requested size: 194.99532pt x 73.69183pt.
+<Images//astar.jpg, id=1425, 361.35pt x 221.92645pt>
+File: Images//astar.jpg Graphic file (type jpg)
+<use Images//astar.jpg>
+Package pdftex.def Info: Images//astar.jpg  used on input line 631.
+(pdftex.def)             Requested size: 195.00479pt x 73.69987pt.
+ [22
 
-Overfull \vbox (53.52428pt too high) detected at line 600
- []
-
-[22
-
-] (./template.toc
+ <./Images//rrt.png> <./Images//astar.jpg>] (./template.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [23
+)
+[23
 
 ]
-<Images//exploracion.png, id=1433, 618.31pt x 211.79124pt>
+<Images//exploracion.png, id=1445, 618.31pt x 211.79124pt>
 File: Images//exploracion.png Graphic file (type png)
 <use Images//exploracion.png>
-Package pdftex.def Info: Images//exploracion.png  used on input line 623.
+Package pdftex.def Info: Images//exploracion.png  used on input line 654.
 (pdftex.def)             Requested size: 170.71652pt x 58.47383pt.
  [24
 
  <./Images//exploracion.png>]
 File: Images//exploracion.png Graphic file (type png)
 <use Images//exploracion.png>
-Package pdftex.def Info: Images//exploracion.png  used on input line 623.
+Package pdftex.def Info: Images//exploracion.png  used on input line 654.
 (pdftex.def)             Requested size: 170.71652pt x 58.47383pt.
  [25
 
-] [26
-
-] [27
-
 ]
-LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 653.
-<Images//maxresdefault.jpg, id=1463, 1284.8pt x 722.7pt>
-File: Images//maxresdefault.jpg Graphic file (type jpg)
-<use Images//maxresdefault.jpg>
-Package pdftex.def Info: Images//maxresdefault.jpg  used on input line 653.
-(pdftex.def)             Requested size: 216.67201pt x 121.87592pt.
+<Images//fronteras.png, id=1460, 297.11pt x 170.6375pt>
+File: Images//fronteras.png Graphic file (type png)
+<use Images//fronteras.png>
+Package pdftex.def Info: Images//fronteras.png  used on input line 669.
+(pdftex.def)             Requested size: 170.71652pt x 98.05069pt.
+ [26
 
-Overfull \hbox (4.27783pt too wide) in paragraph at lines 653--653
-[][]$[]$ 
- []
+ <./Images//fronteras.png>]
+<Images//nbvprrt.png, id=1470, 508.90125pt x 359.3425pt>
+File: Images//nbvprrt.png Graphic file (type png)
+<use Images//nbvprrt.png>
+Package pdftex.def Info: Images//nbvprrt.png  used on input line 685.
+(pdftex.def)             Requested size: 113.81102pt x 80.36057pt.
 
-[28
+[27
 
- <./Images//maxresdefault.jpg>]
-<Images//estrategia.png, id=1476, 151.56625pt x 302.12875pt>
-File: Images//estrategia.png Graphic file (type png)
-<use Images//estrategia.png>
-Package pdftex.def Info: Images//estrategia.png  used on input line 673.
-(pdftex.def)             Requested size: 86.66748pt x 172.76378pt.
- [29
-
- <./Images//estrategia.png>]
-<Images//arquitectura.png, id=1484, 879.285pt x 462.72874pt>
-File: Images//arquitectura.png Graphic file (type png)
-<use Images//arquitectura.png>
-Package pdftex.def Info: Images//arquitectura.png  used on input line 681.
-(pdftex.def)             Requested size: 426.79134pt x 224.59969pt.
-
-Overfull \vbox (4.17017pt too high) detected at line 681
- []
-
-[30
-
- <./Images//arquitectura.png>]
-<Images//foldable-drone.png, id=1492, 707.64375pt x 348.55219pt>
-File: Images//foldable-drone.png Graphic file (type png)
-<use Images//foldable-drone.png>
-Package pdftex.def Info: Images//foldable-drone.png  used on input line 735.
-(pdftex.def)             Requested size: 216.67201pt x 106.72043pt.
-
-Overfull \hbox (4.27783pt too wide) in paragraph at lines 735--735
-[][]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 735--735
-[]$\OT1/pcr/m/n/6 https : / / www . therobotreport . com /
- []
-
-[31
-
- <./Images//foldable-drone.png>] (./template.toc
+ <./Images//nbvprrt.png>] (./template.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [32
+) [28
 
-] [33
+]
+<Images//coordination.png, id=1491, 378.41376pt x 219.82124pt>
+File: Images//coordination.png Graphic file (type png)
+<use Images//coordination.png>
+Package pdftex.def Info: Images//coordination.png  used on input line 737.
+(pdftex.def)             Requested size: 173.33826pt x 100.69301pt.
+ [29
+
+ <./Images//coordination.png>] [30
 
 ] (./template.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [34
+) [31
 
-] [35
+] [32
 
 ]
-<Images//ros_1.png, id=1536, 1606.0pt x 903.375pt>
+<Images//ros_1.png, id=1525, 1606.0pt x 903.375pt>
 File: Images//ros_1.png Graphic file (type png)
 <use Images//ros_1.png>
-Package pdftex.def Info: Images//ros_1.png  used on input line 761.
+Package pdftex.def Info: Images//ros_1.png  used on input line 772.
 (pdftex.def)             Requested size: 325.00801pt x 182.80838pt.
- [36
+ [33
 
  <./Images//ros_1.png>]
-<Images//visual.png, id=1543, 622.325pt x 542.025pt>
-File: Images//visual.png Graphic file (type png)
-<use Images//visual.png>
-Package pdftex.def Info: Images//visual.png  used on input line 769.
-(pdftex.def)             Requested size: 247.00926pt x 215.13548pt.
- [37
-
- <./Images//visual.png>]
 LaTeX Font Info:    Trying to load font information for TS1+opensans-TLF on inp
-ut line 778.
+ut line 781.
 
 (/usr/share/texlive/texmf-dist/tex/latex/opensans/TS1opensans-TLF.fd
 File: TS1opensans-TLF.fd 2019/06/24 Font definitions for TS1/opensans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/opensans-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 778.
- [38
+(Font)              scaled to size 10.95pt on input line 781.
+ [34
 
 ]
-(./template.bbl
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-3.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
-File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-))
+<Images//visual.png, id=1543, 622.325pt x 542.025pt>
+File: Images//visual.png Graphic file (type png)
+<use Images//visual.png>
+Package pdftex.def Info: Images//visual.png  used on input line 789.
+(pdftex.def)             Requested size: 247.00926pt x 215.13548pt.
+
+[35
+
+ <./Images//visual.png>] (./template.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+) [36
+
+]
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 812.
+LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
+(Font)              scaled to size 7.0pt on input line 812.
+<Images//maxresdefault.jpg, id=1566, 1284.8pt x 722.7pt>
+File: Images//maxresdefault.jpg Graphic file (type jpg)
+<use Images//maxresdefault.jpg>
+Package pdftex.def Info: Images//maxresdefault.jpg  used on input line 812.
+(pdftex.def)             Requested size: 216.67201pt x 121.87592pt.
+
+Overfull \hbox (4.27783pt too wide) in paragraph at lines 812--812
+[][]$[]$ 
+ []
+
+[37
+
+ <./Images//maxresdefault.jpg>]
+<Images//estrategia.png, id=1579, 151.56625pt x 302.12875pt>
+File: Images//estrategia.png Graphic file (type png)
+<use Images//estrategia.png>
+Package pdftex.def Info: Images//estrategia.png  used on input line 832.
+(pdftex.def)             Requested size: 86.66748pt x 172.76378pt.
+ [38
+
+ <./Images//estrategia.png>]
+<Images//arquitectura.png, id=1587, 879.285pt x 462.72874pt>
+File: Images//arquitectura.png Graphic file (type png)
+<use Images//arquitectura.png>
+Package pdftex.def Info: Images//arquitectura.png  used on input line 840.
+(pdftex.def)             Requested size: 426.79134pt x 224.59969pt.
+
+Overfull \vbox (4.17017pt too high) detected at line 840
+ []
+
 [39
 
-] [40
+ <./Images//arquitectura.png>] (./template.bbl) [40
+
+] [41
 
 
 ]
@@ -2980,19 +3009,19 @@ LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
 )
 Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 3D5D4C897DA73F36B088767A910C988D;656.
+(rerunfilecheck)             Checksum: 22EDE8064FD81C30C53E756FFDFFA480;749.
  ) 
 Here is how much of TeX's memory you used:
- 36556 strings out of 478287
- 737151 string characters out of 5849289
- 1061068 words of memory out of 5000000
- 53696 multiletter control sequences out of 15000+600000
- 503722 words of font info for 115 fonts, out of 8000000 for 9000
+ 36652 strings out of 478287
+ 738736 string characters out of 5849289
+ 1061471 words of memory out of 5000000
+ 53784 multiletter control sequences out of 15000+600000
+ 507989 words of font info for 123 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,131p,608b,895s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
-e/texmf-dist/fonts/enc/dvips/opensans/a_nvvucy.enc}{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/opensans/a_iz27ck.enc}{/usr/share/texlive/texmf-dist/fonts/e
+ 128i,16n,131p,608b,895s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/opensans/a_nvvucy.enc}{/usr/sh
+are/texlive/texmf-dist/fonts/enc/dvips/opensans/a_iz27ck.enc}{/usr/share/texliv
+e/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fonts/e
 nc/dvips/opensans/a_n3lhbv.enc}</usr/share/texlive/texmf-dist/fonts/type1/ascen
 der/opensans/OpenSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/ascen
 der/opensans/OpenSans-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/asc
@@ -3004,10 +3033,10 @@ nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on template.pdf (40 pages, 14381490 bytes).
+Output written on template.pdf (41 pages, 13227616 bytes).
 PDF statistics:
- 1666 PDF objects out of 1728 (max. 8388607)
- 1138 compressed objects within 12 object streams
- 103 named destinations out of 1000 (max. 500000)
- 2176 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1696 PDF objects out of 1728 (max. 8388607)
+ 1157 compressed objects within 12 object streams
+ 107 named destinations out of 1000 (max. 500000)
+ 2214 words of extra memory for PDF output out of 10000 (max. 10000000)
 

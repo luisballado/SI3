@@ -1,9 +1,17 @@
-\begin{thebibliography}{16}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bircher et~al.(2016)Bircher, Kamel, Alexis, Oleynikova, and
+  Siegwart]{nbvprrt}
+A.~Bircher, M.~Kamel, K.~Alexis, H.~Oleynikova, and R.~Siegwart.
+\newblock Receding horizon "next-best-view" planner for 3d exploration.
+\newblock In \emph{2016 IEEE International Conference on Robotics and
+  Automation (ICRA)}, pages 1462--1468, 2016.
+\newblock \doi{10.1109/ICRA.2016.7487281}.
 
 \bibitem[Brooks(1985)]{1087348}
 R.~Brooks.
@@ -52,16 +60,6 @@ J.~C. Elizondo~Leal.
 \newblock URL
   \url{https://repositorio.cinvestav.mx/handle/cinvestav/69?locale-attribute=en}.
 
-\bibitem[Hornung et~al.(2013)Hornung, Wurm, Bennewitz, Stachniss, and
-  Burgard]{hornung13auro}
-A.~Hornung, K.~M. Wurm, M.~Bennewitz, C.~Stachniss, and W.~Burgard.
-\newblock {OctoMap}: An efficient probabilistic {3D} mapping framework based on
-  octrees.
-\newblock \emph{Autonomous Robots}, 2013.
-\newblock \doi{10.1007/s10514-012-9321-0}.
-\newblock URL \url{https://octomap.github.io}.
-\newblock Software available at \url{https://octomap.github.io}.
-
 \bibitem[Mir et~al.(2022)Mir, Gul, Mir, Khan, Saeed, Abualigah, Abuhaija, and
   Gandomi]{Mir2022}
 I.~Mir, F.~Gul, S.~Mir, M.~A. Khan, N.~Saeed, L.~Abualigah, B.~Abuhaija, and
@@ -88,6 +86,13 @@ F.~Nex, C.~Armenakis, M.~Cramer, D.~Cucci, M.~Gerke, E.~Honkavaara, A.~Kukko,
 \newblock ISSN 0924-2716.
 \newblock \doi{10.1016/j.isprsjprs.2021.12.006}.
 \newblock URL \url{http://dx.doi.org/10.1016/j.isprsjprs.2021.12.006}.
+
+\bibitem[Prorok et~al.(2021)Prorok, Malencia, Carlone, Sukhatme, Sadler, and
+  Kumar]{amanda}
+A.~Prorok, M.~Malencia, L.~Carlone, G.~S. Sukhatme, B.~M. Sadler, and V.~Kumar.
+\newblock Beyond robustness: A taxonomy of approaches towards resilient
+  multi-robot systems, 2021.
+\newblock URL \url{https://arxiv.org/abs/2109.12343}.
 
 \bibitem[Quan et~al.(2020)Quan, Han, Zhou, Shen, and Gao]{Quan2020}
 L.~Quan, L.~Han, B.~Zhou, S.~Shen, and F.~Gao.

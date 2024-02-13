@@ -287,6 +287,7 @@
   \item \textbf{Aplicaciones} en lugares inaccesibles o peligrosos.
   \item \textbf{Múltiples VANT} pueden reducir el tiempo de exploración y aumentar la confianza del sistema.
   \item \textbf{Limitaciones} en carga, procesamiento y batería influyen en el tiempo de vuelo.
+  \item \textbf{UAV $\implies$ UAS}
   \end{itemize}
 
   \footnotetext{UAV in the advent of the twenties: Where we stand and what is next [\cite{Nex2022}]}
@@ -315,13 +316,18 @@
 
   \begin{minipage}{0.47\textwidth}
     
-    \small UN blah blah ...
+    \small Un VANT de cuatro rotores cuenta con seis grados de libertar (DoF), tres coordenadas lineales x,y,z y tres coordenadas angulares y cuatro entradas $(u_1,u_2,u_3,u_4)$ o variables de control.\\
     
+    Estados del VANT \\
+    $(x,y,z,\phi,\theta,\Psi,\dot{x},\dot{y},\dot{z},\dot{\phi},\dot{\theta},\dot{\Psi})^\mathrm{T}$
+
+    \bigskip % Vertical whitespace
+    
+    Donde:
     \begin{itemize}
-    \item item
-    \item item
-    \item item
-    \item item
+    \item $\xi = (x,y,z)^\mathrm{T}$ representan la posición linear
+    \item $\eta = (\phi,\theta,\Psi)^\mathrm{T}$ ángulos de euler: roll, pitch, yaw
+    \item $(\dot{x},\dot{y},\dot{z},\dot{\phi},\dot{\theta},\dot{\Psi})^\mathrm{T}$ velocidades lineares y angulares
     \end{itemize}
   \end{minipage}
   \hspace{0.2cm}
@@ -334,7 +340,7 @@
 
 \begin{frame}  
   %\centering
-  Principales preguntas que un robot autónomo debe responder \footnotemark
+  Principales preguntas que un \underline{robot autónomo} debe responder \footnotemark
   \bigskip % Vertical whitespace
   \begin{itemize}
   \item \textcolor{blue}{¿Dónde estoy?} $\implies$ Localización y representación del medio ambiente \pause 
@@ -342,7 +348,7 @@
   \item \textcolor{blue}{¿Cómo llego hasta ahí?} $\implies$ Planificación de trayectoria 
   \end{itemize}
   \pause
-  \bigskip % Vertical whitespace
+  %\bigskip % Vertical whitespace
 
   \begin{minipage}{0.47\textwidth}
     Para resolver estas preguntas,\\
@@ -390,18 +396,18 @@
 
   Dados:
   \begin{itemize}
-  \item Conjunto de observaciones $z = \{z_1,z_2,...,z_t\}$
-  \item Conjunto de comandos de control $u = \{u_1,u_2,...,u_t\}$
+  \item Conjunto de observaciones $z(t) = \{z_1,z_2,...,z_t\}$
+  \item Conjunto de comandos de control $u(t) = \{u_1,u_2,...,u_t\}$
   \end{itemize}
   \bigskip % Vertical whitespace
   Requerimos:
   \begin{itemize}
   \item Mapa del ambiente $m$
-  \item Trayectoria del robot $x = \{x_1,x_2,...,x_t\}$
+  \item Trayectoria del robot $x(t) = \{x_1,x_2,...,x_t\}$
   \end{itemize}
   \bigskip % Vertical whitespace
   
-  En terminos probabilisticos: Estimar la trayectoria del robot y el mapa
+  En terminos probabilisticos, queremos estimar la trayectoria del robot y el mapa
 
   \centering
   \includegraphics[width=8cm]{slam1}
@@ -433,20 +439,37 @@
 
   \centering
 
+  \bigskip % Vertical whitespace
+  \addvspace{\medskipamount}
+  \noindent
+  \begin{tabularx}{\linewidth}{ @{} X X @{} }
+    \begin{itemize}
+    \item Observación\\
+      \includegraphics[width=7cm]{slam5}
+    \end{itemize} &
+    \begin{itemize}
+    \item Posición\\
+      \includegraphics[width=7cm]{slam4}  
+    \end{itemize}
+    
+  \end{tabularx}
+  
+  Existen diversos paradigmas para resolver el problema \\
+  \bigskip % Vertical whitespace
   \begin{itemize}
-  \item Observación\\
-    \includegraphics[width=8cm]{slam5}  
-  \item Posición\\
-    \includegraphics[width=8cm]{slam4}  
-  \end{itemize}  
+  \item Filtro de Kalman
+  \item Filtro de Particulas
+  \item Basado en Grafos
+  \end{itemize}
+  
 \end{frame}
 
 \begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
   \bigskip % Vertical whitespace
   \centering
-  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d.jpg}$^\dag$
+  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d.jpg}
   \hfil
-  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d_2}$^\dag$
+  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{rgbd}
   \vspace{2pt}\\
   \bigskip % Vertical whitespace
   Es la construcción de un mapa del entorno, realizada por un robot, utilizando información espacial obtenida durante el paso del tiempo. [\citeauthor{Wallgrn2010} 2010]\\
@@ -454,7 +477,7 @@
   Fuentes de información:
   \begin{itemize}
   \item Escáners láser tipo LIDAR.
-  \item Cámaras RGBD.
+  \item Cámaras RGB-D.
   \end{itemize}  
 
   \bigskip % Vertical whitespace
@@ -469,20 +492,29 @@
 \end{frame}
 
 \begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
-  \bigskip % Vertical whitespace
   \centering
-  \includegraphics[width=1\textwidth,height=0.35\textheight]{img4}\footnotemark
-  \vspace{2pt}\\
-  \bigskip % Vertical whitespace
+  \begin{figure}[h]
+    \includegraphics[width=0.8\textwidth,height=0.35\textheight]{img4}%\footnotemark 
+    {\tiny \caption{Nube de puntos, Mapa de elevación, Superficies multi-nivel, Octomap}}
+  \end{figure}
   
-  \begin{itemize}
-  \item Nube de puntos.
-  \item Mapa de elevación.
-  \item Superficies multi-nivel.
-  \item Octomap (Octree).
-  \item Hash Grid (HGrid).
-  \end{itemize}
-  \footnotetext{OctoMap: An Efficient Probabilistic 3D Mapping Framework Based on Octrees [\cite{hornung13auro}]}
+  \addvspace{\medskipamount}
+  \noindent
+  \begin{tabularx}{\linewidth}{ @{} X X @{} }
+    
+    \begin{figure}[h]
+      \includegraphics[width=0.2\textwidth,height=0.3\textheight]{hgrid}
+      {\tiny \caption{Hash Grid}}
+    \end{figure}
+    &
+    \begin{figure}[h]
+      \includegraphics[width=0.4\textwidth,height=0.3\textheight]{octree}
+      {\tiny \caption{Octree}}
+    \end{figure}
+    
+  \end{tabularx}
+
+  %\footnotetext{\tiny OctoMap: An Efficient Probabilistic 3D Mapping Framework Based on Octrees [\cite{hornung13auro}]}
   
 \end{frame}
 
@@ -492,8 +524,7 @@
   \item Hash Grid (HGrid)
     \begin{itemize}
     \item Funciona bien para consultas de vecinos cercanos y búsquedas en un espacio tridimensional.
-    \item Puede ser adaptativa a la densidad de objetos en diferentes áreas del espacio.
-      \item Similar a la descomposición de un octree, pero su implementación con arrays, le permite una complejidad $O(1)$
+    \item Similar a la descomposición de un octree, pero su implementación con arrays le permite una complejidad $O(1)$ para consultas.
     \item Puede requerir más memoria dependiendo de la resolución de la cuadrícula y la complejidad de la función hash.
     \end{itemize}
   \item Octomap (Octree).
@@ -508,11 +539,11 @@
 \begin{frame}{Toma de decisiones - ¿A dónde voy?}
   %\centering
   \begin{figure}[h]
-    \includegraphics[width=0.65\textwidth]{control_drone.png}
-    \caption{Diagrama control lazo cerrado VANT}
+    \includegraphics[width=0.65\textwidth]{arq_basica}
+    \caption{Arquitectura básica de un robot móvil}
   \end{figure}
   \bigskip % Vertical whitespace
-  \small Un sistema de control para un robot móvil autónomo opera en un entorno donde las condiciones están cambiando rápidamente. (considerando el problema de control instantáneo en una formulación clásica de teoría de control) \footnote{A robust layered control system for a mobile robot [\cite{brooks_robot}]}
+  \tiny Un sistema de control para un robot móvil autónomo opera en un entorno donde las condiciones están cambiando rápidamente. (considerando el problema de control instantáneo en una formulación clásica de teoría de control) \\\footnote{{\tiny robust layered control system for a mobile robot [\cite{brooks_robot}]}}
   
 \end{frame}
 
@@ -565,38 +596,38 @@
   
 \end{frame}
 
-\begin{frame}{Planificación de movimiento}
+\begin{frame}{Planificación de trayectoria - ¿Cómo llego hasta ahí?}
   \bigskip % Vertical whitespace
   \centering
-  \includegraphics[width=0.45\textwidth,height=0.30\textheight]{map3d.jpg}$^\dag$
+  \includegraphics[width=0.45\textwidth,height=0.30\textheight]{rrt}
   \hfil
-  \includegraphics[width=0.45\textwidth,height=0.30\textheight]{map3d_2}$^\dag$
-  \vspace{1pt}\\
-  \bigskip % Vertical whitespace
-  Indica a un robot como moverse de un punto a otro en su entorno. Implica la generación de trayectorias y movimientos que permiten a los robots cumplir sus tareas o alcanzar sus objetivos mientras evitan obstáculos \footnotemark.\\
+  \includegraphics[width=0.45\textwidth,height=0.30\textheight]{astar.jpg}
+  \vspace{0.5pt}\\
+  %\bigskip % Vertical whitespace
+  %Indica a un robot como moverse de un punto a otro en su entorno. Implica la generación de trayectorias y movimientos que permiten a los robots cumplir sus tareas o alcanzar sus objetivos mientras evitan obstáculos \footnotemark.}\\
   \bigskip % Vertical whitespace
   \addvspace{\medskipamount}
   \noindent
   \begin{tabularx}{\linewidth}{ @{} X X @{} }
-    Por Grafos
+    Por Grafos \footnotemark
     
     \begin{itemize}
     \item Grafos de visibilidad. 
     \item Diagramas de Voronoi.
     \item Descomposición por celdas.
-    \item Consulta única (RRT)
+    \item Arboles de exploración rápida (RRT).
     \item Consulta múltiple (PRM)
     \end{itemize} &
 
     Algoritmos
     
     \begin{itemize}
-    \item BFS, DFS
-    \item A*, D*
+    \item BFS (a) , DFS
+    \item A* (b), D*
     \item Dijkstra
     \end{itemize}
   \end{tabularx}
-  \footnotetext{Different Cell Decomposition Path Planning Methods for Unmanned Air Vehicles A Review [\cite{Debnath2020}]}
+  \footnotetext{{\tiny Different Cell Decomposition Path Planning Methods for Unmanned Air Vehicles A Review [\cite{Debnath2020}]}}
 \end{frame}
 
 \section{Exploración}
@@ -622,14 +653,142 @@
   
 \end{frame}
 
-\begin{frame}
-  Enfoques de Exploración Por fronteras y NBVP
+\begin{frame}{Exploración basada en fronteras}
+
+  \begin{itemize}
+  \item \textbf{Idea:} Mover al robot hacia las regiones desconocidas
+  \item \textbf{Frontera:} Linea que divide las regiones conocidas y desconocidas
+  \item Prioriza las fronteras en base a una función de utilidad. (Considerando valores como distancia de robot hacia la frontera)
+  \end{itemize}
+
+  \bigskip % Vertical whitespace
+  \centering
+  \includegraphics[width=6cm]{fronteras} \\
+  \cite{613851}
+  
+\end{frame}
+
+\begin{frame}{Exploración basada en muestreos}
+
+  \begin{itemize}
+  \item Define la secuencia de vistas, basado en los vértices de la genereción de un árbol de exploración rápida (RRT)
+  \item Selecciona el camino con la mejor secuencia de mejores vistas
+  \item El proceso de generar un árbol de exploración se repite hasta completar la exploración
+  \item Computacionalmente costoso debido al muestreo de evasión de obstáculos
+  \end{itemize}
+
+  \bigskip % Vertical whitespace
+  \centering
+  \includegraphics[width=4cm]{nbvprrt}\\
+  \cite{nbvprrt}
+  
+\end{frame}
+
+%\begin{frame}{Vehículos aéreos no tripulados (VANT)}
+%  \bigskip % Vertical whitespace
+%  \centering
+%  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{img6}
+%  \hfil
+%  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{img7}
+%  \vspace{2pt}
+%  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{img8.jpg}
+%  \hfil
+%  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{img9.jpg}
+%  \rule{0in}{1.2em} \small Clasificación VANTS \\
+%  \tiny  Handbook of Unmanned Aerial Vehicles 2020
+%\end{frame}
+
+%\begin{frame}{Sistema autónomo VANT}
+%  \begin{minipage}{0.47\textwidth}
+    
+%    \small Un sistema autónomo de un vehículo aéreo no tripulado consta de tres algoritmos.
+    
+%    \begin{itemize}
+%    \item Generación de una representación del entorno.
+%    \item Evasión de obstáculos.
+%    \item Planificación de trayectorias.
+%    \end{itemize}
+
+%    \small La computadora embebida usado en un micro-VANT es de bajo rendimiento, pero su necesidad de autónomia sigue siendo la misma que un VANT de mayor tamaño.\\
+%    Es necesario dotarlos de algoritmos de baja complejidad computacional.
+    
+%  \end{minipage}
+%  \hspace{0.2cm}
+%  \begin{minipage}{0.5\textwidth}
+%    \includegraphics[width=\textwidth]{ultra.jpg}
+%  \end{minipage}
+%\end{frame}
+\section{Coordinación multi-VANT}
+\begin{frame}{Coordinación multi-VANT}
+  \begin{minipage}{0.47\textwidth}
+
+    \begin{itemize}
+    %\item Exploración con algoritmos de baja complejidad computacional.
+    \item Centralizada: Una entidad planea para todos los robots. (El problema crece conforme aumentan los robots)
+    \item Decentralizada: Cada robot es completamente independiente y planea sus propios trayectos
+    \end{itemize}
+  \end{minipage}
+  \hspace{0.2cm}
+  \begin{minipage}{0.5\textwidth}
+    \includegraphics[width=0.8\textwidth]{coordination}$^\dag$\\
+      \rule{0in}{1.2em}$^\dag$\scriptsize \cite{amanda}
+      
+  \end{minipage}
+\end{frame}
+
+
+\begin{frame}{Coordinación multi-VANT}
+
+  \begin{itemize}
+  \item El \underline{método húngaro}, también conocido como algoritmo húngaro o algoritmo de asignación, es un algoritmo utilizado para resolver problemas de asignación, como la asignación óptima de tareas a recursos, minimizando o maximizando algún criterio.
+
+  \item En el contexto de la robótica, este método puede utilizarse para asignar tareas específicas a robots de manera que se minimice el costo total de ejecución.
+  \end{itemize}
+
+  \centering
+  $O(n!) \implies O(n^{3})$
+  
+\end{frame}
+
+%Explicar con el cronograma
+\section{Simulación}
+\begin{frame}{Simulación}
+  \textbf{Robot Operating System (ROS)}\\
+  \bigskip % Vertical whitespace
+  \begin{itemize}
+  \item Provee un conjunto de herramientas usadas por un robot (Sensores, actuadores, implementación diversos algoritmos)
+  \item Framework de comunicación que permite interconectar las diferentes piezas del cerebro para hablar con otras lecturas de sensores.
+  \end{itemize}
+  \bigskip % Vertical whitespace
+  En resumen ROS ayuda en descomponer software complejos en pequeñas piezas más manejables.
+  
 \end{frame}
 
 \begin{frame}
-  Fronteras
+  \begin{figure}
+    \centering
+    \includegraphics[width=0.75\textwidth]{ros_1}
+  \end{figure}
 \end{frame}
 
+\begin{frame}
+  El simulador dinámico \cite{RACER2022} \footnote{Rapid Collaborative Exploration With a Decentralized Multi-UAV System} utiliza la odometría de referencia de los VANTS, suponiendo que cada agente está equipado con una cámara de profundidad que mira hacia adelante cuya resolución es 640x480px y un campo de visión de 80°x60°. Las imágenes de profundidad se generan utilizando el proceso presentado en \cite{OMNI2022} \footnote{Omni-Swarm: A Decentralized Omnidirectional Visual–Inertial–UWB State Estimation System for Aerial Swarms} con un rango máximo de detección de 4.5 m.
+  \bigskip % Vertical whitespace
+  \begin{itemize}
+  \item En tiempo necesario para completar la exploración del ambiente dado y la velocidad promedio de los VANTS durante cada experimento.
+  \item Tasas de exploración para diferentes cantidades de VANTS en diversos ambientes.
+  \end{itemize}
+\end{frame}
+
+\begin{frame}
+  \textbf{Simulador -  ROS Visualization (RVIZ)}
+  \begin{figure}
+    \centering
+    \includegraphics[width=0.57\textwidth]{visual}
+  \end{figure}
+\end{frame}
+
+\section{Estrategia}
 \begin{frame}
   \begin{minipage}{0.47\textwidth}
     \textbf{Estrategia}
@@ -680,102 +839,6 @@
   \end{figure}
 \end{frame}
 
-%\begin{frame}{Vehículos aéreos no tripulados (VANT)}
-%  \bigskip % Vertical whitespace
-%  \centering
-%  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{img6}
-%  \hfil
-%  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{img7}
-%  \vspace{2pt}
-%  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{img8.jpg}
-%  \hfil
-%  \includegraphics[width=0.45\textwidth,height=0.35\textheight]{img9.jpg}
-%  \rule{0in}{1.2em} \small Clasificación VANTS \\
-%  \tiny  Handbook of Unmanned Aerial Vehicles 2020
-%\end{frame}
-
-%\begin{frame}{Sistema autónomo VANT}
-%  \begin{minipage}{0.47\textwidth}
-    
-%    \small Un sistema autónomo de un vehículo aéreo no tripulado consta de tres algoritmos.
-    
-%    \begin{itemize}
-%    \item Generación de una representación del entorno.
-%    \item Evasión de obstáculos.
-%    \item Planificación de trayectorias.
-%    \end{itemize}
-
-%    \small La computadora embebida usado en un micro-VANT es de bajo rendimiento, pero su necesidad de autónomia sigue siendo la misma que un VANT de mayor tamaño.\\
-%    Es necesario dotarlos de algoritmos de baja complejidad computacional.
-    
-%  \end{minipage}
-%  \hspace{0.2cm}
-%  \begin{minipage}{0.5\textwidth}
-%    \includegraphics[width=\textwidth]{ultra.jpg}
-%  \end{minipage}
-%\end{frame}
-
-\begin{frame}{Motivación del proyecto}
-  \begin{minipage}{0.47\textwidth}
-
-    \small La meta de este trabajo es la creación de una estrategia para la exploración de ambientes desconocidos de manera coordinada con múltiples vehículos aéreos no tripulados (VANTS).
-    \bigskip % Vertical whitespace
-    \begin{itemize}
-    %\item Exploración con algoritmos de baja complejidad computacional.
-    \item Búsqueda y rescate.
-    \item Seguridad e Inspección
-    \end{itemize}
-  \end{minipage}
-  \hspace{0.2cm}
-  \begin{minipage}{0.5\textwidth}
-    \includegraphics[width=\textwidth]{foldable-drone}$^\dag$\\
-      \rule{0in}{1.2em}$^\dag$\scriptsize Foldable drone could aid search and rescue missions.\\
-      \tiny \url{https://www.therobotreport.com/foldable-drone-could-aid-search-and-rescue-missions/} 
-  \end{minipage}
-\end{frame}
-
-\section{Coordinación multi-VANT}
-\begin{frame}{Coordinación multi-VANT}
-Centralizada - Desentralizada
-\end{frame}
-
-%Explicar con el cronograma
-\section{Simulación}
-\begin{frame}{Simulación}
-  \textbf{Robot Operating System (ROS)}\\
-  \bigskip % Vertical whitespace
-  \begin{itemize}
-  \item Provee un conjunto de herramientas usadas por un robot (Sensores, actuadores, implementación diversos algoritmos)
-  \item Framework de comunicación que permite interconectar las diferentes piezas del cerebro para hablar con otras lecturas de sensores.
-  \end{itemize}
-  \bigskip % Vertical whitespace
-  En resumen ROS ayuda en descomponer software complejos en pequeñas piezas más manejables.
-  
-\end{frame}
-
-\begin{frame}
-  \begin{figure}
-    \centering
-    \includegraphics[width=0.75\textwidth]{ros_1}
-  \end{figure}
-\end{frame}
-
-\begin{frame}
-  \textbf{Simulador -  ROS Visualization (RVIZ)}
-  \begin{figure}
-    \centering
-    \includegraphics[width=0.57\textwidth]{visual}
-  \end{figure}
-\end{frame}
-
-\begin{frame}
-  El simulador dinámico \cite{RACER2022} \footnote{Rapid Collaborative Exploration With a Decentralized Multi-UAV System} utiliza la odometría de referencia de los VANTS, suponiendo que cada agente está equipado con una cámara de profundidad que mira hacia adelante cuya resolución es 640x480px y un campo de visión de 80°x60°. Las imágenes de profundidad se generan utilizando el proceso presentado en \cite{OMNI2022} \footnote{Omni-Swarm: A Decentralized Omnidirectional Visual–Inertial–UWB State Estimation System for Aerial Swarms} con un rango máximo de detección de 4.5 m.
-  \bigskip % Vertical whitespace
-  \begin{itemize}
-  \item En tiempo necesario para completar la exploración del ambiente dado y la velocidad promedio de los VANTS durante cada experimento.
-  \item Tasas de exploración para diferentes cantidades de VANTS en diversos ambientes.
-  \end{itemize}
-\end{frame}
 
 \begin{frame}[allowframebreaks,noframenumbering]{Bibliografía}
   \tiny
