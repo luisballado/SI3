@@ -359,9 +359,9 @@
   \hspace{0.2cm}
   \begin{minipage}{0.5\textwidth}
     \centering
-    \animategraphics[loop,width=8cm]{10}{video-}{0}{46}
-    \rule{0in}{1.2em}$^\dag$\scriptsize Foldable drone could aid search and rescue missions.\\
-    \tiny \url{https://www.therobotreport.com/foldable-drone-could-aid-search-and-rescue-missions/} 
+    \animategraphics[loop,width=8cm]{10}{ezgif-frame-}{001}{130}
+    \rule{0in}{1.2em}$^\dag$\scriptsize Indoor Autonomous UAV Exploration Planning.\\
+    \tiny \url{https://www.youtube.com/watch?v=oVOU8EDsWrM} 
   \end{minipage}
 \end{frame}
 
@@ -382,15 +382,66 @@
   \end{itemize}
       
   \bigskip % Vertical whitespace
-  Belief update (Fusión de información) \footnote{Uncertain geometry in robotics [\cite{slam_dur}]} \footnote{Estimating Uncertain Spatial Relationships in Robotics [\cite{Smith1988}]}
+  Belief update (Actualización de creencia) \footnote{Uncertain geometry in robotics [\cite{slam_dur}]} \footnote{Estimating Uncertain Spatial Relationships in Robotics [\cite{Smith1988}]}
   
 \end{frame}
 
-\begin{frame}{Localización - ¿Dónde estoy?}
-Explicar SLAM aquí ...
+\begin{frame}{Formulación del Problema de Localización y Mapeo Simultáneos}
+
+  Dados:
+  \begin{itemize}
+  \item Conjunto de observaciones $z = \{z_1,z_2,...,z_t\}$
+  \item Conjunto de comandos de control $u = \{u_1,u_2,...,u_t\}$
+  \end{itemize}
+  \bigskip % Vertical whitespace
+  Requerimos:
+  \begin{itemize}
+  \item Mapa del ambiente $m$
+  \item Trayectoria del robot $x = \{x_1,x_2,...,x_t\}$
+  \end{itemize}
+  \bigskip % Vertical whitespace
+  
+  En terminos probabilisticos: Estimar la trayectoria del robot y el mapa
+
+  \centering
+  \includegraphics[width=8cm]{slam1}
+  
 \end{frame}
 
-\begin{frame}{Generación de mapas}
+\begin{frame}{Formulación del Problema de Localización y Mapeo Simultáneos}
+
+  \begin{itemize}
+  \item La trayectoria del robot y el mapa son desconocidos.
+  \item Correlación entre el mapa y las posiciones del robot. 
+  \end{itemize}
+
+  \centering
+
+  \includegraphics[width=8cm]{slam2}
+
+\end{frame}
+
+\begin{frame}{Modelos de observación y posición}
+
+  \centering
+
+  \includegraphics[width=8cm]{slam3}
+
+\end{frame}
+
+\begin{frame}{Modelos}
+
+  \centering
+
+  \begin{itemize}
+  \item Observación\\
+    \includegraphics[width=8cm]{slam5}  
+  \item Posición\\
+    \includegraphics[width=8cm]{slam4}  
+  \end{itemize}  
+\end{frame}
+
+\begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
   \bigskip % Vertical whitespace
   \centering
   \includegraphics[width=0.45\textwidth,height=0.35\textheight]{map3d.jpg}$^\dag$
@@ -406,6 +457,10 @@ Explicar SLAM aquí ...
   \item Cámaras RGBD.
   \end{itemize}  
 
+  \bigskip % Vertical whitespace
+  
+  \tiny La precisión del mapa debe corresponder con la precisión con la cual el robot necesita cumplir sus tareas.
+  
   %\includegraphics[width=0.45\textwidth,height=0.35\textheight]{DJI_B5}$^\dag$ 
   %\hfil
   %\includegraphics[width=0.45\textwidth,height=0.35\textheight]{DJI_B4}$^\dag$\\
@@ -424,16 +479,30 @@ Explicar SLAM aquí ...
   \item Nube de puntos.
   \item Mapa de elevación.
   \item Superficies multi-nivel.
-  \item Octrees.
+  \item Octomap (Octree).
+  \item Hash Grid (HGrid).
   \end{itemize}
   \footnotetext{OctoMap: An Efficient Probabilistic 3D Mapping Framework Based on Octrees [\cite{hornung13auro}]}
   
 \end{frame}
 
 \begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
-  
-  Explicar Voxel, Octomap ...
-  
+
+  \begin{itemize}
+  \item Hash Grid (HGrid)
+    \begin{itemize}
+    \item Funciona bien para consultas de vecinos cercanos y búsquedas en un espacio tridimensional.
+    \item Puede ser adaptativa a la densidad de objetos en diferentes áreas del espacio.
+      \item Similar a la descomposición de un octree, pero su implementación con arrays, le permite una complejidad $O(1)$
+    \item Puede requerir más memoria dependiendo de la resolución de la cuadrícula y la complejidad de la función hash.
+    \end{itemize}
+  \item Octomap (Octree).
+    \begin{itemize}
+    \item Tiende a ser más compacto en términos de almacenamiento de datos que algunas cuadrículas hash.
+    \item Utiliza una estructura de árbol octree para representar la ocupación del espacio de manera eficiente.
+    \item La actualización dinámica puede ser más desafiante y requerir técnicas adicionales.
+    \end{itemize}
+  \end{itemize}  
 \end{frame}
 
 \begin{frame}{Toma de decisiones - ¿A dónde voy?}
@@ -468,7 +537,7 @@ Explicar SLAM aquí ...
 \end{frame}
 
 \begin{frame}{Planificación de trayectoria - ¿Cómo llego hasta ahí?}
-  \begin{minipage}{0.57\textwidth}
+  \begin{minipage}{0.47\textwidth}
 
     El uso de heuristicas para encontrar soluciones óptimas, proporciona resultados computacionales eficientes. \footnote{A Survey of Trajectory Planning Techniques for Autonomous Systems [\cite{Mir2022}]} 
     \bigskip % Vertical whitespace
@@ -487,9 +556,13 @@ Explicar SLAM aquí ...
     \bigskip % Vertical whitespace
   \end{minipage}
   \hspace{0.2cm}
-  \begin{minipage}{0.4\textwidth}
-    \includegraphics[width=0.6\textwidth]{img5}$^\dag$\\
+  \begin{minipage}{0.5\textwidth}
+    \centering
+    \animategraphics[loop,width=7cm]{10}{video-}{0}{46}
+    \rule{0in}{1.2em}$^\dag$\scriptsize Aerial Navigation Development Environment.\\
+    \tiny \url{https://www.youtube.com/watch?v=YrtLbCC49kg} 
   \end{minipage}
+  
 \end{frame}
 
 \begin{frame}{Planificación de movimiento}

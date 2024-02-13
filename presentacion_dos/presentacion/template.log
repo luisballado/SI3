@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.9.7)  12 FEB 2024 19:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.18)  13 FEB 2024 00:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **template.tex
 (./template.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24>
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamer.cls
-Document Class: beamer 2022/02/08 v3.66 A class for typesetting presentations
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2022/01/21 v3.65 A class for typesetting presentations
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count185
 )
@@ -17,7 +17,7 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \beamer@tempcount=\count186
 \c@beamerpauses=\count187
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
 \beamer@slideinframe=\count188
 \beamer@minimum=\count189
 \beamer@decode@box=\box51
@@ -25,9 +25,12 @@ Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \beamer@commentbox=\box52
 \beamer@modecount=\count190
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
-)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
 \headdp=\dimen138
 \footheight=\dimen139
 \sidebarheight=\dimen140
@@ -72,18 +75,18 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \beamer@toclastsection=\count275
 \beamer@tocsectionnumber=\count276
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 ))
 \beamer@paperwidth=\skip48
 \beamer@paperheight=\skip49
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count277
@@ -99,149 +102,97 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen161
 \Gm@dimlist=\toks17
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
-x
-\pgfutil@everybye=\toks18
-\pgfutil@tempdima=\dimen162
-\pgfutil@tempdimb=\dimen163
-
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
-sts.tex))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box59
-) (/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
-))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks19
-\pgfkeys@temptoks=\toks20
-
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
-ode.tex
-\pgfkeys@tmptoks=\toks21
-)))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
-\pgf@x=\dimen164
-\pgf@xa=\dimen165
-\pgf@xb=\dimen166
-\pgf@xc=\dimen167
-\pgf@y=\dimen168
-\pgf@ya=\dimen169
-\pgf@yb=\dimen170
-\pgf@yc=\dimen171
-\c@pgf@counta=\count280
-\c@pgf@countb=\count281
-\c@pgf@countc=\count282
-\c@pgf@countd=\count283
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen172
-\pgfmath@count=\count284
-\pgfmath@box=\box60
-\pgfmath@toks=\toks22
-\pgfmath@stack@operand=\toks23
-\pgfmath@stack@operation=\toks24
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
-tex
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
-.code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
-nometric.code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
-m.code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
-rison.code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
-code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
-.code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
-code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
-erarithmetics.code.tex)))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count285
-))) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen173
-\Gin@req@width=\dimen174
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen164
+\pgfutil@tempdimb=\dimen165
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
+ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
-\pgf@x=\dimen175
-\pgf@y=\dimen176
-\pgf@xa=\dimen177
-\pgf@ya=\dimen178
-\pgf@xb=\dimen179
-\pgf@yb=\dimen180
-\pgf@xc=\dimen181
-\pgf@yc=\dimen182
-\pgf@xd=\dimen183
-\pgf@yd=\dimen184
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
+ex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen166
+\pgf@y=\dimen167
+\pgf@xa=\dimen168
+\pgf@ya=\dimen169
+\pgf@xb=\dimen170
+\pgf@yb=\dimen171
+\pgf@xc=\dimen172
+\pgf@yc=\dimen173
+\pgf@xd=\dimen174
+\pgf@yd=\dimen175
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count286
-\c@pgf@countb=\count287
-\c@pgf@countc=\count288
-\c@pgf@countd=\count289
-\t@pgf@toka=\toks25
-\t@pgf@tokb=\toks26
-\t@pgf@tokc=\toks27
-\pgf@sys@id@count=\count290
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+\c@pgf@counta=\count280
+\c@pgf@countb=\count281
+\c@pgf@countc=\count282
+\c@pgf@countd=\count283
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count284
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
-ef
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
-df.def
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
+f
 File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
-code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
+tex
 File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count291
-\pgfsyssoftpath@bigbuffer@items=\count292
+\pgfsyssoftpath@smallbuffer@items=\count285
+\pgfsyssoftpath@bigbuffer@items=\count286
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
-code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
+tex
 File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)) (/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
@@ -255,247 +206,283 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
-de.tex
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen176
+\pgfmath@count=\count287
+\pgfmath@box=\box60
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
+ric.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
+tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
+thmetics.code.tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count288
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
+x
 File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen185
-\pgf@picmaxx=\dimen186
-\pgf@picminy=\dimen187
-\pgf@picmaxy=\dimen188
-\pgf@pathminx=\dimen189
-\pgf@pathmaxx=\dimen190
-\pgf@pathminy=\dimen191
-\pgf@pathmaxy=\dimen192
-\pgf@xx=\dimen193
-\pgf@xy=\dimen194
-\pgf@yx=\dimen195
-\pgf@yy=\dimen196
-\pgf@zx=\dimen197
-\pgf@zy=\dimen198
+\pgf@picminx=\dimen177
+\pgf@picmaxx=\dimen178
+\pgf@picminy=\dimen179
+\pgf@picmaxy=\dimen180
+\pgf@pathminx=\dimen181
+\pgf@pathmaxx=\dimen182
+\pgf@pathminy=\dimen183
+\pgf@pathmaxy=\dimen184
+\pgf@xx=\dimen185
+\pgf@xy=\dimen186
+\pgf@yx=\dimen187
+\pgf@yy=\dimen188
+\pgf@zx=\dimen189
+\pgf@zy=\dimen190
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
-ruct.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
+code.tex
 File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen199
-\pgf@path@lasty=\dimen256
+\pgf@path@lastx=\dimen191
+\pgf@path@lasty=\dimen192
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
-.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
+.tex
 File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen257
-\pgf@shorten@start@additional=\dimen258
+\pgf@shorten@end@additional=\dimen193
+\pgf@shorten@start@additional=\dimen194
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
-de.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
+x
 File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfpic=\box61
 \pgf@hbox=\box62
 \pgf@layerbox@main=\box63
-\pgf@picture@serial@count=\count293
+\pgf@picture@serial@count=\count289
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
-ate.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
+ode.tex
 File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen259
+\pgflinewidth=\dimen195
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
-ations.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
+s.code.tex
 File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen260
-\pgf@pt@y=\dimen261
-\pgf@pt@temp=\dimen262
+\pgf@pt@x=\dimen196
+\pgf@pt@y=\dimen197
+\pgf@pt@temp=\dimen198
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
-e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
-ode.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
+ex
 File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
-ssing.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
+.code.tex
 File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
-de.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
+x
 File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen263
+\pgfarrowsep=\dimen199
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
-e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen264
-\pgf@sys@shading@range@num=\count294
-\pgf@shadingcount=\count295
+\pgf@max=\dimen256
+\pgf@sys@shading@range@num=\count290
+\pgf@shadingcount=\count291
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
-e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
-code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
+tex
 File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfexternal@startupbox=\box64
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
-de.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
+x
 File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
-ncy.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
+ode.tex
 File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
-code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
+tex
 File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
-tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))) (/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+))) (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count296
-\XC@countmixins=\count297
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+\XC@nummixins=\count292
+\XC@countmixins=\count293
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hycolor/hycolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/auxhook/auxhook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
-\@linkdim=\dimen265
-\Hy@linkcounter=\count298
-\Hy@pagecounter=\count299
+\@linkdim=\dimen257
+\Hy@linkcounter=\count294
+\Hy@pagecounter=\count295
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/intcalc/intcalc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count300
+\Hy@SavedSpaceFactor=\count296
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4018.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4018.
-Package hyperref Info: Option `implicit' set `false' on input line 4018.
-Package hyperref Info: Hyper figures OFF on input line 4137.
-Package hyperref Info: Link nesting OFF on input line 4142.
-Package hyperref Info: Hyper index ON on input line 4145.
-Package hyperref Info: Plain pages OFF on input line 4152.
-Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4073.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4073.
+Package hyperref Info: Option `implicit' set `false' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
-Package hyperref Info: Bookmarks ON on input line 4390.
-\c@Hy@tempcnt=\count301
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count297
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4749.
-\XeTeXLinkMargin=\dimen266
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen258
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count302
-\Field@Width=\dimen267
-\Fld@charsize=\dimen268
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
-LaTeX Info: Redefining \ref on input line 6097.
-LaTeX Info: Redefining \pageref on input line 6101.
-\Hy@abspage=\count303
+\Fld@menulength=\count298
+\Field@Width=\dimen259
+\Fld@charsize=\dimen260
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+\Hy@abspage=\count299
 
 
 Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/atveryend-ltx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count304
-\c@bookmark@seq@number=\count305
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
-)) (/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasecompatibility.st
-y) (/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasefont.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amssymb.sty
+))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks28
 \symAMSa=\mathgroup4
@@ -504,154 +491,155 @@ LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
 Package: sansmathaccent 2020/01/31
-(/usr/local/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile.sty
+
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2021/11/13 v3.35 KOMA-Script package (file load hooks)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
 Package: scrlfile-hook 2021/11/13 v3.35 KOMA-Script package (using LaTeX hooks)
 
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/koma-script/scrlogo.sty
+(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
 Package: scrlogo 2021/11/13 v3.35 KOMA-Script package (logo)
 )))))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
-\beamer@argscount=\count306
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count302
 \beamer@lastskipcover=\skip50
-\beamer@trivlistdepth=\count307
+\beamer@trivlistdepth=\count303
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasesection.sty
-\c@lecture=\count308
-\c@part=\count309
-\c@section=\count310
-\c@subsection=\count311
-\c@subsubsection=\count312
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count304
+\c@part=\count305
+\c@section=\count306
+\c@subsection=\count307
+\c@subsubsection=\count308
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
 \beamer@framebox=\box65
 \beamer@frametitlebox=\box66
 \beamer@zoombox=\box67
-\beamer@zoomcount=\count313
-\beamer@zoomframecount=\count314
-\beamer@frametextheight=\dimen269
-\c@subsectionslide=\count315
+\beamer@zoomcount=\count309
+\beamer@zoomframecount=\count310
+\beamer@frametextheight=\dimen261
+\c@subsectionslide=\count311
 \beamer@frametopskip=\skip51
 \beamer@framebottomskip=\skip52
 \beamer@frametopskipautobreak=\skip53
 \beamer@framebottomskipautobreak=\skip54
 \beamer@envbody=\toks29
-\framewidth=\dimen270
-\c@framenumber=\count316
+\framewidth=\dimen262
+\c@framenumber=\count312
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 \beamer@splitbox=\box68
-\beamer@autobreakcount=\count317
-\beamer@autobreaklastheight=\dimen271
+\beamer@autobreakcount=\count313
+\beamer@autobreaklastheight=\dimen263
 \beamer@frametitletoks=\toks30
 \beamer@framesubtitletoks=\toks31
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.
-sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
 \beamer@footins=\box69
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
 \beamer@frameboxcopy=\box70
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
 \beamer@sbttoks=\toks32
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@box=\box71
 \bmb@colorbox=\box72
-\bmb@boxwidth=\dimen272
-\bmb@boxheight=\dimen273
-\bmb@prevheight=\dimen274
-\bmb@temp=\dimen275
-\bmb@dima=\dimen276
-\bmb@dimb=\dimen277
-\bmb@prevheight=\dimen278
+\bmb@boxwidth=\dimen264
+\bmb@boxheight=\dimen265
+\bmb@prevheight=\dimen266
+\bmb@temp=\dimen267
+\bmb@dima=\dimen268
+\bmb@dimb=\dimen269
+\bmb@prevheight=\dimen270
 )
-\beamer@blockheadheight=\dimen279
+\beamer@blockheadheight=\dimen271
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.s
-ty (/usr/local/texlive/2022/texmf-dist/tex/latex/tools/enumerate.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks33
 )
 \beamer@bibiconwidth=\skip55
-\c@figure=\count318
-\c@table=\count319
+\c@figure=\count314
+\c@table=\count315
 \abovecaptionskip=\skip56
 \belowcaptionskip=\skip57
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
-\beamer@section@min@dim=\dimen280
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen272
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks34
-\ex@=\dimen281
+\ex@=\dimen273
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen282
+\pmbraise@=\dimen274
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2021/08/26 v2.02 operator names
 )
-\inf@bad=\count320
+\inf@bad=\count316
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count321
-\leftroot@=\count322
+\uproot@=\count317
+\leftroot@=\count318
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count323
-\DOTSCASE@=\count324
+\classnum@=\count319
+\DOTSCASE@=\count320
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
 \Mathstrutbox@=\box73
 \strutbox@=\box74
-\big@size=\dimen283
+\big@size=\dimen275
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count325
-\c@MaxMatrixCols=\count326
+\macc@depth=\count321
+\c@MaxMatrixCols=\count322
 \dotsspace@=\muskip17
-\c@parentequation=\count327
-\dspbrk@lvl=\count328
+\c@parentequation=\count323
+\dspbrk@lvl=\count324
 \tag@help=\toks35
-\row@=\count329
-\column@=\count330
-\maxfields@=\count331
+\row@=\count325
+\column@=\count326
+\maxfields@=\count327
 \andhelp@=\toks36
-\eqnshift@=\dimen284
-\alignsep@=\dimen285
-\tagshift@=\dimen286
-\tagwidth@=\dimen287
-\totwidth@=\dimen288
-\lineht@=\dimen289
+\eqnshift@=\dimen276
+\alignsep@=\dimen277
+\tagshift@=\dimen278
+\tagwidth@=\dimen279
+\totwidth@=\dimen280
+\lineht@=\dimen281
 \@envbody=\toks37
 \multlinegap=\skip59
 \multlinetaggap=\skip60
@@ -659,7 +647,7 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amscls/amsthm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks39
 \thm@bodyfont=\toks40
@@ -671,67 +659,62 @@ Package: amsthm 2020/05/29 v2.20.6
 \thm@headsep=\skip63
 \dth@everypar=\toks44
 )
-\c@theorem=\count332
+\c@theorem=\count328
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen282
+\beamer@dimb=\dimen283
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemedefault.st
-y)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.st
-y
-\beamer@dima=\dimen290
-\beamer@dimb=\dimen291
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthemedefault.st
-y))) (/usr/local/texlive/2022/texmf-dist/tex/latex/booktabs/booktabs.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen292
-\lightrulewidth=\dimen293
-\cmidrulewidth=\dimen294
-\belowrulesep=\dimen295
-\belowbottomsep=\dimen296
-\aboverulesep=\dimen297
-\abovetopsep=\dimen298
-\cmidrulesep=\dimen299
-\cmidrulekern=\dimen300
-\defaultaddspace=\dimen301
-\@cmidla=\count333
-\@cmidlb=\count334
-\@aboverulesep=\dimen302
-\@belowrulesep=\dimen303
-\@thisruleclass=\count335
-\@lastruleclass=\count336
-\@thisrulewidth=\dimen304
+\heavyrulewidth=\dimen284
+\lightrulewidth=\dimen285
+\cmidrulewidth=\dimen286
+\belowrulesep=\dimen287
+\belowbottomsep=\dimen288
+\aboverulesep=\dimen289
+\abovetopsep=\dimen290
+\cmidrulesep=\dimen291
+\cmidrulekern=\dimen292
+\defaultaddspace=\dimen293
+\@cmidla=\count329
+\@cmidlb=\count330
+\@aboverulesep=\dimen294
+\@belowrulesep=\dimen295
+\@thisruleclass=\count331
+\@lastruleclass=\count332
+\@thisrulewidth=\dimen296
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerthemeBoadilla.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemerose.sty)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.st
-y)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.st
-y)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.
-sty)) (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/palatino.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeBoadilla.sty
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemerose.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedolphin.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty))
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty
 Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count337
+\c@AlgoLine=\count333
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \algocf@hangindent=\skip64
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count338
+\c@checkoddpage=\count334
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/xspace.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/relsize/relsize.sty
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
 \skiptotal=\skip65
@@ -742,12 +725,12 @@ Package: relsize 2013/03/29 ver 4.1
 \skiplength=\skip70
 \algomargin=\skip71
 \skipalgocfslide=\skip72
-\algowidth=\dimen305
-\inoutsize=\dimen306
-\inoutindent=\dimen307
-\interspacetitleruled=\dimen308
-\interspacealgoruled=\dimen309
-\interspacetitleboxruled=\dimen310
+\algowidth=\dimen297
+\inoutsize=\dimen298
+\inoutindent=\dimen299
+\interspacetitleruled=\dimen300
+\interspacealgoruled=\dimen301
+\interspacetitleboxruled=\dimen302
 \algocf@ruledwidth=\skip73
 \algocf@inoutbox=\box75
 \algocf@inputbox=\box76
@@ -764,16 +747,16 @@ Package: relsize 2013/03/29 ver 4.1
 \algoheightrule=\skip80
 \algotitleheightruledefault=\skip81
 \algotitleheightrule=\skip82
-\c@algocfline=\count339
-\c@algocfproc=\count340
-\c@algocf=\count341
+\c@algocfline=\count335
+\c@algocfproc=\count336
+\c@algocf=\count337
 \algocf@algoframe=\box81
 \algocf@algobox=\box82
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/opensans/opensans.sty
+(/usr/share/texlive/texmf-dist/tex/latex/opensans/opensans.sty
 Package: opensans 2019/06/20 Style file for Open Sans.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2020/07/21 v1.0e Font selection axes
 LaTeX Info: Redefining \upshape on input line 29.
 LaTeX Info: Redefining \itshape on input line 31.
@@ -786,267 +769,263 @@ LaTeX Info: Redefining \textsw on input line 47.
 LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2022/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks45
 \XKV@tempa@toks=\toks46
 )
-\XKV@depth=\count342
+\XKV@depth=\count338
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 )))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/02/26 3.73 The Babel package
-\babel@savecnt=\count343
-\U@D=\dimen311
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/01/26 3.70 The Babel package
+\babel@savecnt=\count339
+\U@D=\dimen303
 \l@unhyphenated=\language87
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
-LaTeX Info: Redefining \textlatin on input line 3969.
-\bbl@dirlevel=\count344
+LaTeX Info: Redefining \textlatin on input line 3967.
+\bbl@dirlevel=\count340
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks47
-\es@quotdepth=\count345
+\es@quotdepth=\count341
 Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/dirtree/dirtree.sty
+(/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.sty
 Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/dirtree/dirtree.tex
+(/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.tex
 `dirtree' v0.32, 2012/12/11 (jcc)
-\DT@offset=\dimen312
-\DT@width=\dimen313
-\DT@sep=\dimen314
-\DT@all=\dimen315
-\DT@rulewidth=\dimen316
-\DT@dotwidth=\dimen317
-\DTbaselineskip=\dimen318
-\DT@counti=\count346
-\DT@countii=\count347
-\DT@countiii=\count348
-\DT@countiv=\count349
-\DT@indent=\dimen319
-\DT@parskip=\dimen320
-\DT@baselineskip=\dimen321
+\DT@offset=\dimen304
+\DT@width=\dimen305
+\DT@sep=\dimen306
+\DT@all=\dimen307
+\DT@rulewidth=\dimen308
+\DT@dotwidth=\dimen309
+\DTbaselineskip=\dimen310
+\DT@counti=\count342
+\DT@countii=\count343
+\DT@countiii=\count344
+\DT@countiv=\count345
+\DT@indent=\dimen311
+\DT@parskip=\dimen312
+\DT@baselineskip=\dimen313
 )
 File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/natbib.sty
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip83
 \bibsep=\skip84
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count350
+\c@NAT@ctr=\count346
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
-\c@r@tfl@t=\count351
+\c@r@tfl@t=\count347
 \rotFPtop=\skip85
 \rotFPbot=\skip86
 \rot@float@box=\box83
 \rot@mess@toks=\toks48
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
-e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 \pgfnodeparttextbox=\box84
-)
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
-tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--0-65.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
+.sty
 Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen322
-\pgf@nodesepend=\dimen323
+\pgf@nodesepstart=\dimen314
+\pgf@nodesepend=\dimen315
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
--1-18.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
+.sty
 Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen324
-\pgffor@skip=\dimen325
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen316
+\pgffor@skip=\dimen317
 \pgffor@stack=\toks49
 \pgffor@toks=\toks50
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
-e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
-dlers.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
+.code.tex
 File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@plot@mark@count=\count352
-\pgfplotmarksize=\dimen326
+\pgf@plot@mark@count=\count348
+\pgfplotmarksize=\dimen318
 )
-\tikz@lastx=\dimen327
-\tikz@lasty=\dimen328
-\tikz@lastxsaved=\dimen329
-\tikz@lastysaved=\dimen330
-\tikz@lastmovetox=\dimen331
-\tikz@lastmovetoy=\dimen332
-\tikzleveldistance=\dimen333
-\tikzsiblingdistance=\dimen334
+\tikz@lastx=\dimen319
+\tikz@lasty=\dimen320
+\tikz@lastxsaved=\dimen321
+\tikz@lastysaved=\dimen322
+\tikz@lastmovetox=\dimen323
+\tikz@lastmovetoy=\dimen324
+\tikzleveldistance=\dimen325
+\tikzsiblingdistance=\dimen326
 \tikz@figbox=\box85
 \tikz@figbox@bg=\box86
 \tikz@tempbox=\box87
 \tikz@tempbox@bg=\box88
-\tikztreelevel=\count353
-\tikznumberofchildren=\count354
-\tikznumberofcurrentchild=\count355
-\tikz@fig@count=\count356
+\tikztreelevel=\count349
+\tikznumberofchildren=\count350
+\tikznumberofcurrentchild=\count351
+\tikz@fig@count=\count352
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
-e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfmatrixcurrentrow=\count357
-\pgfmatrixcurrentcolumn=\count358
-\pgf@matrix@numberofcolumns=\count359
+\pgfmatrixcurrentrow=\count353
+\pgfmatrixcurrentcolumn=\count354
+\pgf@matrix@numberofcolumns=\count355
 )
-\tikz@expandcount=\count360
+\tikz@expandcount=\count356
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarytopaths.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 )))
-(/usr/local/texlive/2022/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
-s/tikzlibrarycalc.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen335
+\col@sep=\dimen327
 \ar@mcellbox=\box89
-\extrarowheight=\dimen336
+\extrarowheight=\dimen328
 \NC@list=\toks51
 \extratabsurround=\skip87
 \backup@length=\skip88
 \ar@cellbox=\box90
-)
-(/usr/local/texlive/2022/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/collectbox/collectbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box91
 )
-\tc@llx=\dimen337
-\tc@lly=\dimen338
-\tc@urx=\dimen339
-\tc@ury=\dimen340
+\tc@llx=\dimen329
+\tc@lly=\dimen330
+\tc@urx=\dimen331
+\tc@ury=\dimen332
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen341
-\adjbox@Height=\dimen342
-\adjbox@Depth=\dimen343
-\adjbox@Totalheight=\dimen344
-\adjbox@pwidth=\dimen345
-\adjbox@pheight=\dimen346
-\adjbox@pdepth=\dimen347
-\adjbox@ptotalheight=\dimen348
+\adjbox@Width=\dimen333
+\adjbox@Height=\dimen334
+\adjbox@Depth=\dimen335
+\adjbox@Totalheight=\dimen336
+\adjbox@pwidth=\dimen337
+\adjbox@pheight=\dimen338
+\adjbox@pdepth=\dimen339
+\adjbox@ptotalheight=\dimen340
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box92
-\sift@deathcycles=\count361
-\@vwid@loff=\dimen349
-\@vwid@roff=\dimen350
+\sift@deathcycles=\count357
+\@vwid@loff=\dimen341
+\@vwid@roff=\dimen342
 ))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
-\caption@tempdima=\dimen351
-\captionmargin=\dimen352
-\caption@leftmargin=\dimen353
-\caption@rightmargin=\dimen354
-\caption@width=\dimen355
-\caption@indent=\dimen356
-\caption@parindent=\dimen357
-\caption@hangindent=\dimen358
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen343
+\captionmargin@=\dimen344
+\captionwidth=\dimen345
+\caption@tempdima=\dimen346
+\caption@indent=\dimen347
+\caption@parindent=\dimen348
+\caption@hangindent=\dimen349
 Package caption Info: beamer document class detected.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/caption/caption-beamer.sto
-File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to th
-e beamer document classes (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
+File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the
+ beamer document classes (AR)
 ))
-\c@caption@flags=\count362
-\c@continuedfloat=\count363
+\c@caption@flags=\count358
+\c@continuedfloat=\count359
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 Package caption Info: rotating package is loaded.
 )
-\c@subfigure=\count364
-\c@subtable=\count365
+\c@subfigure=\count360
+\c@subtable=\count361
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/natbib/bibentry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/bibentry.sty
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/chngcntr/chngcntr.sty
+(/usr/share/texlive/texmf-dist/tex/latex/chngcntr/chngcntr.sty
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
 (chngcntr)             Quitting chngcntr on input line 21.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-(/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-02-24 L3 programming layer (loader) 
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count366
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count362
 \l__pdf_internal_box=\box93
 ))
 Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count367
-\l__lipsum_a_int=\count368
-\l__lipsum_b_int=\count369
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hanging/hanging.sty
+\g__lipsum_par_int=\count363
+\l__lipsum_a_int=\count364
+\l__lipsum_b_int=\count365
+
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/hanging/hanging.sty
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcommawd=\skip89
 \h@ngfstopwd=\skip90
@@ -1057,97 +1036,97 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcolonwd=\skip95
 \h@ngscolonwd=\skip96
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/colortbl/colortbl.sty
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 \everycr=\toks52
 \minrowclearance=\skip97
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip98
-\multirow@cntb=\count370
+\multirow@cntb=\count366
 \multirow@dima=\skip99
-\bigstrutjot=\dimen359
+\bigstrutjot=\dimen350
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/animate/animate.sty
-Package: animate 2022/02/21 PDF & SVG animations from files and inline graphics
+(/usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
+Package: animate 2022/01/31 PDF & SVG animations from files and inline graphics
 
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count371
-\calc@Bcount=\count372
-\calc@Adimen=\dimen360
-\calc@Bdimen=\dimen361
+\calc@Acount=\count367
+\calc@Bcount=\count368
+\calc@Adimen=\dimen351
+\calc@Bdimen=\dimen352
 \calc@Askip=\skip100
 \calc@Bskip=\skip101
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count373
+\calc@Ccount=\count369
 \calc@Cskip=\skip102
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/zref/zref-abspage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-abspage.sty
 Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/zref/zref-base.sty
+(/usr/share/texlive/texmf-dist/tex/latex/zref/zref-base.sty
 Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
 Package zref Info: New property list: main on input line 764.
 Package zref Info: New property: default on input line 765.
 Package zref Info: New property: page on input line 766.
 )
-\c@abspage=\count374
+\c@abspage=\count370
 Package zref Info: New property: abspage on input line 66.
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/media9/pdfbase.sty
-Package: pdfbase 2022/03/18 v0.54 driver independent access to low-level PDF fe
+(/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
+Package: pdfbase 2021/09/12 v0.53 driver independent access to low-level PDF fe
 atures
-\g_pbs_page_int=\count375
-\g_pbs_oc_int=\count376
+\g_pbs_page_int=\count371
+\g_pbs_oc_int=\count372
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
 Package: ocgbase 2021/06/11 v0.20 support package for ocgx2.sty
-\g_ocgbase_nd_int=\count377
+\g_ocgbase_nd_int=\count373
 )
 \@anim@box=\box94
 \@anim@measbox=\box95
-\@anim@tmpdima=\dimen362
-\@anim@tmpdimb=\dimen363
-\@anim@num=\count378
-\@anim@curframe=\count379
-\@anim@curframe@zb=\count380
-\@anim@resizeflags=\count381
-\@anim@skipfram=\count382
-\@anim@mulframecnt=\count383
+\@anim@tmpdima=\dimen353
+\@anim@tmpdimb=\dimen354
+\@anim@num=\count374
+\@anim@curframe=\count375
+\@anim@curframe@zb=\count376
+\@anim@resizeflags=\count377
+\@anim@skipfram=\count378
+\@anim@mulframecnt=\count379
 \@anim@@tmlnfile=\read4
-\@anim@tmpcnt=\count384
-\c@@anim@ltxcnt=\count385
-\@anim@curlayer=\count386
-\@anim@lineno=\count387
-\@anim@curfield=\count388
-\@anim@@resizeflags=\count389
+\@anim@tmpcnt=\count380
+\c@@anim@ltxcnt=\count381
+\@anim@curlayer=\count382
+\@anim@lineno=\count383
+\@anim@curfield=\count384
+\@anim@@resizeflags=\count385
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count390
+\c@tracingmulticols=\count386
 \mult@box=\box96
-\multicol@leftmargin=\dimen364
-\c@unbalance=\count391
-\c@collectmore=\count392
-\doublecol@number=\count393
-\multicoltolerance=\count394
-\multicolpretolerance=\count395
-\full@width=\dimen365
-\page@free=\dimen366
-\premulticols=\dimen367
-\postmulticols=\dimen368
+\multicol@leftmargin=\dimen355
+\c@unbalance=\count387
+\c@collectmore=\count388
+\doublecol@number=\count389
+\multicoltolerance=\count390
+\multicolpretolerance=\count391
+\full@width=\dimen356
+\page@free=\dimen357
+\premulticols=\dimen358
+\postmulticols=\dimen359
 \multicolsep=\skip103
 \multicolbaselineskip=\skip104
 \partial@page=\box97
 \last@line=\box98
-\maxbalancingoverflow=\dimen369
+\maxbalancingoverflow=\dimen360
 \mult@rightbox=\box99
 \mult@grightbox=\box100
 \mult@firstbox=\box101
@@ -1188,30 +1167,30 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box136
 \@tempa=\box137
 \@tempa=\box138
-\c@minrows=\count396
-\c@columnbadness=\count397
-\c@finalcolumnbadness=\count398
-\last@try=\dimen370
-\multicolovershoot=\dimen371
-\multicolundershoot=\dimen372
+\c@minrows=\count392
+\c@columnbadness=\count393
+\c@finalcolumnbadness=\count394
+\last@try=\dimen361
+\multicolovershoot=\dimen362
+\multicolundershoot=\dimen363
 \mult@nat@firstbox=\box139
 \colbreak@box=\box140
-\mc@col@check@num=\count399
+\mc@col@check@num=\count395
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/tabularx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen373
-\TX@old@table=\dimen374
-\TX@old@col=\dimen375
-\TX@target=\dimen376
-\TX@delta=\dimen377
-\TX@cols=\count400
+\TX@col@width=\dimen364
+\TX@old@table=\dimen365
+\TX@old@col=\dimen366
+\TX@target=\dimen367
+\TX@delta=\dimen368
+\TX@cols=\count396
 \TX@ftn=\toks53
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/forloop/forloop.sty
+(/usr/share/texlive/texmf-dist/tex/latex/forloop/forloop.sty
 Package: forloop 2006/09/18 v3.0 For Loops for LaTeX
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \CenteringLeftskip=\skip105
 \RaggedLeftLeftskip=\skip106
@@ -1228,27 +1207,26 @@ Package: ragged2e 2021/12/15 v3.1 ragged2e Package
 \RaggedRightParindent=\skip117
 \JustifyingParindent=\skip118
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/bbding/bbding.sty
+(/usr/share/texlive/texmf-dist/tex/latex/bbding/bbding.sty
 Package: bbding 1999/04/15 v1.01 Dingbats symbols
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/pifont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/pifont.sty
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
 LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
 
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/upzd.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
 
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/upsy.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
 ))
-\c@loopcntr=\count401
+\c@loopcntr=\count397
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.st
-y)
+(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemecircles.sty)
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 201.
@@ -1271,7 +1249,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 LaTeX Font Info:    Trying to load font information for OT1+opensans-TLF on inp
 ut line 247.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/opensans/OT1opensans-TLF.fd
+(/usr/share/texlive/texmf-dist/tex/latex/opensans/OT1opensans-TLF.fd
 File: OT1opensans-TLF.fd 2019/06/24 Font definitions for OT1/opensans-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
@@ -1336,46 +1314,46 @@ LaTeX Font Info:    ... okay on input line 247.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count402
-\scratchdimen=\dimen378
+\scratchcounter=\count398
+\scratchdimen=\dimen369
 \scratchbox=\box141
-\nofMPsegments=\count403
-\nofMParguments=\count404
+\nofMPsegments=\count399
+\nofMParguments=\count400
 \everyMPshowfont=\toks54
-\MPscratchCnt=\count405
-\MPscratchDim=\dimen379
-\MPnumerator=\count406
-\makeMPintoPDFobject=\count407
+\MPscratchCnt=\count401
+\MPscratchDim=\dimen370
+\MPnumerator=\count402
+\makeMPintoPDFobject=\count403
 \everyMPtoPDFconversion=\toks55
-) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 247.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/refcount/refcount.sty
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
-ty
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count408
+\c@section@level=\count404
 )
 LaTeX Info: Redefining \ref on input line 247.
 LaTeX Info: Redefining \pageref on input line 247.
 LaTeX Info: Redefining \nameref on input line 247.
- (./template.out) (./template.out)
+
+(./template.out) (./template.out)
 \@outlinefile=\write5
 \openout5 = `template.out'.
 
@@ -1422,32 +1400,32 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/pcr/m/n --> OT1/pcr/b/n on input line 247.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-basic-dicti
-onary-English.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
+-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-bibliograph
-y-dictionary-English.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dic
+tionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-environment
--dictionary-English.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dict
+ionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-months-dict
-ionary-English.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionar
+y-English.dict
 Dictionary: translator-months-dictionary, Language: English 
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-numbers-dic
-tionary-English.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictiona
+ry-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/translator/translator-theorem-dic
-tionary-English.dict
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
+ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-\c@mv@tabular=\count409
-\c@mv@boldtabular=\count410
+\c@mv@tabular=\count405
+\c@mv@boldtabular=\count406
 LaTeX Info: Redefining \. on input line 247.
 LaTeX Info: Redefining \% on input line 247.
 Package caption Info: Begin \AtBeginDocument code.
@@ -1465,8 +1443,7 @@ LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
 (Font)              scaled to size 4.0pt on input line 255.
  [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./temp
-late.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./template.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 ) [2
@@ -1480,19 +1457,19 @@ Package pdftex.def Info: Images//DJI_B1.png  used on input line 298.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 298
 .
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 298
 .
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 2
 98.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1phv.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
@@ -1572,315 +1549,801 @@ Package pdftex.def Info: Images//uav_model.jpeg  used on input line 333.
  <./Images//uav_model.jpeg>]
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
 (Font)              scaled to size 6.0pt on input line 366.
-<Images//video-0.png, id=100, 602.25pt x 300.12125pt>
-File: Images//video-0.png Graphic file (type png)
-<use Images//video-0.png>
-Package pdftex.def Info: Images//video-0.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-0.png> <a0,fr0>
-<Images//video-1.png, id=104, 602.25pt x 300.12125pt>
-File: Images//video-1.png Graphic file (type png)
-<use Images//video-1.png>
-Package pdftex.def Info: Images//video-1.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-1.png> <a0,fr1>
-<Images//video-2.png, id=108, 602.25pt x 300.12125pt>
-File: Images//video-2.png Graphic file (type png)
-<use Images//video-2.png>
-Package pdftex.def Info: Images//video-2.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-2.png> <a0,fr2>
-<Images//video-3.png, id=112, 602.25pt x 300.12125pt>
-File: Images//video-3.png Graphic file (type png)
-<use Images//video-3.png>
-Package pdftex.def Info: Images//video-3.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-3.png> <a0,fr3>
-<Images//video-4.png, id=116, 602.25pt x 300.12125pt>
-File: Images//video-4.png Graphic file (type png)
-<use Images//video-4.png>
-Package pdftex.def Info: Images//video-4.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-4.png> <a0,fr4>
-<Images//video-5.png, id=120, 602.25pt x 300.12125pt>
-File: Images//video-5.png Graphic file (type png)
-<use Images//video-5.png>
-Package pdftex.def Info: Images//video-5.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-5.png>
-<a0,fr5>
-<Images//video-6.png, id=124, 602.25pt x 300.12125pt>
-File: Images//video-6.png Graphic file (type png)
-<use Images//video-6.png>
-Package pdftex.def Info: Images//video-6.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-6.png> <a0,fr6>
-<Images//video-7.png, id=128, 602.25pt x 300.12125pt>
-File: Images//video-7.png Graphic file (type png)
-<use Images//video-7.png>
-Package pdftex.def Info: Images//video-7.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-7.png> <a0,fr7>
-<Images//video-8.png, id=132, 602.25pt x 300.12125pt>
-File: Images//video-8.png Graphic file (type png)
-<use Images//video-8.png>
-Package pdftex.def Info: Images//video-8.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-8.png> <a0,fr8>
-<Images//video-9.png, id=136, 602.25pt x 300.12125pt>
-File: Images//video-9.png Graphic file (type png)
-<use Images//video-9.png>
-Package pdftex.def Info: Images//video-9.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-9.png> <a0,fr9>
-<Images//video-10.png, id=140, 602.25pt x 300.12125pt>
-File: Images//video-10.png Graphic file (type png)
-<use Images//video-10.png>
-Package pdftex.def Info: Images//video-10.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-10.png> <a0,fr10>
-<Images//video-11.png, id=144, 602.25pt x 300.12125pt>
-File: Images//video-11.png Graphic file (type png)
-<use Images//video-11.png>
-Package pdftex.def Info: Images//video-11.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-11.png> <a0,fr11>
-<Images//video-12.png, id=148, 602.25pt x 300.12125pt>
-File: Images//video-12.png Graphic file (type png)
-<use Images//video-12.png>
-Package pdftex.def Info: Images//video-12.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-12.png>
-<a0,fr12>
-<Images//video-13.png, id=152, 602.25pt x 300.12125pt>
-File: Images//video-13.png Graphic file (type png)
-<use Images//video-13.png>
-Package pdftex.def Info: Images//video-13.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-13.png> <a0,fr13>
-<Images//video-14.png, id=156, 602.25pt x 300.12125pt>
-File: Images//video-14.png Graphic file (type png)
-<use Images//video-14.png>
-Package pdftex.def Info: Images//video-14.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-14.png>
-<a0,fr14>
-<Images//video-15.png, id=160, 602.25pt x 300.12125pt>
-File: Images//video-15.png Graphic file (type png)
-<use Images//video-15.png>
-Package pdftex.def Info: Images//video-15.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-15.png> <a0,fr15>
-<Images//video-16.png, id=164, 602.25pt x 300.12125pt>
-File: Images//video-16.png Graphic file (type png)
-<use Images//video-16.png>
-Package pdftex.def Info: Images//video-16.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-16.png>
-<a0,fr16>
-<Images//video-17.png, id=168, 602.25pt x 300.12125pt>
-File: Images//video-17.png Graphic file (type png)
-<use Images//video-17.png>
-Package pdftex.def Info: Images//video-17.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-17.png> <a0,fr17>
-<Images//video-18.png, id=172, 602.25pt x 300.12125pt>
-File: Images//video-18.png Graphic file (type png)
-<use Images//video-18.png>
-Package pdftex.def Info: Images//video-18.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-18.png>
-<a0,fr18>
-<Images//video-19.png, id=176, 602.25pt x 300.12125pt>
-File: Images//video-19.png Graphic file (type png)
-<use Images//video-19.png>
-Package pdftex.def Info: Images//video-19.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-19.png> <a0,fr19>
-<Images//video-20.png, id=180, 602.25pt x 300.12125pt>
-File: Images//video-20.png Graphic file (type png)
-<use Images//video-20.png>
-Package pdftex.def Info: Images//video-20.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-20.png>
-<a0,fr20>
-<Images//video-21.png, id=184, 602.25pt x 300.12125pt>
-File: Images//video-21.png Graphic file (type png)
-<use Images//video-21.png>
-Package pdftex.def Info: Images//video-21.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-21.png> <a0,fr21>
-<Images//video-22.png, id=188, 602.25pt x 300.12125pt>
-File: Images//video-22.png Graphic file (type png)
-<use Images//video-22.png>
-Package pdftex.def Info: Images//video-22.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-22.png>
-<a0,fr22>
-<Images//video-23.png, id=192, 602.25pt x 300.12125pt>
-File: Images//video-23.png Graphic file (type png)
-<use Images//video-23.png>
-Package pdftex.def Info: Images//video-23.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-23.png> <a0,fr23>
-<Images//video-24.png, id=196, 602.25pt x 300.12125pt>
-File: Images//video-24.png Graphic file (type png)
-<use Images//video-24.png>
-Package pdftex.def Info: Images//video-24.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-24.png>
-<a0,fr24>
-<Images//video-25.png, id=200, 602.25pt x 300.12125pt>
-File: Images//video-25.png Graphic file (type png)
-<use Images//video-25.png>
-Package pdftex.def Info: Images//video-25.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-25.png> <a0,fr25>
-<Images//video-26.png, id=204, 602.25pt x 300.12125pt>
-File: Images//video-26.png Graphic file (type png)
-<use Images//video-26.png>
-Package pdftex.def Info: Images//video-26.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-26.png>
-<a0,fr26>
-<Images//video-27.png, id=208, 602.25pt x 300.12125pt>
-File: Images//video-27.png Graphic file (type png)
-<use Images//video-27.png>
-Package pdftex.def Info: Images//video-27.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-27.png> <a0,fr27>
-<Images//video-28.png, id=212, 602.25pt x 300.12125pt>
-File: Images//video-28.png Graphic file (type png)
-<use Images//video-28.png>
-Package pdftex.def Info: Images//video-28.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-28.png>
-<a0,fr28>
-<Images//video-29.png, id=216, 602.25pt x 300.12125pt>
-File: Images//video-29.png Graphic file (type png)
-<use Images//video-29.png>
-Package pdftex.def Info: Images//video-29.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-29.png> <a0,fr29>
-<Images//video-30.png, id=220, 602.25pt x 300.12125pt>
-File: Images//video-30.png Graphic file (type png)
-<use Images//video-30.png>
-Package pdftex.def Info: Images//video-30.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-30.png>
+<Images//ezgif-frame-001.png, id=100, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-001.png Graphic file (type png)
+<use Images//ezgif-frame-001.png>
+Package pdftex.def Info: Images//ezgif-frame-001.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-001.png>
+<a0,fr0>
+<Images//ezgif-frame-002.png, id=103, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-002.png Graphic file (type png)
+<use Images//ezgif-frame-002.png>
+Package pdftex.def Info: Images//ezgif-frame-002.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-002.png> <a0,fr1>
+<Images//ezgif-frame-003.png, id=106, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-003.png Graphic file (type png)
+<use Images//ezgif-frame-003.png>
+Package pdftex.def Info: Images//ezgif-frame-003.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-003.png> <a0,fr2>
+<Images//ezgif-frame-004.png, id=109, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-004.png Graphic file (type png)
+<use Images//ezgif-frame-004.png>
+Package pdftex.def Info: Images//ezgif-frame-004.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-004.png> <a0,fr3>
+<Images//ezgif-frame-005.png, id=112, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-005.png Graphic file (type png)
+<use Images//ezgif-frame-005.png>
+Package pdftex.def Info: Images//ezgif-frame-005.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-005.png> <a0,fr4>
+<Images//ezgif-frame-006.png, id=115, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-006.png Graphic file (type png)
+<use Images//ezgif-frame-006.png>
+Package pdftex.def Info: Images//ezgif-frame-006.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-006.png> <a0,fr5>
+<Images//ezgif-frame-007.png, id=118, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-007.png Graphic file (type png)
+<use Images//ezgif-frame-007.png>
+Package pdftex.def Info: Images//ezgif-frame-007.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-007.png> <a0,fr6>
+<Images//ezgif-frame-008.png, id=121, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-008.png Graphic file (type png)
+<use Images//ezgif-frame-008.png>
+Package pdftex.def Info: Images//ezgif-frame-008.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-008.png> <a0,fr7>
+<Images//ezgif-frame-009.png, id=124, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-009.png Graphic file (type png)
+<use Images//ezgif-frame-009.png>
+Package pdftex.def Info: Images//ezgif-frame-009.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-009.png> <a0,fr8>
+<Images//ezgif-frame-010.png, id=127, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-010.png Graphic file (type png)
+<use Images//ezgif-frame-010.png>
+Package pdftex.def Info: Images//ezgif-frame-010.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-010.png> <a0,fr9>
+<Images//ezgif-frame-011.png, id=130, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-011.png Graphic file (type png)
+<use Images//ezgif-frame-011.png>
+Package pdftex.def Info: Images//ezgif-frame-011.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-011.png> <a0,fr10>
+<Images//ezgif-frame-012.png, id=133, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-012.png Graphic file (type png)
+<use Images//ezgif-frame-012.png>
+Package pdftex.def Info: Images//ezgif-frame-012.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-012.png> <a0,fr11>
+<Images//ezgif-frame-013.png, id=136, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-013.png Graphic file (type png)
+<use Images//ezgif-frame-013.png>
+Package pdftex.def Info: Images//ezgif-frame-013.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-013.png> <a0,fr12>
+<Images//ezgif-frame-014.png, id=139, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-014.png Graphic file (type png)
+<use Images//ezgif-frame-014.png>
+Package pdftex.def Info: Images//ezgif-frame-014.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-014.png> <a0,fr13>
+<Images//ezgif-frame-015.png, id=142, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-015.png Graphic file (type png)
+<use Images//ezgif-frame-015.png>
+Package pdftex.def Info: Images//ezgif-frame-015.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-015.png> <a0,fr14>
+<Images//ezgif-frame-016.png, id=145, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-016.png Graphic file (type png)
+<use Images//ezgif-frame-016.png>
+Package pdftex.def Info: Images//ezgif-frame-016.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-016.png> <a0,fr15>
+<Images//ezgif-frame-017.png, id=148, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-017.png Graphic file (type png)
+<use Images//ezgif-frame-017.png>
+Package pdftex.def Info: Images//ezgif-frame-017.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-017.png> <a0,fr16>
+<Images//ezgif-frame-018.png, id=151, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-018.png Graphic file (type png)
+<use Images//ezgif-frame-018.png>
+Package pdftex.def Info: Images//ezgif-frame-018.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-018.png>
+<a0,fr17>
+<Images//ezgif-frame-019.png, id=154, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-019.png Graphic file (type png)
+<use Images//ezgif-frame-019.png>
+Package pdftex.def Info: Images//ezgif-frame-019.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-019.png> <a0,fr18>
+<Images//ezgif-frame-020.png, id=157, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-020.png Graphic file (type png)
+<use Images//ezgif-frame-020.png>
+Package pdftex.def Info: Images//ezgif-frame-020.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-020.png> <a0,fr19>
+<Images//ezgif-frame-021.png, id=160, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-021.png Graphic file (type png)
+<use Images//ezgif-frame-021.png>
+Package pdftex.def Info: Images//ezgif-frame-021.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-021.png> <a0,fr20>
+<Images//ezgif-frame-022.png, id=163, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-022.png Graphic file (type png)
+<use Images//ezgif-frame-022.png>
+Package pdftex.def Info: Images//ezgif-frame-022.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-022.png> <a0,fr21>
+<Images//ezgif-frame-023.png, id=166, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-023.png Graphic file (type png)
+<use Images//ezgif-frame-023.png>
+Package pdftex.def Info: Images//ezgif-frame-023.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-023.png> <a0,fr22>
+<Images//ezgif-frame-024.png, id=169, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-024.png Graphic file (type png)
+<use Images//ezgif-frame-024.png>
+Package pdftex.def Info: Images//ezgif-frame-024.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-024.png> <a0,fr23>
+<Images//ezgif-frame-025.png, id=172, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-025.png Graphic file (type png)
+<use Images//ezgif-frame-025.png>
+Package pdftex.def Info: Images//ezgif-frame-025.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-025.png> <a0,fr24>
+<Images//ezgif-frame-026.png, id=175, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-026.png Graphic file (type png)
+<use Images//ezgif-frame-026.png>
+Package pdftex.def Info: Images//ezgif-frame-026.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-026.png> <a0,fr25>
+<Images//ezgif-frame-027.png, id=178, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-027.png Graphic file (type png)
+<use Images//ezgif-frame-027.png>
+Package pdftex.def Info: Images//ezgif-frame-027.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-027.png> <a0,fr26>
+<Images//ezgif-frame-028.png, id=181, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-028.png Graphic file (type png)
+<use Images//ezgif-frame-028.png>
+Package pdftex.def Info: Images//ezgif-frame-028.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-028.png> <a0,fr27>
+<Images//ezgif-frame-029.png, id=184, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-029.png Graphic file (type png)
+<use Images//ezgif-frame-029.png>
+Package pdftex.def Info: Images//ezgif-frame-029.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-029.png> <a0,fr28>
+<Images//ezgif-frame-030.png, id=187, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-030.png Graphic file (type png)
+<use Images//ezgif-frame-030.png>
+Package pdftex.def Info: Images//ezgif-frame-030.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-030.png> <a0,fr29>
+<Images//ezgif-frame-031.png, id=190, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-031.png Graphic file (type png)
+<use Images//ezgif-frame-031.png>
+Package pdftex.def Info: Images//ezgif-frame-031.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-031.png>
 <a0,fr30>
-<Images//video-31.png, id=224, 602.25pt x 300.12125pt>
-File: Images//video-31.png Graphic file (type png)
-<use Images//video-31.png>
-Package pdftex.def Info: Images//video-31.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-31.png> <a0,fr31>
-<Images//video-32.png, id=228, 602.25pt x 300.12125pt>
-File: Images//video-32.png Graphic file (type png)
-<use Images//video-32.png>
-Package pdftex.def Info: Images//video-32.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-32.png>
-<a0,fr32>
-<Images//video-33.png, id=232, 602.25pt x 300.12125pt>
-File: Images//video-33.png Graphic file (type png)
-<use Images//video-33.png>
-Package pdftex.def Info: Images//video-33.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-33.png> <a0,fr33>
-<Images//video-34.png, id=236, 602.25pt x 300.12125pt>
-File: Images//video-34.png Graphic file (type png)
-<use Images//video-34.png>
-Package pdftex.def Info: Images//video-34.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-34.png>
-<a0,fr34>
-<Images//video-35.png, id=240, 602.25pt x 300.12125pt>
-File: Images//video-35.png Graphic file (type png)
-<use Images//video-35.png>
-Package pdftex.def Info: Images//video-35.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-35.png> <a0,fr35>
-<Images//video-36.png, id=244, 602.25pt x 300.12125pt>
-File: Images//video-36.png Graphic file (type png)
-<use Images//video-36.png>
-Package pdftex.def Info: Images//video-36.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-36.png>
-<a0,fr36>
-<Images//video-37.png, id=248, 602.25pt x 300.12125pt>
-File: Images//video-37.png Graphic file (type png)
-<use Images//video-37.png>
-Package pdftex.def Info: Images//video-37.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-37.png> <a0,fr37>
-<Images//video-38.png, id=252, 602.25pt x 300.12125pt>
-File: Images//video-38.png Graphic file (type png)
-<use Images//video-38.png>
-Package pdftex.def Info: Images//video-38.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-38.png>
-<a0,fr38>
-<Images//video-39.png, id=256, 602.25pt x 300.12125pt>
-File: Images//video-39.png Graphic file (type png)
-<use Images//video-39.png>
-Package pdftex.def Info: Images//video-39.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-39.png> <a0,fr39>
-<Images//video-40.png, id=260, 602.25pt x 300.12125pt>
-File: Images//video-40.png Graphic file (type png)
-<use Images//video-40.png>
-Package pdftex.def Info: Images//video-40.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-40.png>
-<a0,fr40>
-<Images//video-41.png, id=264, 602.25pt x 300.12125pt>
-File: Images//video-41.png Graphic file (type png)
-<use Images//video-41.png>
-Package pdftex.def Info: Images//video-41.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-41.png> <a0,fr41>
-<Images//video-42.png, id=268, 602.25pt x 300.12125pt>
-File: Images//video-42.png Graphic file (type png)
-<use Images//video-42.png>
-Package pdftex.def Info: Images//video-42.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-42.png>
-<a0,fr42>
-<Images//video-43.png, id=273, 602.25pt x 300.12125pt>
-File: Images//video-43.png Graphic file (type png)
-<use Images//video-43.png>
-Package pdftex.def Info: Images//video-43.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-43.png> <a0,fr43>
-<Images//video-44.png, id=277, 602.25pt x 300.12125pt>
-File: Images//video-44.png Graphic file (type png)
-<use Images//video-44.png>
-Package pdftex.def Info: Images//video-44.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-44.png>
-<a0,fr44>
-<Images//video-45.png, id=281, 602.25pt x 300.12125pt>
-File: Images//video-45.png Graphic file (type png)
-<use Images//video-45.png>
-Package pdftex.def Info: Images//video-45.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-45.png> <a0,fr45>
-<Images//video-46.png, id=285, 602.25pt x 300.12125pt>
-File: Images//video-46.png Graphic file (type png)
-<use Images//video-46.png>
-Package pdftex.def Info: Images//video-46.png  used on input line 366.
-(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
- <./Images//video-46.png>
-<a0,fr46>
-Overfull \hbox (10.95395pt too wide) in paragraph at lines 366--366
+<Images//ezgif-frame-032.png, id=193, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-032.png Graphic file (type png)
+<use Images//ezgif-frame-032.png>
+Package pdftex.def Info: Images//ezgif-frame-032.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-032.png> <a0,fr31>
+<Images//ezgif-frame-033.png, id=196, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-033.png Graphic file (type png)
+<use Images//ezgif-frame-033.png>
+Package pdftex.def Info: Images//ezgif-frame-033.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-033.png> <a0,fr32>
+<Images//ezgif-frame-034.png, id=199, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-034.png Graphic file (type png)
+<use Images//ezgif-frame-034.png>
+Package pdftex.def Info: Images//ezgif-frame-034.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-034.png> <a0,fr33>
+<Images//ezgif-frame-035.png, id=202, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-035.png Graphic file (type png)
+<use Images//ezgif-frame-035.png>
+Package pdftex.def Info: Images//ezgif-frame-035.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-035.png> <a0,fr34>
+<Images//ezgif-frame-036.png, id=205, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-036.png Graphic file (type png)
+<use Images//ezgif-frame-036.png>
+Package pdftex.def Info: Images//ezgif-frame-036.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-036.png> <a0,fr35>
+<Images//ezgif-frame-037.png, id=208, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-037.png Graphic file (type png)
+<use Images//ezgif-frame-037.png>
+Package pdftex.def Info: Images//ezgif-frame-037.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-037.png> <a0,fr36>
+<Images//ezgif-frame-038.png, id=211, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-038.png Graphic file (type png)
+<use Images//ezgif-frame-038.png>
+Package pdftex.def Info: Images//ezgif-frame-038.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-038.png> <a0,fr37>
+<Images//ezgif-frame-039.png, id=214, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-039.png Graphic file (type png)
+<use Images//ezgif-frame-039.png>
+Package pdftex.def Info: Images//ezgif-frame-039.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-039.png> <a0,fr38>
+<Images//ezgif-frame-040.png, id=217, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-040.png Graphic file (type png)
+<use Images//ezgif-frame-040.png>
+Package pdftex.def Info: Images//ezgif-frame-040.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-040.png> <a0,fr39>
+<Images//ezgif-frame-041.png, id=220, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-041.png Graphic file (type png)
+<use Images//ezgif-frame-041.png>
+Package pdftex.def Info: Images//ezgif-frame-041.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-041.png> <a0,fr40>
+<Images//ezgif-frame-042.png, id=223, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-042.png Graphic file (type png)
+<use Images//ezgif-frame-042.png>
+Package pdftex.def Info: Images//ezgif-frame-042.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-042.png> <a0,fr41>
+<Images//ezgif-frame-043.png, id=226, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-043.png Graphic file (type png)
+<use Images//ezgif-frame-043.png>
+Package pdftex.def Info: Images//ezgif-frame-043.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-043.png> <a0,fr42>
+<Images//ezgif-frame-044.png, id=230, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-044.png Graphic file (type png)
+<use Images//ezgif-frame-044.png>
+Package pdftex.def Info: Images//ezgif-frame-044.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-044.png>
+<a0,fr43>
+<Images//ezgif-frame-045.png, id=233, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-045.png Graphic file (type png)
+<use Images//ezgif-frame-045.png>
+Package pdftex.def Info: Images//ezgif-frame-045.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-045.png> <a0,fr44>
+<Images//ezgif-frame-046.png, id=236, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-046.png Graphic file (type png)
+<use Images//ezgif-frame-046.png>
+Package pdftex.def Info: Images//ezgif-frame-046.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-046.png> <a0,fr45>
+<Images//ezgif-frame-047.png, id=239, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-047.png Graphic file (type png)
+<use Images//ezgif-frame-047.png>
+Package pdftex.def Info: Images//ezgif-frame-047.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-047.png> <a0,fr46>
+<Images//ezgif-frame-048.png, id=242, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-048.png Graphic file (type png)
+<use Images//ezgif-frame-048.png>
+Package pdftex.def Info: Images//ezgif-frame-048.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-048.png> <a0,fr47>
+<Images//ezgif-frame-049.png, id=245, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-049.png Graphic file (type png)
+<use Images//ezgif-frame-049.png>
+Package pdftex.def Info: Images//ezgif-frame-049.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-049.png> <a0,fr48>
+<Images//ezgif-frame-050.png, id=248, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-050.png Graphic file (type png)
+<use Images//ezgif-frame-050.png>
+Package pdftex.def Info: Images//ezgif-frame-050.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-050.png> <a0,fr49>
+<Images//ezgif-frame-051.png, id=251, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-051.png Graphic file (type png)
+<use Images//ezgif-frame-051.png>
+Package pdftex.def Info: Images//ezgif-frame-051.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-051.png> <a0,fr50>
+<Images//ezgif-frame-052.png, id=254, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-052.png Graphic file (type png)
+<use Images//ezgif-frame-052.png>
+Package pdftex.def Info: Images//ezgif-frame-052.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-052.png> <a0,fr51>
+<Images//ezgif-frame-053.png, id=257, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-053.png Graphic file (type png)
+<use Images//ezgif-frame-053.png>
+Package pdftex.def Info: Images//ezgif-frame-053.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-053.png> <a0,fr52>
+<Images//ezgif-frame-054.png, id=260, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-054.png Graphic file (type png)
+<use Images//ezgif-frame-054.png>
+Package pdftex.def Info: Images//ezgif-frame-054.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-054.png> <a0,fr53>
+<Images//ezgif-frame-055.png, id=263, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-055.png Graphic file (type png)
+<use Images//ezgif-frame-055.png>
+Package pdftex.def Info: Images//ezgif-frame-055.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-055.png> <a0,fr54>
+<Images//ezgif-frame-056.png, id=266, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-056.png Graphic file (type png)
+<use Images//ezgif-frame-056.png>
+Package pdftex.def Info: Images//ezgif-frame-056.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-056.png> <a0,fr55>
+<Images//ezgif-frame-057.png, id=269, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-057.png Graphic file (type png)
+<use Images//ezgif-frame-057.png>
+Package pdftex.def Info: Images//ezgif-frame-057.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-057.png>
+<a0,fr56>
+<Images//ezgif-frame-058.png, id=272, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-058.png Graphic file (type png)
+<use Images//ezgif-frame-058.png>
+Package pdftex.def Info: Images//ezgif-frame-058.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-058.png> <a0,fr57>
+<Images//ezgif-frame-059.png, id=275, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-059.png Graphic file (type png)
+<use Images//ezgif-frame-059.png>
+Package pdftex.def Info: Images//ezgif-frame-059.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-059.png> <a0,fr58>
+<Images//ezgif-frame-060.png, id=278, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-060.png Graphic file (type png)
+<use Images//ezgif-frame-060.png>
+Package pdftex.def Info: Images//ezgif-frame-060.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-060.png> <a0,fr59>
+<Images//ezgif-frame-061.png, id=281, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-061.png Graphic file (type png)
+<use Images//ezgif-frame-061.png>
+Package pdftex.def Info: Images//ezgif-frame-061.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-061.png> <a0,fr60>
+<Images//ezgif-frame-062.png, id=284, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-062.png Graphic file (type png)
+<use Images//ezgif-frame-062.png>
+Package pdftex.def Info: Images//ezgif-frame-062.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-062.png> <a0,fr61>
+<Images//ezgif-frame-063.png, id=287, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-063.png Graphic file (type png)
+<use Images//ezgif-frame-063.png>
+Package pdftex.def Info: Images//ezgif-frame-063.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-063.png> <a0,fr62>
+<Images//ezgif-frame-064.png, id=290, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-064.png Graphic file (type png)
+<use Images//ezgif-frame-064.png>
+Package pdftex.def Info: Images//ezgif-frame-064.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-064.png> <a0,fr63>
+<Images//ezgif-frame-065.png, id=293, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-065.png Graphic file (type png)
+<use Images//ezgif-frame-065.png>
+Package pdftex.def Info: Images//ezgif-frame-065.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-065.png> <a0,fr64>
+<Images//ezgif-frame-066.png, id=296, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-066.png Graphic file (type png)
+<use Images//ezgif-frame-066.png>
+Package pdftex.def Info: Images//ezgif-frame-066.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-066.png> <a0,fr65>
+<Images//ezgif-frame-067.png, id=299, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-067.png Graphic file (type png)
+<use Images//ezgif-frame-067.png>
+Package pdftex.def Info: Images//ezgif-frame-067.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-067.png> <a0,fr66>
+<Images//ezgif-frame-068.png, id=302, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-068.png Graphic file (type png)
+<use Images//ezgif-frame-068.png>
+Package pdftex.def Info: Images//ezgif-frame-068.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-068.png> <a0,fr67>
+<Images//ezgif-frame-069.png, id=305, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-069.png Graphic file (type png)
+<use Images//ezgif-frame-069.png>
+Package pdftex.def Info: Images//ezgif-frame-069.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-069.png> <a0,fr68>
+<Images//ezgif-frame-070.png, id=308, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-070.png Graphic file (type png)
+<use Images//ezgif-frame-070.png>
+Package pdftex.def Info: Images//ezgif-frame-070.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-070.png>
+<a0,fr69>
+<Images//ezgif-frame-071.png, id=311, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-071.png Graphic file (type png)
+<use Images//ezgif-frame-071.png>
+Package pdftex.def Info: Images//ezgif-frame-071.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-071.png> <a0,fr70>
+<Images//ezgif-frame-072.png, id=314, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-072.png Graphic file (type png)
+<use Images//ezgif-frame-072.png>
+Package pdftex.def Info: Images//ezgif-frame-072.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-072.png> <a0,fr71>
+<Images//ezgif-frame-073.png, id=317, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-073.png Graphic file (type png)
+<use Images//ezgif-frame-073.png>
+Package pdftex.def Info: Images//ezgif-frame-073.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-073.png> <a0,fr72>
+<Images//ezgif-frame-074.png, id=320, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-074.png Graphic file (type png)
+<use Images//ezgif-frame-074.png>
+Package pdftex.def Info: Images//ezgif-frame-074.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-074.png> <a0,fr73>
+<Images//ezgif-frame-075.png, id=323, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-075.png Graphic file (type png)
+<use Images//ezgif-frame-075.png>
+Package pdftex.def Info: Images//ezgif-frame-075.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-075.png> <a0,fr74>
+<Images//ezgif-frame-076.png, id=326, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-076.png Graphic file (type png)
+<use Images//ezgif-frame-076.png>
+Package pdftex.def Info: Images//ezgif-frame-076.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-076.png> <a0,fr75>
+<Images//ezgif-frame-077.png, id=329, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-077.png Graphic file (type png)
+<use Images//ezgif-frame-077.png>
+Package pdftex.def Info: Images//ezgif-frame-077.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-077.png> <a0,fr76>
+<Images//ezgif-frame-078.png, id=332, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-078.png Graphic file (type png)
+<use Images//ezgif-frame-078.png>
+Package pdftex.def Info: Images//ezgif-frame-078.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-078.png> <a0,fr77>
+<Images//ezgif-frame-079.png, id=335, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-079.png Graphic file (type png)
+<use Images//ezgif-frame-079.png>
+Package pdftex.def Info: Images//ezgif-frame-079.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-079.png> <a0,fr78>
+<Images//ezgif-frame-080.png, id=338, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-080.png Graphic file (type png)
+<use Images//ezgif-frame-080.png>
+Package pdftex.def Info: Images//ezgif-frame-080.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-080.png> <a0,fr79>
+<Images//ezgif-frame-081.png, id=341, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-081.png Graphic file (type png)
+<use Images//ezgif-frame-081.png>
+Package pdftex.def Info: Images//ezgif-frame-081.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-081.png> <a0,fr80>
+<Images//ezgif-frame-082.png, id=344, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-082.png Graphic file (type png)
+<use Images//ezgif-frame-082.png>
+Package pdftex.def Info: Images//ezgif-frame-082.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-082.png> <a0,fr81>
+<Images//ezgif-frame-083.png, id=347, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-083.png Graphic file (type png)
+<use Images//ezgif-frame-083.png>
+Package pdftex.def Info: Images//ezgif-frame-083.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-083.png>
+<a0,fr82>
+<Images//ezgif-frame-084.png, id=350, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-084.png Graphic file (type png)
+<use Images//ezgif-frame-084.png>
+Package pdftex.def Info: Images//ezgif-frame-084.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-084.png> <a0,fr83>
+<Images//ezgif-frame-085.png, id=353, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-085.png Graphic file (type png)
+<use Images//ezgif-frame-085.png>
+Package pdftex.def Info: Images//ezgif-frame-085.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-085.png> <a0,fr84>
+<Images//ezgif-frame-086.png, id=356, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-086.png Graphic file (type png)
+<use Images//ezgif-frame-086.png>
+Package pdftex.def Info: Images//ezgif-frame-086.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-086.png> <a0,fr85>
+<Images//ezgif-frame-087.png, id=359, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-087.png Graphic file (type png)
+<use Images//ezgif-frame-087.png>
+Package pdftex.def Info: Images//ezgif-frame-087.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-087.png> <a0,fr86>
+<Images//ezgif-frame-088.png, id=362, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-088.png Graphic file (type png)
+<use Images//ezgif-frame-088.png>
+Package pdftex.def Info: Images//ezgif-frame-088.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-088.png> <a0,fr87>
+<Images//ezgif-frame-089.png, id=365, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-089.png Graphic file (type png)
+<use Images//ezgif-frame-089.png>
+Package pdftex.def Info: Images//ezgif-frame-089.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-089.png> <a0,fr88>
+<Images//ezgif-frame-090.png, id=368, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-090.png Graphic file (type png)
+<use Images//ezgif-frame-090.png>
+Package pdftex.def Info: Images//ezgif-frame-090.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-090.png> <a0,fr89>
+<Images//ezgif-frame-091.png, id=371, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-091.png Graphic file (type png)
+<use Images//ezgif-frame-091.png>
+Package pdftex.def Info: Images//ezgif-frame-091.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-091.png> <a0,fr90>
+<Images//ezgif-frame-092.png, id=374, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-092.png Graphic file (type png)
+<use Images//ezgif-frame-092.png>
+Package pdftex.def Info: Images//ezgif-frame-092.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-092.png> <a0,fr91>
+<Images//ezgif-frame-093.png, id=377, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-093.png Graphic file (type png)
+<use Images//ezgif-frame-093.png>
+Package pdftex.def Info: Images//ezgif-frame-093.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-093.png> <a0,fr92>
+<Images//ezgif-frame-094.png, id=380, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-094.png Graphic file (type png)
+<use Images//ezgif-frame-094.png>
+Package pdftex.def Info: Images//ezgif-frame-094.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-094.png> <a0,fr93>
+<Images//ezgif-frame-095.png, id=383, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-095.png Graphic file (type png)
+<use Images//ezgif-frame-095.png>
+Package pdftex.def Info: Images//ezgif-frame-095.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-095.png> <a0,fr94>
+<Images//ezgif-frame-096.png, id=386, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-096.png Graphic file (type png)
+<use Images//ezgif-frame-096.png>
+Package pdftex.def Info: Images//ezgif-frame-096.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-096.png>
+<a0,fr95>
+<Images//ezgif-frame-097.png, id=389, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-097.png Graphic file (type png)
+<use Images//ezgif-frame-097.png>
+Package pdftex.def Info: Images//ezgif-frame-097.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-097.png> <a0,fr96>
+<Images//ezgif-frame-098.png, id=392, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-098.png Graphic file (type png)
+<use Images//ezgif-frame-098.png>
+Package pdftex.def Info: Images//ezgif-frame-098.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-098.png> <a0,fr97>
+<Images//ezgif-frame-099.png, id=395, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-099.png Graphic file (type png)
+<use Images//ezgif-frame-099.png>
+Package pdftex.def Info: Images//ezgif-frame-099.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-099.png> <a0,fr98>
+<Images//ezgif-frame-100.png, id=398, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-100.png Graphic file (type png)
+<use Images//ezgif-frame-100.png>
+Package pdftex.def Info: Images//ezgif-frame-100.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-100.png> <a0,fr99> <a0,fr100>
+<Images//ezgif-frame-102.png, id=401, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-102.png Graphic file (type png)
+<use Images//ezgif-frame-102.png>
+Package pdftex.def Info: Images//ezgif-frame-102.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-102.png> <a0,fr101>
+<Images//ezgif-frame-103.png, id=404, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-103.png Graphic file (type png)
+<use Images//ezgif-frame-103.png>
+Package pdftex.def Info: Images//ezgif-frame-103.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-103.png> <a0,fr102>
+<Images//ezgif-frame-104.png, id=407, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-104.png Graphic file (type png)
+<use Images//ezgif-frame-104.png>
+Package pdftex.def Info: Images//ezgif-frame-104.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-104.png>
+<a0,fr103>
+<Images//ezgif-frame-105.png, id=410, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-105.png Graphic file (type png)
+<use Images//ezgif-frame-105.png>
+Package pdftex.def Info: Images//ezgif-frame-105.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-105.png> <a0,fr104>
+<Images//ezgif-frame-106.png, id=413, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-106.png Graphic file (type png)
+<use Images//ezgif-frame-106.png>
+Package pdftex.def Info: Images//ezgif-frame-106.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-106.png> <a0,fr105>
+<Images//ezgif-frame-107.png, id=416, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-107.png Graphic file (type png)
+<use Images//ezgif-frame-107.png>
+Package pdftex.def Info: Images//ezgif-frame-107.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-107.png> <a0,fr106>
+<Images//ezgif-frame-108.png, id=419, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-108.png Graphic file (type png)
+<use Images//ezgif-frame-108.png>
+Package pdftex.def Info: Images//ezgif-frame-108.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-108.png> <a0,fr107>
+<Images//ezgif-frame-109.png, id=422, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-109.png Graphic file (type png)
+<use Images//ezgif-frame-109.png>
+Package pdftex.def Info: Images//ezgif-frame-109.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-109.png> <a0,fr108>
+<Images//ezgif-frame-110.png, id=425, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-110.png Graphic file (type png)
+<use Images//ezgif-frame-110.png>
+Package pdftex.def Info: Images//ezgif-frame-110.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-110.png> <a0,fr109>
+<Images//ezgif-frame-111.png, id=428, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-111.png Graphic file (type png)
+<use Images//ezgif-frame-111.png>
+Package pdftex.def Info: Images//ezgif-frame-111.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-111.png> <a0,fr110>
+<Images//ezgif-frame-112.png, id=431, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-112.png Graphic file (type png)
+<use Images//ezgif-frame-112.png>
+Package pdftex.def Info: Images//ezgif-frame-112.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-112.png> <a0,fr111>
+<Images//ezgif-frame-113.png, id=434, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-113.png Graphic file (type png)
+<use Images//ezgif-frame-113.png>
+Package pdftex.def Info: Images//ezgif-frame-113.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-113.png>
+<a0,fr112>
+<Images//ezgif-frame-114.png, id=437, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-114.png Graphic file (type png)
+<use Images//ezgif-frame-114.png>
+Package pdftex.def Info: Images//ezgif-frame-114.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-114.png> <a0,fr113>
+<Images//ezgif-frame-115.png, id=440, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-115.png Graphic file (type png)
+<use Images//ezgif-frame-115.png>
+Package pdftex.def Info: Images//ezgif-frame-115.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-115.png> <a0,fr114>
+<Images//ezgif-frame-116.png, id=443, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-116.png Graphic file (type png)
+<use Images//ezgif-frame-116.png>
+Package pdftex.def Info: Images//ezgif-frame-116.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-116.png> <a0,fr115>
+<Images//ezgif-frame-117.png, id=446, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-117.png Graphic file (type png)
+<use Images//ezgif-frame-117.png>
+Package pdftex.def Info: Images//ezgif-frame-117.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-117.png> <a0,fr116>
+<Images//ezgif-frame-118.png, id=449, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-118.png Graphic file (type png)
+<use Images//ezgif-frame-118.png>
+Package pdftex.def Info: Images//ezgif-frame-118.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-118.png> <a0,fr117>
+<Images//ezgif-frame-119.png, id=452, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-119.png Graphic file (type png)
+<use Images//ezgif-frame-119.png>
+Package pdftex.def Info: Images//ezgif-frame-119.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-119.png> <a0,fr118>
+<Images//ezgif-frame-120.png, id=455, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-120.png Graphic file (type png)
+<use Images//ezgif-frame-120.png>
+Package pdftex.def Info: Images//ezgif-frame-120.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-120.png> <a0,fr119>
+<Images//ezgif-frame-121.png, id=458, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-121.png Graphic file (type png)
+<use Images//ezgif-frame-121.png>
+Package pdftex.def Info: Images//ezgif-frame-121.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-121.png> <a0,fr120>
+<Images//ezgif-frame-122.png, id=461, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-122.png Graphic file (type png)
+<use Images//ezgif-frame-122.png>
+Package pdftex.def Info: Images//ezgif-frame-122.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-122.png>
+<a0,fr121>
+<Images//ezgif-frame-123.png, id=464, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-123.png Graphic file (type png)
+<use Images//ezgif-frame-123.png>
+Package pdftex.def Info: Images//ezgif-frame-123.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-123.png> <a0,fr122>
+<Images//ezgif-frame-124.png, id=467, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-124.png Graphic file (type png)
+<use Images//ezgif-frame-124.png>
+Package pdftex.def Info: Images//ezgif-frame-124.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-124.png> <a0,fr123>
+<Images//ezgif-frame-125.png, id=470, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-125.png Graphic file (type png)
+<use Images//ezgif-frame-125.png>
+Package pdftex.def Info: Images//ezgif-frame-125.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-125.png> <a0,fr124>
+<Images//ezgif-frame-126.png, id=473, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-126.png Graphic file (type png)
+<use Images//ezgif-frame-126.png>
+Package pdftex.def Info: Images//ezgif-frame-126.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-126.png> <a0,fr125>
+<Images//ezgif-frame-127.png, id=476, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-127.png Graphic file (type png)
+<use Images//ezgif-frame-127.png>
+Package pdftex.def Info: Images//ezgif-frame-127.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-127.png> <a0,fr126>
+<Images//ezgif-frame-128.png, id=479, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-128.png Graphic file (type png)
+<use Images//ezgif-frame-128.png>
+Package pdftex.def Info: Images//ezgif-frame-128.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-128.png> <a0,fr127>
+<Images//ezgif-frame-129.png, id=482, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-129.png Graphic file (type png)
+<use Images//ezgif-frame-129.png>
+Package pdftex.def Info: Images//ezgif-frame-129.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-129.png> <a0,fr128>
+<Images//ezgif-frame-130.png, id=485, 256.96pt x 144.54pt>
+File: Images//ezgif-frame-130.png Graphic file (type png)
+<use Images//ezgif-frame-130.png>
+Package pdftex.def Info: Images//ezgif-frame-130.png  used on input line 366.
+(pdftex.def)             Requested size: 256.95937pt x 144.53963pt.
+ <./Images//ezgif-frame-130.png> <a0,fr129>
+Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
  [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][] 
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][] 
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
 66.
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [7
 
@@ -1891,10 +2354,24 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 <a1,fr24> <a1,fr25> <a1,fr26> <a1,fr27> <a1,fr28> <a1,fr29> <a1,fr30>
 <a1,fr31> <a1,fr32> <a1,fr33> <a1,fr34> <a1,fr35> <a1,fr36> <a1,fr37>
 <a1,fr38> <a1,fr39> <a1,fr40> <a1,fr41> <a1,fr42> <a1,fr43> <a1,fr44>
-<a1,fr45> <a1,fr46>
-Overfull \hbox (10.95395pt too wide) in paragraph at lines 366--366
+<a1,fr45> <a1,fr46> <a1,fr47> <a1,fr48> <a1,fr49> <a1,fr50> <a1,fr51>
+<a1,fr52> <a1,fr53> <a1,fr54> <a1,fr55> <a1,fr56> <a1,fr57> <a1,fr58>
+<a1,fr59> <a1,fr60> <a1,fr61> <a1,fr62> <a1,fr63> <a1,fr64> <a1,fr65>
+<a1,fr66> <a1,fr67> <a1,fr68> <a1,fr69> <a1,fr70> <a1,fr71> <a1,fr72>
+<a1,fr73> <a1,fr74> <a1,fr75> <a1,fr76> <a1,fr77> <a1,fr78> <a1,fr79>
+<a1,fr80> <a1,fr81> <a1,fr82> <a1,fr83> <a1,fr84> <a1,fr85> <a1,fr86>
+<a1,fr87> <a1,fr88> <a1,fr89> <a1,fr90> <a1,fr91> <a1,fr92> <a1,fr93>
+<a1,fr94> <a1,fr95> <a1,fr96> <a1,fr97> <a1,fr98> <a1,fr99> <a1,fr100>
+<a1,fr101> <a1,fr102> <a1,fr103> <a1,fr104> <a1,fr105> <a1,fr106> <a1,fr107>
+<a1,fr108> <a1,fr109> <a1,fr110> <a1,fr111> <a1,fr112> <a1,fr113> <a1,fr114>
+<a1,fr115> <a1,fr116> <a1,fr117> <a1,fr118> <a1,fr119> <a1,fr120> <a1,fr121>
+<a1,fr122> <a1,fr123> <a1,fr124> <a1,fr125> <a1,fr126> <a1,fr127> <a1,fr128>
+<a1,fr129>
+Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
  [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][] 
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][] 
  []
 
 [8
@@ -1905,10 +2382,24 @@ Overfull \hbox (10.95395pt too wide) in paragraph at lines 366--366
 <a2,fr23> <a2,fr24> <a2,fr25> <a2,fr26> <a2,fr27> <a2,fr28> <a2,fr29>
 <a2,fr30> <a2,fr31> <a2,fr32> <a2,fr33> <a2,fr34> <a2,fr35> <a2,fr36>
 <a2,fr37> <a2,fr38> <a2,fr39> <a2,fr40> <a2,fr41> <a2,fr42> <a2,fr43>
-<a2,fr44> <a2,fr45> <a2,fr46>
-Overfull \hbox (10.95395pt too wide) in paragraph at lines 366--366
+<a2,fr44> <a2,fr45> <a2,fr46> <a2,fr47> <a2,fr48> <a2,fr49> <a2,fr50>
+<a2,fr51> <a2,fr52> <a2,fr53> <a2,fr54> <a2,fr55> <a2,fr56> <a2,fr57>
+<a2,fr58> <a2,fr59> <a2,fr60> <a2,fr61> <a2,fr62> <a2,fr63> <a2,fr64>
+<a2,fr65> <a2,fr66> <a2,fr67> <a2,fr68> <a2,fr69> <a2,fr70> <a2,fr71>
+<a2,fr72> <a2,fr73> <a2,fr74> <a2,fr75> <a2,fr76> <a2,fr77> <a2,fr78>
+<a2,fr79> <a2,fr80> <a2,fr81> <a2,fr82> <a2,fr83> <a2,fr84> <a2,fr85>
+<a2,fr86> <a2,fr87> <a2,fr88> <a2,fr89> <a2,fr90> <a2,fr91> <a2,fr92>
+<a2,fr93> <a2,fr94> <a2,fr95> <a2,fr96> <a2,fr97> <a2,fr98> <a2,fr99>
+<a2,fr100> <a2,fr101> <a2,fr102> <a2,fr103> <a2,fr104> <a2,fr105> <a2,fr106>
+<a2,fr107> <a2,fr108> <a2,fr109> <a2,fr110> <a2,fr111> <a2,fr112> <a2,fr113>
+<a2,fr114> <a2,fr115> <a2,fr116> <a2,fr117> <a2,fr118> <a2,fr119> <a2,fr120>
+<a2,fr121> <a2,fr122> <a2,fr123> <a2,fr124> <a2,fr125> <a2,fr126> <a2,fr127>
+<a2,fr128> <a2,fr129>
+Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
  [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][] 
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][] 
  []
 
 [9
@@ -1919,222 +2410,559 @@ Overfull \hbox (10.95395pt too wide) in paragraph at lines 366--366
 <a3,fr23> <a3,fr24> <a3,fr25> <a3,fr26> <a3,fr27> <a3,fr28> <a3,fr29>
 <a3,fr30> <a3,fr31> <a3,fr32> <a3,fr33> <a3,fr34> <a3,fr35> <a3,fr36>
 <a3,fr37> <a3,fr38> <a3,fr39> <a3,fr40> <a3,fr41> <a3,fr42> <a3,fr43>
-<a3,fr44> <a3,fr45> <a3,fr46>
-Overfull \hbox (10.95395pt too wide) in paragraph at lines 366--366
+<a3,fr44> <a3,fr45> <a3,fr46> <a3,fr47> <a3,fr48> <a3,fr49> <a3,fr50>
+<a3,fr51> <a3,fr52> <a3,fr53> <a3,fr54> <a3,fr55> <a3,fr56> <a3,fr57>
+<a3,fr58> <a3,fr59> <a3,fr60> <a3,fr61> <a3,fr62> <a3,fr63> <a3,fr64>
+<a3,fr65> <a3,fr66> <a3,fr67> <a3,fr68> <a3,fr69> <a3,fr70> <a3,fr71>
+<a3,fr72> <a3,fr73> <a3,fr74> <a3,fr75> <a3,fr76> <a3,fr77> <a3,fr78>
+<a3,fr79> <a3,fr80> <a3,fr81> <a3,fr82> <a3,fr83> <a3,fr84> <a3,fr85>
+<a3,fr86> <a3,fr87> <a3,fr88> <a3,fr89> <a3,fr90> <a3,fr91> <a3,fr92>
+<a3,fr93> <a3,fr94> <a3,fr95> <a3,fr96> <a3,fr97> <a3,fr98> <a3,fr99>
+<a3,fr100> <a3,fr101> <a3,fr102> <a3,fr103> <a3,fr104> <a3,fr105> <a3,fr106>
+<a3,fr107> <a3,fr108> <a3,fr109> <a3,fr110> <a3,fr111> <a3,fr112> <a3,fr113>
+<a3,fr114> <a3,fr115> <a3,fr116> <a3,fr117> <a3,fr118> <a3,fr119> <a3,fr120>
+<a3,fr121> <a3,fr122> <a3,fr123> <a3,fr124> <a3,fr125> <a3,fr126> <a3,fr127>
+<a3,fr128> <a3,fr129>
+Overfull \hbox (10.95517pt too wide) in paragraph at lines 366--366
  [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][] 
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][] 
  []
 
 [10
 
 ] [11
 
-] [12
-
 ]
-<Images//map3d.jpg, id=552, 1027.84pt x 509.905pt>
-File: Images//map3d.jpg Graphic file (type jpg)
-<use Images//map3d.jpg>
-Package pdftex.def Info: Images//map3d.jpg  used on input line 414.
-(pdftex.def)             Requested size: 194.99364pt x 85.98245pt.
-<Images//map3d_2.png, id=553, 287.3937pt x 133.2177pt>
-File: Images//map3d_2.png Graphic file (type png)
-<use Images//map3d_2.png>
-Package pdftex.def Info: Images//map3d_2.png  used on input line 414.
-(pdftex.def)             Requested size: 195.00414pt x 85.98471pt.
+<Images//slam1.png, id=1077, 1039.885pt x 247.92625pt>
+File: Images//slam1.png Graphic file (type png)
+<use Images//slam1.png>
+Package pdftex.def Info: Images//slam1.png  used on input line 409.
+(pdftex.def)             Requested size: 227.62204pt x 54.26778pt.
+ [12
+
+ <./Images//slam1.png>]
+<Images//slam2.png, id=1088, 639.38875pt x 416.55624pt>
+File: Images//slam2.png Graphic file (type png)
+<use Images//slam2.png>
+Package pdftex.def Info: Images//slam2.png  used on input line 422.
+(pdftex.def)             Requested size: 227.62204pt x 148.29482pt.
  [13
 
+ <./Images//slam2.png>]
+<Images//slam3.png, id=1097, 446.66875pt x 261.97874pt>
+File: Images//slam3.png Graphic file (type png)
+<use Images//slam3.png>
+Package pdftex.def Info: Images//slam3.png  used on input line 430.
+(pdftex.def)             Requested size: 227.62204pt x 133.50745pt.
+ [14
+
+ <./Images//slam3.png>]
+<Images//slam5.png, id=1105, 470.75874pt x 117.43875pt>
+File: Images//slam5.png Graphic file (type png)
+<use Images//slam5.png>
+Package pdftex.def Info: Images//slam5.png  used on input line 442.
+(pdftex.def)             Requested size: 227.62204pt x 56.78389pt.
+<Images//slam4.png, id=1106, 470.75874pt x 117.43875pt>
+File: Images//slam4.png Graphic file (type png)
+<use Images//slam4.png>
+Package pdftex.def Info: Images//slam4.png  used on input line 442.
+(pdftex.def)             Requested size: 227.62204pt x 56.78389pt.
+ [15
+
+ <./Images//slam5.png> <./Images//slam4.png>]
+<Images//map3d.jpg, id=1115, 1027.84pt x 509.905pt>
+File: Images//map3d.jpg Graphic file (type jpg)
+<use Images//map3d.jpg>
+Package pdftex.def Info: Images//map3d.jpg  used on input line 469.
+(pdftex.def)             Requested size: 194.99364pt x 85.98245pt.
+<Images//map3d_2.png, id=1116, 287.3937pt x 133.2177pt>
+File: Images//map3d_2.png Graphic file (type png)
+<use Images//map3d_2.png>
+Package pdftex.def Info: Images//map3d_2.png  used on input line 469.
+(pdftex.def)             Requested size: 195.00414pt x 85.98471pt.
+ [16
+
  <./Images//map3d.jpg> <./Images//map3d_2.png>]
-<Images//img4.png, id=564, 1030.85126pt x 260.975pt>
+<Images//img4.png, id=1126, 1030.85126pt x 260.975pt>
 File: Images//img4.png Graphic file (type png)
 <use Images//img4.png>
-Package pdftex.def Info: Images//img4.png  used on input line 431.
+Package pdftex.def Info: Images//img4.png  used on input line 487.
 (pdftex.def)             Requested size: 433.33208pt x 85.98264pt.
 
-Overfull \hbox (5.06245pt too wide) in paragraph at lines 431--431
+Overfull \hbox (5.06245pt too wide) in paragraph at lines 487--487
  [][][] 
  []
 
-[14
+[17
 
- <./Images//img4.png>] [15
+ <./Images//img4.png>] [18
 
 ]
-<Images//control_drone.png, id=580, 658.46pt x 263.98625pt>
+<Images//control_drone.png, id=1142, 658.46pt x 263.98625pt>
 File: Images//control_drone.png Graphic file (type png)
 <use Images//control_drone.png>
-Package pdftex.def Info: Images//control_drone.png  used on input line 448.
+Package pdftex.def Info: Images//control_drone.png  used on input line 517.
 (pdftex.def)             Requested size: 281.67096pt x 112.9278pt.
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 448.
- [16
+(Font)              scaled to size 7.0pt on input line 517.
+ [19
 
  <./Images//control_drone.png>]
-<Images//architecture.png, id=590, 413.545pt x 412.54124pt>
+<Images//architecture.png, id=1153, 413.545pt x 412.54124pt>
 File: Images//architecture.png Graphic file (type png)
 <use Images//architecture.png>
-Package pdftex.def Info: Images//architecture.png  used on input line 468.
+Package pdftex.def Info: Images//architecture.png  used on input line 537.
 (pdftex.def)             Requested size: 173.33826pt x 172.91992pt.
- [17
+ [20
 
  <./Images//architecture.png>]
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
-(Font)              scaled to size 8.0pt on input line 493.
-<Images//img5.png, id=601, 493.845pt x 566.115pt>
-File: Images//img5.png Graphic file (type png)
-<use Images//img5.png>
-Package pdftex.def Info: Images//img5.png  used on input line 493.
-(pdftex.def)             Requested size: 104.00203pt x 119.21591pt.
+(Font)              scaled to size 8.0pt on input line 566.
+<Images//video-0.png, id=1164, 602.25pt x 300.12125pt>
+File: Images//video-0.png Graphic file (type png)
+<use Images//video-0.png>
+Package pdftex.def Info: Images//video-0.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-0.png> <a4,fr0>
+<Images//video-1.png, id=1169, 602.25pt x 300.12125pt>
+File: Images//video-1.png Graphic file (type png)
+<use Images//video-1.png>
+Package pdftex.def Info: Images//video-1.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-1.png>
+<a4,fr1>
+<Images//video-2.png, id=1173, 602.25pt x 300.12125pt>
+File: Images//video-2.png Graphic file (type png)
+<use Images//video-2.png>
+Package pdftex.def Info: Images//video-2.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-2.png> <a4,fr2>
+<Images//video-3.png, id=1177, 602.25pt x 300.12125pt>
+File: Images//video-3.png Graphic file (type png)
+<use Images//video-3.png>
+Package pdftex.def Info: Images//video-3.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-3.png> <a4,fr3>
+<Images//video-4.png, id=1181, 602.25pt x 300.12125pt>
+File: Images//video-4.png Graphic file (type png)
+<use Images//video-4.png>
+Package pdftex.def Info: Images//video-4.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-4.png> <a4,fr4>
+<Images//video-5.png, id=1185, 602.25pt x 300.12125pt>
+File: Images//video-5.png Graphic file (type png)
+<use Images//video-5.png>
+Package pdftex.def Info: Images//video-5.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-5.png> <a4,fr5>
+<Images//video-6.png, id=1189, 602.25pt x 300.12125pt>
+File: Images//video-6.png Graphic file (type png)
+<use Images//video-6.png>
+Package pdftex.def Info: Images//video-6.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-6.png> <a4,fr6>
+<Images//video-7.png, id=1193, 602.25pt x 300.12125pt>
+File: Images//video-7.png Graphic file (type png)
+<use Images//video-7.png>
+Package pdftex.def Info: Images//video-7.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-7.png> <a4,fr7>
+<Images//video-8.png, id=1197, 602.25pt x 300.12125pt>
+File: Images//video-8.png Graphic file (type png)
+<use Images//video-8.png>
+Package pdftex.def Info: Images//video-8.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-8.png>
+<a4,fr8>
+<Images//video-9.png, id=1201, 602.25pt x 300.12125pt>
+File: Images//video-9.png Graphic file (type png)
+<use Images//video-9.png>
+Package pdftex.def Info: Images//video-9.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-9.png> <a4,fr9>
+<Images//video-10.png, id=1205, 602.25pt x 300.12125pt>
+File: Images//video-10.png Graphic file (type png)
+<use Images//video-10.png>
+Package pdftex.def Info: Images//video-10.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-10.png> <a4,fr10>
+<Images//video-11.png, id=1209, 602.25pt x 300.12125pt>
+File: Images//video-11.png Graphic file (type png)
+<use Images//video-11.png>
+Package pdftex.def Info: Images//video-11.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-11.png> <a4,fr11>
+<Images//video-12.png, id=1213, 602.25pt x 300.12125pt>
+File: Images//video-12.png Graphic file (type png)
+<use Images//video-12.png>
+Package pdftex.def Info: Images//video-12.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-12.png> <a4,fr12>
+<Images//video-13.png, id=1217, 602.25pt x 300.12125pt>
+File: Images//video-13.png Graphic file (type png)
+<use Images//video-13.png>
+Package pdftex.def Info: Images//video-13.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-13.png> <a4,fr13>
+<Images//video-14.png, id=1221, 602.25pt x 300.12125pt>
+File: Images//video-14.png Graphic file (type png)
+<use Images//video-14.png>
+Package pdftex.def Info: Images//video-14.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-14.png> <a4,fr14>
+<Images//video-15.png, id=1225, 602.25pt x 300.12125pt>
+File: Images//video-15.png Graphic file (type png)
+<use Images//video-15.png>
+Package pdftex.def Info: Images//video-15.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-15.png> <a4,fr15>
+<Images//video-16.png, id=1229, 602.25pt x 300.12125pt>
+File: Images//video-16.png Graphic file (type png)
+<use Images//video-16.png>
+Package pdftex.def Info: Images//video-16.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-16.png> <a4,fr16>
+<Images//video-17.png, id=1233, 602.25pt x 300.12125pt>
+File: Images//video-17.png Graphic file (type png)
+<use Images//video-17.png>
+Package pdftex.def Info: Images//video-17.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-17.png>
+<a4,fr17>
+<Images//video-18.png, id=1237, 602.25pt x 300.12125pt>
+File: Images//video-18.png Graphic file (type png)
+<use Images//video-18.png>
+Package pdftex.def Info: Images//video-18.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-18.png> <a4,fr18>
+<Images//video-19.png, id=1241, 602.25pt x 300.12125pt>
+File: Images//video-19.png Graphic file (type png)
+<use Images//video-19.png>
+Package pdftex.def Info: Images//video-19.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-19.png>
+<a4,fr19>
+<Images//video-20.png, id=1245, 602.25pt x 300.12125pt>
+File: Images//video-20.png Graphic file (type png)
+<use Images//video-20.png>
+Package pdftex.def Info: Images//video-20.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-20.png> <a4,fr20>
+<Images//video-21.png, id=1249, 602.25pt x 300.12125pt>
+File: Images//video-21.png Graphic file (type png)
+<use Images//video-21.png>
+Package pdftex.def Info: Images//video-21.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-21.png>
+<a4,fr21>
+<Images//video-22.png, id=1253, 602.25pt x 300.12125pt>
+File: Images//video-22.png Graphic file (type png)
+<use Images//video-22.png>
+Package pdftex.def Info: Images//video-22.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-22.png> <a4,fr22>
+<Images//video-23.png, id=1257, 602.25pt x 300.12125pt>
+File: Images//video-23.png Graphic file (type png)
+<use Images//video-23.png>
+Package pdftex.def Info: Images//video-23.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-23.png>
+<a4,fr23>
+<Images//video-24.png, id=1261, 602.25pt x 300.12125pt>
+File: Images//video-24.png Graphic file (type png)
+<use Images//video-24.png>
+Package pdftex.def Info: Images//video-24.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-24.png> <a4,fr24>
+<Images//video-25.png, id=1265, 602.25pt x 300.12125pt>
+File: Images//video-25.png Graphic file (type png)
+<use Images//video-25.png>
+Package pdftex.def Info: Images//video-25.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-25.png>
+<a4,fr25>
+<Images//video-26.png, id=1269, 602.25pt x 300.12125pt>
+File: Images//video-26.png Graphic file (type png)
+<use Images//video-26.png>
+Package pdftex.def Info: Images//video-26.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-26.png> <a4,fr26>
+<Images//video-27.png, id=1273, 602.25pt x 300.12125pt>
+File: Images//video-27.png Graphic file (type png)
+<use Images//video-27.png>
+Package pdftex.def Info: Images//video-27.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-27.png>
+<a4,fr27>
+<Images//video-28.png, id=1277, 602.25pt x 300.12125pt>
+File: Images//video-28.png Graphic file (type png)
+<use Images//video-28.png>
+Package pdftex.def Info: Images//video-28.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-28.png> <a4,fr28>
+<Images//video-29.png, id=1281, 602.25pt x 300.12125pt>
+File: Images//video-29.png Graphic file (type png)
+<use Images//video-29.png>
+Package pdftex.def Info: Images//video-29.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-29.png>
+<a4,fr29>
+<Images//video-30.png, id=1285, 602.25pt x 300.12125pt>
+File: Images//video-30.png Graphic file (type png)
+<use Images//video-30.png>
+Package pdftex.def Info: Images//video-30.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-30.png> <a4,fr30>
+<Images//video-31.png, id=1289, 602.25pt x 300.12125pt>
+File: Images//video-31.png Graphic file (type png)
+<use Images//video-31.png>
+Package pdftex.def Info: Images//video-31.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-31.png>
+<a4,fr31>
+<Images//video-32.png, id=1293, 602.25pt x 300.12125pt>
+File: Images//video-32.png Graphic file (type png)
+<use Images//video-32.png>
+Package pdftex.def Info: Images//video-32.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-32.png> <a4,fr32>
+<Images//video-33.png, id=1297, 602.25pt x 300.12125pt>
+File: Images//video-33.png Graphic file (type png)
+<use Images//video-33.png>
+Package pdftex.def Info: Images//video-33.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-33.png>
+<a4,fr33>
+<Images//video-34.png, id=1301, 602.25pt x 300.12125pt>
+File: Images//video-34.png Graphic file (type png)
+<use Images//video-34.png>
+Package pdftex.def Info: Images//video-34.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-34.png> <a4,fr34>
+<Images//video-35.png, id=1305, 602.25pt x 300.12125pt>
+File: Images//video-35.png Graphic file (type png)
+<use Images//video-35.png>
+Package pdftex.def Info: Images//video-35.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-35.png>
+<a4,fr35>
+<Images//video-36.png, id=1309, 602.25pt x 300.12125pt>
+File: Images//video-36.png Graphic file (type png)
+<use Images//video-36.png>
+Package pdftex.def Info: Images//video-36.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-36.png> <a4,fr36>
+<Images//video-37.png, id=1313, 602.25pt x 300.12125pt>
+File: Images//video-37.png Graphic file (type png)
+<use Images//video-37.png>
+Package pdftex.def Info: Images//video-37.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-37.png>
+<a4,fr37>
+<Images//video-38.png, id=1317, 602.25pt x 300.12125pt>
+File: Images//video-38.png Graphic file (type png)
+<use Images//video-38.png>
+Package pdftex.def Info: Images//video-38.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-38.png> <a4,fr38>
+<Images//video-39.png, id=1321, 602.25pt x 300.12125pt>
+File: Images//video-39.png Graphic file (type png)
+<use Images//video-39.png>
+Package pdftex.def Info: Images//video-39.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-39.png>
+<a4,fr39>
+<Images//video-40.png, id=1325, 602.25pt x 300.12125pt>
+File: Images//video-40.png Graphic file (type png)
+<use Images//video-40.png>
+Package pdftex.def Info: Images//video-40.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-40.png> <a4,fr40>
+<Images//video-41.png, id=1329, 602.25pt x 300.12125pt>
+File: Images//video-41.png Graphic file (type png)
+<use Images//video-41.png>
+Package pdftex.def Info: Images//video-41.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-41.png>
+<a4,fr41>
+<Images//video-42.png, id=1333, 602.25pt x 300.12125pt>
+File: Images//video-42.png Graphic file (type png)
+<use Images//video-42.png>
+Package pdftex.def Info: Images//video-42.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-42.png> <a4,fr42>
+<Images//video-43.png, id=1337, 602.25pt x 300.12125pt>
+File: Images//video-43.png Graphic file (type png)
+<use Images//video-43.png>
+Package pdftex.def Info: Images//video-43.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-43.png>
+<a4,fr43>
+<Images//video-44.png, id=1341, 602.25pt x 300.12125pt>
+File: Images//video-44.png Graphic file (type png)
+<use Images//video-44.png>
+Package pdftex.def Info: Images//video-44.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-44.png> <a4,fr44>
+<Images//video-45.png, id=1345, 602.25pt x 300.12125pt>
+File: Images//video-45.png Graphic file (type png)
+<use Images//video-45.png>
+Package pdftex.def Info: Images//video-45.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-45.png>
+<a4,fr45>
+<Images//video-46.png, id=1349, 602.25pt x 300.12125pt>
+File: Images//video-46.png Graphic file (type png)
+<use Images//video-46.png>
+Package pdftex.def Info: Images//video-46.png  used on input line 566.
+(pdftex.def)             Requested size: 602.24852pt x 300.12051pt.
+ <./Images//video-46.png> <a4,fr46> [21
 
-Underfull \hbox (badness 10000) in paragraph at lines 493--493
-
- []
-
-[18
-
- <./Images//img5.png>]
+]
 File: Images//map3d.jpg Graphic file (type jpg)
 <use Images//map3d.jpg>
-Package pdftex.def Info: Images//map3d.jpg  used on input line 527.
+Package pdftex.def Info: Images//map3d.jpg  used on input line 600.
 (pdftex.def)             Requested size: 194.99364pt x 73.69702pt.
 File: Images//map3d_2.png Graphic file (type png)
 <use Images//map3d_2.png>
-Package pdftex.def Info: Images//map3d_2.png  used on input line 527.
+Package pdftex.def Info: Images//map3d_2.png  used on input line 600.
 (pdftex.def)             Requested size: 195.00414pt x 73.70088pt.
 
-Overfull \vbox (53.52428pt too high) detected at line 527
+Overfull \vbox (53.52428pt too high) detected at line 600
  []
 
-[19
+[22
 
 ] (./template.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [20
+) [23
 
 ]
-<Images//exploracion.png, id=631, 618.31pt x 211.79124pt>
+<Images//exploracion.png, id=1433, 618.31pt x 211.79124pt>
 File: Images//exploracion.png Graphic file (type png)
 <use Images//exploracion.png>
-Package pdftex.def Info: Images//exploracion.png  used on input line 550.
+Package pdftex.def Info: Images//exploracion.png  used on input line 623.
 (pdftex.def)             Requested size: 170.71652pt x 58.47383pt.
- [21
+ [24
 
  <./Images//exploracion.png>]
 File: Images//exploracion.png Graphic file (type png)
 <use Images//exploracion.png>
-Package pdftex.def Info: Images//exploracion.png  used on input line 550.
+Package pdftex.def Info: Images//exploracion.png  used on input line 623.
 (pdftex.def)             Requested size: 170.71652pt x 58.47383pt.
- [22
+ [25
 
-] [23
+] [26
 
-] [24
+] [27
 
 ]
 LaTeX Font Info:    Font shape `OT1/opensans-TLF/m/it' will be
-(Font)              scaled to size 7.0pt on input line 580.
-<Images//maxresdefault.jpg, id=661, 1284.8pt x 722.7pt>
+(Font)              scaled to size 7.0pt on input line 653.
+<Images//maxresdefault.jpg, id=1463, 1284.8pt x 722.7pt>
 File: Images//maxresdefault.jpg Graphic file (type jpg)
 <use Images//maxresdefault.jpg>
-Package pdftex.def Info: Images//maxresdefault.jpg  used on input line 580.
+Package pdftex.def Info: Images//maxresdefault.jpg  used on input line 653.
 (pdftex.def)             Requested size: 216.67201pt x 121.87592pt.
 
-Overfull \hbox (4.27783pt too wide) in paragraph at lines 580--580
+Overfull \hbox (4.27783pt too wide) in paragraph at lines 653--653
 [][]$[]$ 
- []
-
-[25
-
- <./Images//maxresdefault.jpg>]
-<Images//estrategia.png, id=675, 151.56625pt x 302.12875pt>
-File: Images//estrategia.png Graphic file (type png)
-<use Images//estrategia.png>
-Package pdftex.def Info: Images//estrategia.png  used on input line 600.
-(pdftex.def)             Requested size: 86.66748pt x 172.76378pt.
- [26
-
- <./Images//estrategia.png>]
-<Images//arquitectura.png, id=683, 879.285pt x 462.72874pt>
-File: Images//arquitectura.png Graphic file (type png)
-<use Images//arquitectura.png>
-Package pdftex.def Info: Images//arquitectura.png  used on input line 608.
-(pdftex.def)             Requested size: 426.79134pt x 224.59969pt.
-
-Overfull \vbox (4.17017pt too high) detected at line 608
- []
-
-[27
-
- <./Images//arquitectura.png>]
-<Images//foldable-drone.png, id=691, 707.64375pt x 348.55219pt>
-File: Images//foldable-drone.png Graphic file (type png)
-<use Images//foldable-drone.png>
-Package pdftex.def Info: Images//foldable-drone.png  used on input line 662.
-(pdftex.def)             Requested size: 216.67201pt x 106.72043pt.
-
-Overfull \hbox (4.27783pt too wide) in paragraph at lines 662--662
-[][]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 662--662
-[]$\OT1/pcr/m/n/6 https : / / www . therobotreport . com /
  []
 
 [28
 
+ <./Images//maxresdefault.jpg>]
+<Images//estrategia.png, id=1476, 151.56625pt x 302.12875pt>
+File: Images//estrategia.png Graphic file (type png)
+<use Images//estrategia.png>
+Package pdftex.def Info: Images//estrategia.png  used on input line 673.
+(pdftex.def)             Requested size: 86.66748pt x 172.76378pt.
+ [29
+
+ <./Images//estrategia.png>]
+<Images//arquitectura.png, id=1484, 879.285pt x 462.72874pt>
+File: Images//arquitectura.png Graphic file (type png)
+<use Images//arquitectura.png>
+Package pdftex.def Info: Images//arquitectura.png  used on input line 681.
+(pdftex.def)             Requested size: 426.79134pt x 224.59969pt.
+
+Overfull \vbox (4.17017pt too high) detected at line 681
+ []
+
+[30
+
+ <./Images//arquitectura.png>]
+<Images//foldable-drone.png, id=1492, 707.64375pt x 348.55219pt>
+File: Images//foldable-drone.png Graphic file (type png)
+<use Images//foldable-drone.png>
+Package pdftex.def Info: Images//foldable-drone.png  used on input line 735.
+(pdftex.def)             Requested size: 216.67201pt x 106.72043pt.
+
+Overfull \hbox (4.27783pt too wide) in paragraph at lines 735--735
+[][]$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--735
+[]$\OT1/pcr/m/n/6 https : / / www . therobotreport . com /
+ []
+
+[31
+
  <./Images//foldable-drone.png>] (./template.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [29
+) [32
 
-] [30
+] [33
 
 ] (./template.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-) [31
+) [34
 
-] [32
+] [35
 
 ]
-<Images//ros_1.png, id=734, 1606.0pt x 903.375pt>
+<Images//ros_1.png, id=1536, 1606.0pt x 903.375pt>
 File: Images//ros_1.png Graphic file (type png)
 <use Images//ros_1.png>
-Package pdftex.def Info: Images//ros_1.png  used on input line 688.
+Package pdftex.def Info: Images//ros_1.png  used on input line 761.
 (pdftex.def)             Requested size: 325.00801pt x 182.80838pt.
- [33
+ [36
 
  <./Images//ros_1.png>]
-<Images//visual.png, id=741, 622.325pt x 542.025pt>
+<Images//visual.png, id=1543, 622.325pt x 542.025pt>
 File: Images//visual.png Graphic file (type png)
 <use Images//visual.png>
-Package pdftex.def Info: Images//visual.png  used on input line 696.
+Package pdftex.def Info: Images//visual.png  used on input line 769.
 (pdftex.def)             Requested size: 247.00926pt x 215.13548pt.
- [34
+ [37
 
  <./Images//visual.png>]
 LaTeX Font Info:    Trying to load font information for TS1+opensans-TLF on inp
-ut line 705.
+ut line 778.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/opensans/TS1opensans-TLF.fd
+(/usr/share/texlive/texmf-dist/tex/latex/opensans/TS1opensans-TLF.fd
 File: TS1opensans-TLF.fd 2019/06/24 Font definitions for TS1/opensans-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/opensans-TLF/m/n' will be
-(Font)              scaled to size 10.95pt on input line 705.
+(Font)              scaled to size 10.95pt on input line 778.
+ [38
 
-[35
-
-] (./template.bbl
+]
+(./template.bbl
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
 3.
-
-(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
-)) [36
+))
+[39
 
-] [37
+] [40
 
 
 ]
@@ -2147,8 +2975,7 @@ File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 \tf@snm=\write8
 \openout8 = `template.snm'.
 
-
-(./template.aux
+ (./template.aux
 LaTeX Info: Redefining \. on input line 30.
 LaTeX Info: Redefining \% on input line 30.
 )
@@ -2156,29 +2983,31 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: 3D5D4C897DA73F36B088767A910C988D;656.
  ) 
 Here is how much of TeX's memory you used:
- 34526 strings out of 478268
- 684801 string characters out of 5846348
- 1029181 words of memory out of 5000000
- 51825 multiletter control sequences out of 15000+600000
- 497763 words of font info for 110 fonts, out of 8000000 for 9000
+ 36556 strings out of 478287
+ 737151 string characters out of 5849289
+ 1061068 words of memory out of 5000000
+ 53696 multiletter control sequences out of 15000+600000
+ 503722 words of font info for 115 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,131p,608b,895s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/t
-exlive/2022/texmf-dist/fonts/enc/dvips/opensans/a_nvvucy.enc}{/usr/local/texliv
-e/2022/texmf-dist/fonts/enc/dvips/opensans/a_iz27ck.enc}{/usr/local/texlive/202
-2/texmf-dist/fonts/enc/dvips/opensans/a_n3lhbv.enc}</usr/local/texlive/2022/tex
-mf-dist/fonts/type1/ascender/opensans/OpenSans-Bold.pfb></usr/local/texlive/202
-2/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Italic.pfb></usr/local/texl
-ive/2022/texmf-dist/fonts/type1/ascender/opensans/OpenSans-Regular.pfb></usr/lo
-cal/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/loc
-al/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/
-texlive/2022/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/
-2022/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on template.pdf (37 pages, 7231781 bytes).
+ 128i,14n,131p,608b,895s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texliv
+e/texmf-dist/fonts/enc/dvips/opensans/a_nvvucy.enc}{/usr/share/texlive/texmf-di
+st/fonts/enc/dvips/opensans/a_iz27ck.enc}{/usr/share/texlive/texmf-dist/fonts/e
+nc/dvips/opensans/a_n3lhbv.enc}</usr/share/texlive/texmf-dist/fonts/type1/ascen
+der/opensans/OpenSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/ascen
+der/opensans/OpenSans-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/asc
+ender/opensans/OpenSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/urw/palatino/uplr8a.pfb>
+Output written on template.pdf (40 pages, 14381490 bytes).
 PDF statistics:
- 852 PDF objects out of 1000 (max. 8388607)
- 606 compressed objects within 7 object streams
- 97 named destinations out of 1000 (max. 500000)
- 729 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1666 PDF objects out of 1728 (max. 8388607)
+ 1138 compressed objects within 12 object streams
+ 103 named destinations out of 1000 (max. 500000)
+ 2176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
