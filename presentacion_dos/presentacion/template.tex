@@ -198,7 +198,7 @@
 \author[]{Luis Alberto Ballado Aradias\\[\baselineskip]
   \small{{Asesores:} \\
     \and\\Dr. José Gabriel Ramírez-Torres
-    \and\\Dr. Eduardo Rodriguez-Tello }}
+    \and\\Dr. Eduardo Arturo Rodriguez-Tello }}
 
 \institute[CINVESTAV]{
   CINVESTAV UNIDAD TAMAULIPAS \\
@@ -316,7 +316,7 @@
 
   \begin{minipage}{0.47\textwidth}
     
-    \small Un VANT de cuatro rotores cuenta con seis grados de libertar (DoF), tres coordenadas lineales x,y,z y tres coordenadas angulares y cuatro entradas $(u_1,u_2,u_3,u_4)$ o variables de control.\\
+    \small Un VANT de cuatro rotores cuenta con seis grados de libertar (tres coordenadas lineales x,y,z y tres coordenadas angulares) y cuatro entradas $(u_1,u_2,u_3,u_4)$ o variables de control.\\
     
     Estados del VANT \\
     $(x,y,z,\phi,\theta,\Psi,\dot{x},\dot{y},\dot{z},\dot{\phi},\dot{\theta},\dot{\Psi})^\mathrm{T}$
@@ -504,7 +504,7 @@
     
     \begin{figure}[h]
       \includegraphics[width=0.2\textwidth,height=0.3\textheight]{hgrid}
-      {\tiny \caption{Hash Grid}}
+      {\tiny \caption{HGrid}}
     \end{figure}
     &
     \begin{figure}[h]
@@ -521,7 +521,7 @@
 \begin{frame}{Representación del Medio Ambiente - ¿Dónde estoy?}
 
   \begin{itemize}
-  \item Hash Grid (HGrid)
+  \item Hierarchical Grid (HGrid)
     \begin{itemize}
     \item Funciona bien para consultas de vecinos cercanos y búsquedas en un espacio tridimensional.
     \item Similar a la descomposición de un octree, pero su implementación con arrays le permite una complejidad $O(1)$ para consultas.
