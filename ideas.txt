@@ -1,3 +1,63 @@
+https://www.orkestra.deusto.es/es/actualidad/noticias-eventos/beyondcompetitiveness/1379-estrategias-colaboracion-exploratoria-graphenea-orkestra-como-alcanzar-situacion-win-to-win
+http://dia.fi.upm.es/~jdlope/docs/delope99.pdf
+https://core.ac.uk/download/pdf/31010586.pdf
+https://webthesis.biblio.polito.it/20681/1/tesi.pdf
+https://facilethings.com/blog/es/exploration-vs-exploitation
+https://www.bbc.com/mundo/noticias-56102529
+https://mars.nasa.gov/mer/mission/overview/
+https://www.eluniverso.com/noticias/internacional/la-historia-de-todos-los-robots-exploradores-de-la-nasa-en-marte-nota/
+https://www.robotexplorador.com/
+
+http://www.cs.cmu.edu/~motionplanning/research_links_Fall06.html#Kalman
+http://www.cs.cmu.edu/~motionplanning/research_links_Fall06.html#Latombe
+
+https://public.websites.umich.edu/~johannb/Papers/pos96rep.pdf
+https://deepblue.lib.umich.edu/bitstream/handle/2027.42/34938/2_ftp.pdf
+http://biorobotics.ri.cmu.edu/education/index.php
+http://www.cs.cmu.edu/~motionplanning/
+https://lavalle.pl/planning/
+
+https://lavalle.pl/planning/courses.html
+https://lavalle.pl/planning/booka4.pdf
+http://www.cs.cmu.edu/~motionplanning/book_outline_papers.html
+
+https://arxiv.org/pdf/1509.03388.pdf
+https://dergipark.org.tr/tr/download/article-file/661995
+https://par.nsf.gov/servlets/purl/10320068
+https://arxiv.org/pdf/1809.00037.pdf
+https://ccc.inaoep.mx/~mdprl/documentos/12.pdf
+
+https://www.cs.cmu.edu/~motionplanning/lecture/Chap2-Bug-Alg_howie.pdf
+http://www.cs.cmu.edu/~motionplanning/research_links_Fall06.html#Fox
+http://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated1/thrun.maploc.pdf
+http://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated4/thrun_prob_algorithms.pdf
+http://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated1/fox-multi-mcl-journal-00-small.pdf
+http://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated4/fox_particle_filter.pdf
+http://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated1/fox_prob_robot_mapping.pdf
+http://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated2/howard_coop_localization_mapping.pdf
+http://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated4/fox_active_loc.pdf
+http://www.cs.cmu.edu/~motionplanning/papers/sbp_papers/integrated1/fox_collab_multirobot_localization.pdf
+http://www.cs.cmu.edu/~motionplanning/research_links_Fall06.html#Kavraki
+http://www.cs.cmu.edu/~motionplanning/research_links_Fall06.html#Overmars
+http://www.cs.cmu.edu/~motionplanning/research_links_Fall06.html#Nebot
+http://www.cs.cmu.edu/~motionplanning/lecture/lecture.html
+http://www.cs.cmu.edu/~motionplanning/lecture/AppH-astar-dstar_howie.pdf
+http://www.cs.cmu.edu/~motionplanning/lecture/Chap5-RoadMap-Methods_howie.pdf
+https://www.mathworks.com/help/symbolic/derive-quadrotor-dynamics-for-nonlinearMPC.html
+
+https://docs.ufpr.br/~danielsantos/ProbabilisticRobotics.pdf
+https://www.cimat.mx/~jortega/MaterialDidactico/modestoI16/ME1texto.pdf
+https://web.stanford.edu/group/sisl/k12/optimization/MO-unit1-pdfs/1.1optimization.pdf
+https://sites.math.washington.edu//~burke/crs/408/notes/nlp/nlp_intro.pdf
+http://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec3_gh.pdf
+
+Spatial Planning: A Configuration Space
+Approach
+
+Probabilistic Roadmaps for Path Planning in
+High-Dimensional Configuration Spaces
+
+
 Aprender a utilizar focus en las diapositivas latex
 
 - ¿Qué es una estrategia para nosotros en el tema de la tesis?
