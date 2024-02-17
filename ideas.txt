@@ -1,0 +1,100 @@
+Aprender a utilizar focus en las diapositivas latex
+
+- ¿Qué es una estrategia para nosotros en el tema de la tesis?
+
+- ¿Qué se necesita para hacer una exploración?
+- Localización y comenzar a construir el mapa
+- La localización inicia en el origen del robot y comienza a crear un modelo del entorno.
+
+- ¿Qué veo?,¿Hay más cosas que cubrir?
+
+- Path Planning problema NP-Hard o CSPACE-Hard por estar en un espacio de configuraciones
+- El problema de asignación de tareas a los robots es un problema O(n!) donde diversos algoritmos bajan su complejidad a O(n)^3 pero aún así no deja de ser una tarea computacionalmente costosa para realizar.
+-  Diferencias de las tres C's (Cordinación, Colaboración y Cooperación
+
+I'will find you in the morning sun and when the night is new I'll be looking at the moon but I'll be seeing you
+
+
+La estrategia consiste en saber lo que queremos y, a partir de ahí, dar los pasos necesarios para conseguirlo.
+
+- Proponer mapa conceptual de tipos de robots
+
+Hacer un árbol de exploración de profundidad de 5 nodos
+
+Diferencias entre Metodo - Estrategia
+
+Dentro de los documentos debo de definir los problemas formalmente (Todos los necesarios para resolver una exploración).
+
+Clasificar los algoritmos de path planning ó conocer cual de todos ellos es mas costoso (uno de otro)
+PRM es más costoso
+RRT tiende a ser más eficiente
+
+RRT* en que se basa
+
+BIT*
+
+Buscar los algoritmos derivados de A*?????
+
+************* PUNTOS A MEJORAR *************
+#  ·Explicar mejor la motivación           #
+#  ·Usar videos para mostrar cosas del SOA #
+#  ·Usar los cambios de pausa y aparecer   #
+#  cosas conforme se avanza                #
+#  ·Conceptualizar los diferentes          #
+#  problemas                               #
+#  ·Definir bien los plantamientos del     #
+#  problema                                #
+#  ·Plantear nuevos objetivos              #
+#  ·Plantear nuevas preguntas de           #
+#  investigación                           #
+#  ·Explicar con el diagrama a bloques     #
+   de un VANT autonomo                     #
+#  ·Mencionar Moravek paradox              #
+#  ·Hacer animacion para los 6DOF del VANT #
+********************************************
+
+SLAM has the robotic community busy for 20 years
+- Davide Scaramuza
+
+Robotics is the science of perceiving and manipulating the physical world through computer-controlled mechanical devices
+
+Robotics systems have in common that they are situaded in the physical wold, perceive their environments through sensors, and manipulate their environment through things that move.
+
+As a result, robotics is moving into areas where sensor inputs becomes increasingly important, and where robot software has to be robust enough to cope with range of situations-- often too many to anticipate them all. Robotics, thus, is increasingly becoming a software science, where the goal is to develop robust software that enables robots to withstand the numerous challenges arising in unstructured and dynamics environments.
+
+The key idea of probabilistic robotics is to represent uncertainty explicity, using the calculus of probability theory. Put differently, instead of relying on a single "best guess" as to what might be the case in world, probabilistic algorithms represent information by probability distributions over a whole space of possible hypotheses.
+
+By basing control decisions on probabilistic information, these algorithms degrade nicely in the face of various sources of uncertainty.
+
+Localization is the problem of estimating a robot's coordinates in an external reference frame from sensor data, using a map of the environment
+
+In the probabilistic paradigm, the robot's momentary estimate (also called belief) is represented by a probability density function over the space of all locations.
+
+In fact, certain probabilistic algorithms are currently the only know working solutions to hard robotic estimation problems
+
+Major trends:
+
+70's - Classical (deliberative)
+mid 80's  - reactive approach,
+mid 90's  - Hybrid approach,
+Late 90's - Probabilistic robotics
+
+Probabilistic Robotics can be traced back to mid 60's with the kalman filter
+
+
+- Probabilistic Robotics Book 2000
+
+
+The robot is the ultimate mechatronic system.
+
+The set of all configuration is called the configuration space.
+
+An object is said to have n degrees of freedom (DOF) if its configuration can be minimally specified by n parameters. Thus, the number of DOF is equal to the dimension of the configuration space.
+
+A rigid object in three-dimensional space has six DOF: three for positioning and three for orientation
+
+The State Space - The state of a robot is a set of variables that, together with a description of the dynamics and future inputs, is sufficient to determine the future time response of the robot.
+
+In our case, the dynamics are Newtonian, and can be specified by generalizing the familiar equation F=ma 
+
+- Robot Modeling and Control Mark W. Spong book
