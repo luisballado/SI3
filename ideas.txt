@@ -158,3 +158,53 @@ The State Space - The state of a robot is a set of variables that, together with
 In our case, the dynamics are Newtonian, and can be specified by generalizing the familiar equation F=ma 
 
 - Robot Modeling and Control Mark W. Spong book
+
+Las diferencias entre collaboration y coordination en el trabajo
+
+
+framework such as Octomap use ray casting for updating the occupancy probability of all voxels along with the rays.
+
+
+$ roscore
+$ roslaunch exploration_manager rviz.launch
+$ roslaunch exploration_manager
+            swarm_exploration.launch
+	    model:={model_name}
+	    drone_num:=${num_drones}
+	    planner_type:=fame
+
+
+- Node -
+
+map_generator/global_cloud
+
+
+dentro del archivo fast_exploration_fsm.cpp
+esta el control de FAST
+
+Drone %d collide with drone %d
+
+Total time:
+
+Total time too long!!!
+
+############# RACER ##############
+src/exploration_node.cpp
+src/fast_exploration_fsm.cpp
+src/fast_exploration_manager.cpp
+##################################
+
+############# FAME ###############
+src/fame_node.cpp
+src/fame_exploration_fsm.cpp
+src/fame_exploration_manager.cpp
+src/role_assigner.cpp
+src/collaboration_assigner.cpp
+##################################
+
+
+El nodo llamado exploration_node.cpp es de RACER
+El nodo llamado fame_node.cpp es el de Bartolomei
+
+
+
