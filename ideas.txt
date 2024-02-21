@@ -182,12 +182,16 @@ map_generator/global_cloud
 dentro del archivo fast_exploration_fsm.cpp
 esta el control de FAST
 
+init plan.
+start flight
+Plan fail (drone 1)
+Drone 3 collide with drone 1
 Drone %d collide with drone %d
-
 Total time:
-
 Total time too long!!!
-
+No coverable frontier.
+No frontiers for agent 1
+no odom
 ############# RACER ##############
 src/exploration_node.cpp
 src/fast_exploration_fsm.cpp
@@ -207,4 +211,4 @@ El nodo llamado exploration_node.cpp es de RACER
 El nodo llamado fame_node.cpp es el de Bartolomei
 
 
-
+src/fast_multi_robot_exploration/swarm_exploration/exploration_manager/src/fast_exploration_fsm.cpp
